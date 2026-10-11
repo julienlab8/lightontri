@@ -1,0 +1,33 @@
+# LIGHT ON TRI
+
+> Trois triathlons organisés par LIGHT ON en 2027 : Woippy** (dimanche 16 mai, Woippy Plage, Moselle), Pierre-Percée*** (week-end du vendredi 11 au dimanche 13 juin, lac de Pierre-Percée, Vosges) et Madine*** (week-end du samedi 18 au dimanche 19 septembre, lac de Madine, Meuse). Formats : S*, M**, L*** (du format découverte au grand format), plus Kids / RUN 7 KM à Madine.
+
+Site officiel : https://www.lightontri.com/ . En cas de doute, les pages HTML du site font foi.
+
+- Saison 2027 : 3 épreuves distinctes, chacune avec son propre lieu, ses propres formats et son propre programme. Ne jamais confondre les horaires ou parcours d'une épreuve avec ceux d'une autre.
+- Woippy** - dimanche 16 mai 2027, Woippy Plage (Moselle) : S* et M**.
+- Pierre-Percée*** - vendredi 11 (retrait dossards) au dimanche 13 juin 2027, lac de Pierre-Percée (Vosges) : S*, M** et L***. Programme détaillé publié au règlement (Article 6). Un format XS était annoncé dans le règlement du 07/10/2026 mais n'est finalement pas proposé (confirmé par l'organisation).
+- Madine*** - samedi 18 et dimanche 19 septembre 2027, lac de Madine (Meuse) : S*, M**, L***, Kids et RUN 7 KM. Édition 2026 déjà disputée : photos et témoignages de 2026 disponibles en contenu rétrospectif uniquement (pas le programme 2027).
+- Inscriptions 2027 : pas encore ouvertes à ce stade, aucune date de lancement communiquée. Les boutons « S'inscrire » du site sont visuellement désactivés tant qu'aucun lien réel n'existe.
+- Formats : uniquement « S* », « M** », « L*** », « Mini-Kids », « Kids » et « RUN 7 KM ». Les étoiles indiquent le niveau du format triathlon ; un événement porte le nombre d'étoiles de son plus grand format.
+- Tarifs 2027 (règlement) : L*** 119€/134€ selon période, M** 59€/69€, S* 34€/39€, Kids 10€.
+- Certificat médical obligatoire de moins d'un an. Combinaison néoprène obligatoire si l'eau est sous 16°C. Bonnet fourni par l'organisation obligatoire. Puce de chronométrage à la cheville gauche.
+- Organisateur : LIGHT ON (Association Woippy Triathlon, Woippy, Moselle). Directeur de course : Julien Labdant. Contact : hello@lightontri.com, 06 37 08 97 57.
+
+## Pages principales
+
+- [Accueil](https://www.lightontri.com/index.md): les trois épreuves de la saison 2027 en bref, les formats, des retours de participants Madine 2026.
+- [Les formats](https://www.lightontri.com/courses.md): comparatif S* / M** / L*** (natation, vélo, course à pied), détail de chaque format.
+- [Préparer sa venue](https://www.lightontri.com/infos.md): inscriptions, premier triathlon, matériel et règles de course, FAQ.
+- [LIGHT ON TRI Woippy**](https://www.lightontri.com/evenement-woippy.md): programme, lieu et formats de l'épreuve du 16 mai 2027.
+- [LIGHT ON TRI Pierre-Percée***](https://www.lightontri.com/evenement-pierre-percee.md): programme du week-end du 11 au 13 juin 2027, lieu et formats.
+- [LIGHT ON TRI Madine***](https://www.lightontri.com/evenement-madine.md): le grand final de saison, week-end du 18 au 19 septembre 2027, lieu et formats.
+- [Règlement 2027](https://www.lightontri.com/reglement.md): règlement officiel des trois épreuves (catégories, certificat médical, matériel, horaires, annulation, remboursement).
+- [Résultats](https://www.lightontri.com/resultats.md): les classements 2027 seront publiés ici après chaque épreuve ; retour en attendant sur l'édition Madine 2026.
+
+## Optional
+
+- [Photos](https://www.lightontri.com/medias.md): une sélection de photos de l'édition Madine 2026.
+- [Bénévoles, partenaires et presse](https://www.lightontri.com/communaute.md): devenir bénévole du LIGHT ON Crew, partenaire ou contact presse.
+- [Actualités](https://www.lightontri.com/actualites.md): annonces de l'organisation.
+- [Mentions légales et confidentialité](https://www.lightontri.com/mentions-legales.html): éditeur, hébergeur, données personnelles.

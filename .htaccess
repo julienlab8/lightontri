@@ -1,0 +1,77 @@
+# Types de fichiers modernes
+AddType image/avif .avif
+AddType image/webp .webp
+AddType font/woff2 .woff2
+AddType text/markdown .md
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .md .txt
+
+# Page d'erreur LIGHT ON
+ErrorDocument 404 /404.html
+
+# Fichiers internes du dépôt : jamais servis
+<FilesMatch "^(CLAUDE|README)\.md$">
+  Require all denied
+</FilesMatch>
+RedirectMatch 404 ^/tools/
+
+# Cache : les pages doivent toujours être revérifiées auprès du serveur.
+# Sans cette règle, les navigateurs gardent les pages HTML en cache "au jugé"
+# et peuvent afficher une ancienne version (c'est ce qui masquait les classements).
+# Avec "no-cache", le navigateur revérifie à chaque visite : réponse 304 très
+# légère si rien n'a changé, sinon il récupère la nouvelle page. Personne ne
+# reste bloqué sur une vieille version. Les fichiers statiques (CSS/JS/images)
+# ne sont pas concernés : ils sont déjà versionnés par "?v=".
+<IfModule mod_headers.c>
+  <FilesMatch "\.(html|md|txt|xml)$">
+    Header set Cache-Control "no-cache, must-revalidate"
+  </FilesMatch>
+  # L'index de recherche est régénéré avec le contenu : il doit être revérifié
+  # à chaque fois (304 léger si rien n'a changé) pour ne pas servir un index
+  # périmé après l'ajout d'une page ou d'un texte. Une version par langue
+  # (search-index.json, search-index-en.json, search-index-de.json).
+  <FilesMatch "^search-index(-(en|de))?\.json$">
+    Header set Cache-Control "no-cache, must-revalidate"
+  </FilesMatch>
+</IfModule>
+
+# Versions Markdown des pages (llms.txt v2) : la page HTML reste l'adresse officielle pour les moteurs
+<IfModule mod_headers.c>
+  <Files "index.md">
+    Header set Link "<https://www.lightontrail.com/>; rel=canonical"
+  </Files>
+  <Files "courses.md">
+    Header set Link "<https://www.lightontrail.com/courses.html>; rel=canonical"
+  </Files>
+  <Files "evenement.md">
+    Header set Link "<https://www.lightontrail.com/evenement.html>; rel=canonical"
+  </Files>
+  <Files "infos.md">
+    Header set Link "<https://www.lightontrail.com/infos.html>; rel=canonical"
+  </Files>
+  <Files "reglement.md">
+    Header set Link "<https://www.lightontrail.com/reglement.html>; rel=canonical"
+  </Files>
+  <Files "resultats.md">
+    Header set Link "<https://www.lightontrail.com/resultats.html>; rel=canonical"
+  </Files>
+  <Files "communaute.md">
+    Header set Link "<https://www.lightontrail.com/communaute.html>; rel=canonical"
+  </Files>
+  <Files "actualites.md">
+    Header set Link "<https://www.lightontrail.com/actualites.html>; rel=canonical"
+  </Files>
+</IfModule>
+
+# Une seule adresse officielle : https://www.lightontrail.com/
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^lightontrail\.com$ [NC]
+RewriteRule ^(.*)$ https://www.lightontrail.com/$1 [R=301,L]
+RewriteCond %{THE_REQUEST} \s/+index\.html[\s?] [NC]
+RewriteRule ^index\.html$ https://www.lightontrail.com/ [R=301,L]
+RewriteCond %{THE_REQUEST} \s/+en/index\.html[\s?] [NC]
+RewriteRule ^en/index\.html$ https://www.lightontrail.com/en/ [R=301,L]
+RewriteCond %{THE_REQUEST} \s/+de/index\.html[\s?] [NC]
+RewriteRule ^de/index\.html$ https://www.lightontrail.com/de/ [R=301,L]
+</IfModule>

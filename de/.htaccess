@@ -1,0 +1,2 @@
+# Localised 404 for the German subtree (inherits the rest from the root .htaccess)
+ErrorDocument 404 /de/404.html
