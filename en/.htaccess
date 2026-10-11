@@ -1,2 +1,0 @@
-# Localised 404 for the English subtree (inherits the rest from the root .htaccess)
-ErrorDocument 404 /en/404.html

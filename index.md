@@ -1,26 +1,18 @@
-# LIGHT ON TRI 2027 · Triathlons de Woippy, Pierre-Percée et Madine
+# LIGHT ON TRI · Triathlons 2027 en Lorraine
 
-> Trois triathlons LIGHT ON en 2027 : Woippy** le 16 mai, Pierre-Percée*** du 11 au 13 juin, Madine*** les 18 et 19 septembre. S*, M**, L***, Kids et RUN, packs -15 % et -20 %.
+> Trois triathlons en Lorraine (Grand Est) en 2027 : Woippy** le 16 mai, Pierre-Percée*** du 11 au 13 juin, Madine*** les 18 et 19 septembre. Du S* au L***.
 
 Version Markdown de https://www.lightontri.com/ . La page HTML fait foi.
 
 ---
 
-**Saison 2027** - 3 triathlons, 3 lacs du Grand Est
-
-## Light On Tri
+## Triathlons 2027 en Lorraine - Light On Tri WoippyPierre-PercéeMadine
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027) Choisir mon triathlon
 
-- [**Woippy\*\***16 mai](https://www.lightontri.com/woippy.html)
+Trois lieux, trois dates. Une seule règle : en profiter.
 
-- [**Pierre-Percée\*\*\***11-13 juin](https://www.lightontri.com/pierre-percee.html)
-
-- [**Madine\*\*\***18-19 sept.](https://www.lightontri.com/madine.html)
-
-Trois lacs, trois dates. Une seule règle : en profiter.
-
-**01** Trois lacs, trois rendez-vous
+**01** Trois lieux, trois rendez-vous
 
 ### La saison2027
 
@@ -46,7 +38,7 @@ On ouvre la saison aux portes de Metz : départ natation dans l'eau, trois bouc
 
 #### [Pierre-Percée\*\*\*](https://www.lightontri.com/pierre-percee.html)
 
-Lac de Pierre-Percée · Entre Nancy et Strasbourg
+Lacs de Pierre-Percée et de la Plaine · Entre Nancy et Strasbourg
 
 Le triathlon revient au lac de Pierre-Percée. Trois jours, six courses, et le L\*\*\* le samedi matin pour ceux qui voient grand.
 
@@ -68,7 +60,7 @@ Le triathlon revient au lac de Pierre-Percée. Trois jours, six courses, et le L
 
 #### [Madine\*\*\*](https://www.lightontri.com/madine.html)
 
-Lac de Madine · Entre Metz et Nancy
+Lac de Madine · À égale distance de Metz et de Nancy
 
 Le rendez-vous de fin de saison, au bord du lac de Madine. Du MiniKids au L\*\*\*, toute la famille repart avec un dossard.
 
@@ -92,7 +84,7 @@ Le rendez-vous de fin de saison, au bord du lac de Madine. Du MiniKids au L\*\*\
 
 Les courses LIGHT ON TRI 2027 par lieu et par date
 
-|  | [Woippy\*\*16 mai](https://www.lightontri.com/woippy.html) | [Pierre-Percée\*\*\*11-13 juin](https://www.lightontri.com/pierre-percee.html) | [Madine\*\*\*18-19 sept.](https://www.lightontri.com/madine.html) |
+|  | [Woippy\*\*16 mai](https://www.lightontri.com/woippy.html) | [Pierre-Percée\*\*\*12-13 juin](https://www.lightontri.com/pierre-percee.html) | [Madine\*\*\*18-19 sept.](https://www.lightontri.com/madine.html) |
 |---|---|---|---|
 | **S\***0,5 km · 17 à 20 km · 5 à 5,6 km | [Dim. 16 mai · 9h00](https://www.lightontri.com/woippy.html#s) | [Dim. 13 juin · 9h00](https://www.lightontri.com/pierre-percee.html#s) | [Dim. 19 sept. · 9h00](https://www.lightontri.com/madine.html#s) |
 | **M\*\***1,5 km · 40 à 45 km · 10 km | [Dim. 16 mai · 13h30](https://www.lightontri.com/woippy.html#m) | [Dim. 13 juin · 13h30](https://www.lightontri.com/pierre-percee.html#m) | [Dim. 19 sept. · 13h30](https://www.lightontri.com/madine.html#m) |
@@ -151,7 +143,7 @@ Ce que vous apportez, ce que l'organisation fournit.
 
 ### Le goût de l'effort, grandeur nature.
 
-Trois lacs du Grand Est, les bénévoles du LIGHT ON Crew sur tout le parcours, et une arche d'arrivée qui vous attend.
+Woippy, Pierre-Percée, Madine : les bénévoles du LIGHT ON Crew sur tout le parcours, et une arche d'arrivée qui vous attend.
 
 **05** Rejoindre l'aventure
 
@@ -169,7 +161,7 @@ Rejoindre le Crew
 
 #### Devenir partenaire
 
-Associer votre marque à trois week-ends de triathlon dans le Grand Est.
+Associer votre marque à trois triathlons dans le Grand Est.
 
 Parlons-en
 

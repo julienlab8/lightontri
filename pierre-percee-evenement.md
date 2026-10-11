@@ -1,12 +1,12 @@
-# LIGHT ON TRI Pierre-Percée*** 2027 · Programme, Village LIGHT ON, accès et FAQ
+# Pierre-Percée*** 2027 : programme, accès, hébergement · LIGHT ON TRI
 
-> LIGHT ON TRI Pierre-Percée***, du vendredi 11 au dimanche 13 juin 2027 : programme heure par heure, retrait des dossards, Village LIGHT ON, lieu et accès, matériel, règlement et FAQ.
+> Triathlon de Pierre-Percée, 11 au 13 juin 2027 : programme, deux lacs et deux parcs à vélo, Village LIGHT ON à Celles-sur-Plaine, parking, hébergements et FAQ.
 
 Version Markdown de https://www.lightontri.com/pierre-percee-evenement.html . La page HTML fait foi.
 
 ---
 
-## LIGHT ON TRI Pierre-Percée\*\*\* · L'événement - Trois jours au bord du lac.
+## LIGHT ON TRI Pierre-Percée\*\*\* · L'événement - Trois jours, deux lacs.
 
 Dossards le vendredi soir, L\*\*\* et enfants le samedi, S\* et M\*\* le dimanche. On nage dans le lac de Pierre-Percée, on finit au Village LIGHT ON, au bord du lac de la Plaine.
 
@@ -94,6 +94,12 @@ T1 au lac de Pierre-Percée, après la natation. T2 au Village LIGHT ON, au lac 
 
 Podiums hommes et femmes sur chaque format. Primes sur le L\*\*\* (200, 150, 100 €) et le M\*\* (100, 75, 50 €), plus le podium vétérans.
 
+Pierre-Percée 2027
+
+#### Vos impressions, on a hâte.
+
+Nager dans un lac, finir au bord d’un autre : les premiers retours sur ce triathlon, ce seront les vôtres. Rendez-vous ici après le 13 juin.
+
 Deux lacs
 
 ### Lieu & accès.
@@ -132,7 +138,15 @@ Parking de l'Anse de Pierre-Percée, au bord du lac de Pierre-Percée, l'un des 
 
 #### Venir
 
-Entre Nancy et Strasbourg. Accès et stationnement : dans le guide participant envoyé avant la course.
+Environ 1h10 de Nancy, 1h20 de Strasbourg et 1h d'Épinal jusqu'au Village LIGHT ON. [Itinéraire vers le Village LIGHT ON](https://www.google.com/maps/dir/?api=1&destination=48.45055,6.93599).
+
+#### Se garer
+
+Stationnement fléché à proximité du Village LIGHT ON, à Celles-sur-Plaine : suivez la signalétique et les consignes des bénévoles. Le covoiturage entre triathlètes est le bienvenu.
+
+#### Dormir sur place
+
+Au bord du lac, à Celles-sur-Plaine : [les gîtes du lac](https://www.paysdeslacs.com/camping-vosges-88-lorraine/gites-cottages-vosges-88-lorraine/) et le camping de [Pierre-Percée Pays des Lacs](https://www.paysdeslacs.com/). Dans les villages alentour, d'[autres hébergements](https://www.paysdeslacs.com/autres-hebergements/), gîtes et chambres d'hôtes. Réservez tôt, le lac a du succès en juin.
 
 Matériel & règles de course
 
@@ -158,7 +172,7 @@ Uniquement ceux de l'organisation : aucun ravitaillement extérieur n'est autor
 
 #### Environnement
 
-Rien ne reste sur le parcours. Le règlement prévoit une sanction immédiate, et le lac vous remercie.
+Rien ne reste sur le parcours. Le règlement prévoit une sanction immédiate, et les deux lacs vous remercient.
 
 #### Temps limites
 
@@ -171,6 +185,20 @@ Règlement 2027
 Catégories, inscriptions, remboursements, horaires, parcours et temps limites : tout est dans le règlement. Cinq minutes de lecture, et plus de surprise le jour J.
 
 [Lire le règlement](https://www.lightontri.com/reglement.html)
+
+Au parc à vélo
+
+#### Le bon numéro au bon endroit.
+
+Un autocollant sur le casque, un autre sur la tige de selle, fournis par l’organisation : c’est ce qui relie votre vélo à votre dossard, dans les deux parcs à vélo.
+
+Guide participant 2027
+
+#### Tout le détail, quelques jours avant la course
+
+Horaires définitifs, plans d'accès, parcours détaillés et consignes de course : le guide participant arrive par e-mail et sera publié ici quelques jours avant le départ.
+
+À venir
 
 FAQ
 

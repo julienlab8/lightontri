@@ -1,6 +1,6 @@
-# LIGHT ON TRI Woippy** 2027 · Programme, Village LIGHT ON, accès et FAQ
+# Woippy** 2027 : programme, accès et parking · LIGHT ON TRI
 
-> LIGHT ON TRI Woippy**, dimanche 16 mai 2027 : programme heure par heure, retrait des dossards, Village LIGHT ON, lieu et accès, matériel, règlement et FAQ.
+> Triathlon de Woippy, 16 mai 2027 : programme heure par heure, retrait des dossards, parking, hébergements, matériel, règlement et FAQ.
 
 Version Markdown de https://www.lightontri.com/woippy-evenement.html . La page HTML fait foi.
 
@@ -72,6 +72,28 @@ Avec les boucles en vélo et en course à pied, vos proches vous voient passer p
 
 Podium S\* : 3 premiers hommes et 3 premières femmes. Sur le M\*\* : primes de 100, 75 et 50 €, plus le podium vétérans.
 
+> La gentillesse des gens (bénévoles) ! Spéciale dédicace à MR Labdant parc à vélo qui accueille avec un grand sourire ! Tout était très bien bravo à vous !
+
+**Gwenaël T.** | M\*\* · Woippy 2026
+
+**2026** Retours de triathlètes
+
+### Ce qu'ils en disent.
+
+> J'adore l'ambiance de vos courses, très familiale et bienveillante envers toutes les personnes qui débutent. Ne changez rien !
+
+**Julien N.** | M\*\* · Woippy 2026
+
+> L'organisation et l'accueil sont vraiment pro. On sent qu'il y a un énorme travail réalisé derrière. L'animation faite par Julien est vraiment un plus.
+
+**Dylan P.** | S\* · Woippy 2026
+
+> 3ème année pour ma part à Woippy. L'organisation s'améliore, ça se voit et se ressent. Bravo et merci !
+
+**Sylvain D.** | S\* · Woippy 2026
+
+Ce sont leurs mots, pas les nôtres. **Résultats et photos 2026 :** [les classements](https://www.lightontri.com/resultats.html) et [la galerie](https://www.lightontri.com/medias.html).
+
 Woippy Plage
 
 ### Lieu & accès.
@@ -84,7 +106,15 @@ Woippy Plage, à Woippy (57140). Départ natation dans l'eau, parc à vélo et a
 
 #### Venir
 
-Aux portes de Metz, à 45 minutes de Nancy. Adresse exacte du site, accès et stationnement : dans le guide participant envoyé avant la course.
+Aux portes de Metz, à 45 minutes de Nancy. Le plan d'accès détaillé sera dans le guide participant.
+
+#### Se garer
+
+Au parking du Lidl, à deux pas de Woippy Plage.
+
+#### Dormir sur place
+
+Nombreux hôtels et Airbnb à proximité, à Woippy et dans l'agglomération messine.
 
 Matériel & règles de course
 
@@ -94,7 +124,7 @@ Un briefing écrit arrive par e-mail quelques jours avant la course. En attendan
 
 #### Natation
 
-Bonnet fourni par l'organisation, obligatoire. Combinaison néoprène obligatoire si l'eau n'est pas au-dessus de 16°C, recommandée dans tous les cas. À Woippy, comptez environ 17°C en moyenne.
+Bonnet fourni par l'organisation, obligatoire. Combinaison néoprène obligatoire si l'eau n'est pas au-dessus de 16°C, recommandée dans tous les cas.
 
 #### Dossard & puce
 
@@ -110,7 +140,7 @@ Uniquement ceux de l'organisation : aucun ravitaillement extérieur n'est autor
 
 #### Environnement
 
-Rien ne reste sur le parcours. Le règlement prévoit une sanction immédiate, et le lac vous remercie.
+Rien ne reste sur le parcours. Le règlement prévoit une sanction immédiate, et le plan d'eau vous remercie.
 
 #### Temps limites
 
@@ -123,6 +153,18 @@ Règlement 2027
 Catégories, inscriptions, remboursements, horaires, parcours et temps limites : tout est dans le règlement. Cinq minutes de lecture, et plus de surprise le jour J.
 
 [Lire le règlement](https://www.lightontri.com/reglement.html)
+
+> Vraiment très bien organisé, les accès à la partie natation également. Bénévoles très sympas encore une fois.
+
+**Nicolas L.** | S\* · Woippy 2026
+
+Guide participant 2027
+
+#### Tout le détail, quelques jours avant la course
+
+Horaires définitifs, plans d'accès, parcours détaillés et consignes de course : le guide participant arrive par e-mail et sera publié ici quelques jours avant le départ.
+
+À venir
 
 FAQ
 
@@ -142,7 +184,7 @@ S\* : dès la catégorie Cadet (né en 2011 et avant). M\*\* : dès la catégo
 
 #### Faut-il une combinaison néoprène ?
 
-Elle est obligatoire si l'eau n'est pas au-dessus de 16°C, et recommandée dans tous les cas. À Woippy, l'eau tourne autour de 17°C en moyenne ces dernières années. Le bonnet fourni par l'organisation est toujours obligatoire.
+Elle est obligatoire si l'eau n'est pas au-dessus de 16°C, et recommandée dans tous les cas. Le bonnet fourni par l'organisation est toujours obligatoire.
 
 #### Peut-on s'inscrire sur place ?
 

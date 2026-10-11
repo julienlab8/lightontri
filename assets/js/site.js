@@ -73,6 +73,29 @@
     toggle.addEventListener('click', function () {
       setOpen(!links.classList.contains('open'));
     });
+    // Menu mobile en accordéon : une flèche par onglet, un seul onglet ouvert à la fois
+    links.querySelectorAll('.nav-item').forEach(function (item) {
+      var drop = item.querySelector('.nav-drop');
+      var parent = item.querySelector('.nav-parent');
+      if (!drop || !parent) return;
+      var btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'nav-acc';
+      btn.setAttribute('aria-expanded', 'false');
+      btn.setAttribute('aria-label', siteT('menuSub', 'Afficher le détail de') + ' ' + parent.textContent.trim());
+      btn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+      parent.insertAdjacentElement('afterend', btn);
+      btn.addEventListener('click', function (e) {
+        e.stopPropagation();
+        var open = !item.classList.contains('is-open');
+        links.querySelectorAll('.nav-item.is-open').forEach(function (o) {
+          o.classList.remove('is-open');
+          var b = o.querySelector('.nav-acc'); if (b) b.setAttribute('aria-expanded', 'false');
+        });
+        item.classList.toggle('is-open', open);
+        btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    });
     links.addEventListener('click', function (e) {
       if (e.target.tagName === 'A') setOpen(false);
     });

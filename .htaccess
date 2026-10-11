@@ -8,6 +8,7 @@ AddCharset UTF-8 .md .txt
 
 # Page d'erreur LIGHT ON
 ErrorDocument 404 /404.html
+ErrorDocument 410 /404.html
 
 # Fichiers internes du dépôt : jamais servis
 <FilesMatch "^(CLAUDE|README)\.md$">
@@ -81,18 +82,41 @@ RewriteCond %{THE_REQUEST} \s/+index\.html[\s?] [NC]
 RewriteRule ^index\.html$ https://www.lightontri.com/ [R=301,L]
 </IfModule>
 
-# Refonte du 11/10/2026 : anciennes pages -> nouvelle arborescence (3 lieux + Rejoindre l'aventure)
+# Refonte du 11/10/2026 : anciennes pages du dépôt -> nouvelle arborescence
 Redirect 301 /courses.html https://www.lightontri.com/
 Redirect 301 /infos.html https://www.lightontri.com/premier-triathlon.html
 Redirect 301 /actualites.html https://www.lightontri.com/
 Redirect 301 /evenement-woippy.html https://www.lightontri.com/woippy-evenement.html
 Redirect 301 /evenement-pierre-percee.html https://www.lightontri.com/pierre-percee-evenement.html
 Redirect 301 /evenement-madine.html https://www.lightontri.com/madine-evenement.html
-# Anciennes adresses du site Wix
-Redirect 301 /light-on-triathlon-woippy https://www.lightontri.com/woippy.html
-Redirect 301 /light-on-triathlon-pierre-percee https://www.lightontri.com/pierre-percee.html
-Redirect 301 /light-on-triathlon-madine https://www.lightontri.com/madine.html
-Redirect 301 /devenir-benevoles https://www.lightontri.com/communaute.html
-Redirect 301 /faq https://www.lightontri.com/woippy-evenement.html
-Redirect 301 /presse https://www.lightontri.com/communaute.html
-Redirect 301 /triathlon https://www.lightontri.com/premier-triathlon.html
+
+# Bascule depuis l'ancien site Wix (plan du site relevé le 11/10/2026)
+<IfModule mod_rewrite.c>
+RewriteEngine On
+# Pages des 3 lieux et leurs copies
+RewriteRule ^light-on-triathlon-woippy/?$ https://www.lightontri.com/woippy.html [R=301,L,NC]
+RewriteRule ^light-on-triathlon-pierre-perc(e|%C3%A9|é)e/?$ https://www.lightontri.com/pierre-percee.html [R=301,L,NC]
+RewriteRule ^copie-de-light-on-tri-pierre-perc.*$ https://www.lightontri.com/pierre-percee.html [R=301,L,NC]
+RewriteRule ^light-on-triathlon-madine/?$ https://www.lightontri.com/madine.html [R=301,L,NC]
+RewriteRule ^copie-de-light-on-tri-madine(-1)?/?$ https://www.lightontri.com/madine.html [R=301,L,NC]
+# Espaces participants : futur guide participant, sur la page « L'événement » de chaque lieu
+RewriteRule ^participants-woippy/?$ https://www.lightontri.com/woippy-evenement.html#guide [R=301,NE,L,NC]
+RewriteRule ^participants-pierre-percee/?$ https://www.lightontri.com/pierre-percee-evenement.html#guide [R=301,NE,L,NC]
+RewriteRule ^participants-madine/?$ https://www.lightontri.com/madine-evenement.html#guide [R=301,NE,L,NC]
+# Inscriptions, conseils, triathlon, FAQ
+RewriteRule ^inscriptions-light-on-tri/?$ https://www.lightontri.com/#inscriptions [R=301,NE,L,NC]
+RewriteRule ^nos-conseils/?$ https://www.lightontri.com/premier-triathlon.html [R=301,L,NC]
+RewriteRule ^triathlon/?$ https://www.lightontri.com/premier-triathlon.html [R=301,L,NC]
+RewriteRule ^faq/?$ https://www.lightontri.com/woippy-evenement.html#faq [R=301,NE,L,NC]
+# Résultats, médias, presse, bénévoles
+RewriteRule ^r.+sultats-photos/?$ https://www.lightontri.com/resultats.html [R=301,L,NC]
+RewriteRule ^m.+dias-presse/?$ https://www.lightontri.com/communaute.html#presse [R=301,NE,L,NC]
+RewriteRule ^presse/?$ https://www.lightontri.com/communaute.html#presse [R=301,NE,L,NC]
+RewriteRule ^(devenir-benevoles|benevoles-light-on-tri)/?$ https://www.lightontri.com/communaute.html#benevole [R=301,NE,L,NC]
+# Boutique Wix arrêtée : vers l'accueil
+RewriteRule ^(product-page|category)(/.*)?$ https://www.lightontri.com/ [R=301,L,NC]
+# Anciens événements qui n'existent plus (Seignosse, Favières, pages /events/) : supprimés définitivement
+RewriteRule ^light-on-triathlon-(seignosse|favieres)/?$ - [G,L,NC]
+RewriteRule ^devenir-benevoles-seignosse/?$ - [G,L,NC]
+RewriteRule ^events(/.*)?$ - [G,L,NC]
+</IfModule>

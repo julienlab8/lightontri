@@ -28,34 +28,30 @@ Dimanche 16 mai 2027. Résultats à venir.
 
 18-19 septembre 2027. Résultats à venir.
 
-Édition Madine 2026
+Saison 2026
 
-### La dernière ligne d'arrivée.
+### Les classements 2026.
 
-Un retour sur l'édition Madine de septembre 2026, via l'enquête de satisfaction menée auprès des participants. Le classement officiel chiffré de cette édition n'est pas disponible dans les sources actuelles.
+Les classements complets des éditions 2026 sont en ligne chez notre chronométreur, Sporkrono.
 
-**À savoir :** aucun classement ni podium chronométré de Madine 2026 n'a été fourni à ce stade - cette page ne présente donc pas de tableau de résultats pour éviter d'inventer des temps ou des noms. Dès réception d'un classement officiel, il sera publié ici.
+#### Woippy\*\* 2026
+
+S\*, M\*\* et RUN : [voir les classements sur Sporkrono](https://www.sporkrono.fr/courses/3861127134/light-on-tri-woippy/).
+
+#### Madine\*\*\* 2026
+
+S\*, M\*\*, L\*\*\*, Kids et RUN 7 KM : [voir les classements sur Sporkrono](https://www.sporkrono.fr/courses/2799362058/light-on-tri-madine/), et [les photos officielles](https://www.app.sportpxl.com/photographs/rougel-jerome/albums/4145/?ak=2c286bad2526d9b266047e91b3e31228b9f9e44a).
 
 > Très agréablement surpris par l'organisation que j'ai trouvé impeccable.
 
 **Renaud M.** | S\* · Madine 2026
 
-> Tout est top !!! Les bénévoles au top !!! Pareil pour l'organisation c'est vraiment carré avec une très bonne ambiance.
+> Tout est top !!! Les bénévoles au top !!! Pareil pour l'organisation c'est vraiment carré avec une très bonne ambiance.
 
 **Geoffrey L.** | L\*\*\* · Madine 2026
 
-> Tout est rôdé à la perfection.
-
-**Catherine M.** | S\* · Madine 2026
-
-> J'ai passé une excellente journée, ravie d'avoir fini mon M malgré le vent.
-
-**Marie M.** | M\*\* · Madine 2026
-
-[Galerie photo Madine 2026](https://www.lightontri.com/medias.html)
-
 ### Envie d'y figurer en 2027 ?
 
-Inscriptions ouvertes le 13 octobre 2026.
+Inscriptions dès le mardi 13 octobre 2026 à 20h00.
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027)

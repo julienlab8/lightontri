@@ -1,6 +1,6 @@
-# LIGHT ON TRI Madine*** 2027 · Programme, Village LIGHT ON, accès et FAQ
+# Madine*** 2027 : programme, accès, hébergement · LIGHT ON TRI
 
-> LIGHT ON TRI Madine***, samedi 18 et dimanche 19 septembre 2027 : programme heure par heure, retrait des dossards, Village LIGHT ON, lieu et accès, matériel, règlement et FAQ.
+> Triathlon de Madine, 18 et 19 septembre 2027 : programme heure par heure, Maison de Madine, parking de Nonsard-Lamarche, hébergements, matériel et FAQ.
 
 Version Markdown de https://www.lightontri.com/madine-evenement.html . La page HTML fait foi.
 
@@ -16,7 +16,7 @@ Programme
 
 ### Le week-end, heure par heure.
 
-Programme calé sur celui de 2026, aux dates 2027. Il peut encore être ajusté : la version définitive sera dans le guide participant.
+Horaires 2027 annoncés par l'organisation. Ils peuvent encore être ajustés : la version définitive sera dans le guide participant, envoyé quelques jours avant la course.
 
 Vendredi 17 septembre - Ouverture du week-end
 
@@ -96,7 +96,11 @@ Village LIGHT ON
 
 ### Tout se passe au Village LIGHT ON.
 
-Retrait des dossards, parc à vélo, arrivée et remise des récompenses : tout est au même endroit, supporters compris.
+L'aire d'arrivée, le LIGHT ON Shop et les exposants : c'est là que tout le monde se retrouve. Le retrait des dossards se fait à la Maison de Madine.
+
+#### Le Village LIGHT ON
+
+Autour de l'aire d'arrivée : l'arche, le LIGHT ON Shop et les exposants. C'est là que les supporters vous attendent.
 
 #### Welcome drink
 
@@ -104,15 +108,19 @@ Le vendredi 17 septembre à 18h00, pendant le retrait des dossards. Le meilleur 
 
 #### Retrait des dossards
 
-Le vendredi de 17h00 à 19h00 pour tout le monde, puis des créneaux le samedi et le dimanche selon votre course. Pièce d'identité obligatoire.
+À la Maison de Madine : le vendredi de 17h00 à 19h00 pour tout le monde, puis des créneaux le samedi et le dimanche selon votre course. Pièce d'identité obligatoire.
 
 #### Le parc à vélo
 
-Sur le site de Madine 1, côté Nonsard-Lamarche. Ouverture 45 minutes avant chaque départ triathlon.
+Sur le site de Madine 1, côté Nonsard-Lamarche. Ouverture 1h15 avant chaque départ triathlon.
 
 #### Remise des récompenses
 
 L\*\*\* samedi à 16h30, Kids samedi à 12h00, RUN 7 KM samedi à 18h15, S\* dimanche à 11h00, M\*\* dimanche à 17h00. Primes sur le L\*\*\* et le M\*\*.
+
+> Merci l'organisation et les bénévoles tout au long du parcours, une aide pour signaler les virages dangereux a vraiment été apprécié pour ma part !!!
+
+**Niko G.** | Madine 2026
 
 **2026** Retours de triathlètes
 
@@ -126,14 +134,6 @@ L\*\*\* samedi à 16h30, Kids samedi à 12h00, RUN 7 KM samedi à 18h15, S\* dim
 
 **Nicolas L.** | Madine 2026
 
-> Merci l'organisation et les bénévoles tout au long du parcours, une aide pour signaler les virages dangereux a vraiment été apprécié pour ma part !!!
-
-**Niko G.** | Madine 2026
-
-> Super orga ! Merci à tous !
-
-**Stéphanie J.** | S\* · Madine 2026
-
 > Merci pour ce merveilleux événement qui est toujours très attendu.
 
 **Elsa F.** | Madine 2026
@@ -144,15 +144,23 @@ Lac de Madine
 
 ### Lieu & accès.
 
-Le lac de Madine, côté Nonsard-Lamarche (55210), entre Metz et Nancy. Départ natation sur la plage, parc à vélo sur le site de Madine 1, et l'arrivée juste à côté.
+Le lac de Madine, côté Nonsard-Lamarche (55210), à égale distance de Metz et de Nancy. Départ natation sur la plage, parc à vélo sur le site de Madine 1, et le Village LIGHT ON autour de l'aire d'arrivée.
 
 #### Le site
 
-Madine 1, côté Nonsard-Lamarche : plage de départ, parc à vélo, arrivée et Village LIGHT ON au même endroit.
+Madine 1, côté Nonsard-Lamarche : retrait des dossards à la Maison de Madine, plage de départ, parc à vélo, et le Village LIGHT ON autour de l'aire d'arrivée.
 
 #### Venir
 
-Entre Metz et Nancy. Accès et stationnement : dans le guide participant envoyé avant la course.
+À égale distance de Metz et de Nancy. Le plan d'accès détaillé sera dans le guide participant.
+
+#### Se garer
+
+Sur le parking du site de Nonsard-Lamarche. Garez-vous tout au bout du parking : vous serez plus près du retrait des dossards (Maison de Madine) et vous éviterez les bouchons du petit matin.
+
+#### Dormir sur place
+
+Gîtes, roulottes et camping au bord du lac, hôtels et chambres d'hôtes aux alentours : tout est sur [lacmadine.com](https://lacmadine.com/sorganiser/dormir/).
 
 Matériel & règles de course
 
@@ -162,7 +170,7 @@ Un briefing écrit arrive par e-mail quelques jours avant la course. En attendan
 
 #### Natation
 
-Bonnet fourni par l'organisation, obligatoire. Combinaison néoprène obligatoire si l'eau n'est pas au-dessus de 16°C, recommandée dans tous les cas. À Madine, comptez environ 18°C en moyenne.
+Bonnet fourni par l'organisation, obligatoire. Combinaison néoprène obligatoire si l'eau n'est pas au-dessus de 16°C, recommandée dans tous les cas.
 
 #### Dossard & puce
 
@@ -192,13 +200,21 @@ Catégories, inscriptions, remboursements, horaires, parcours et temps limites 
 
 [Lire le règlement](https://www.lightontri.com/reglement.html)
 
+Guide participant 2027
+
+#### Tout le détail, quelques jours avant la course
+
+Horaires définitifs, plans d'accès, parcours détaillés et consignes de course : le guide participant arrive par e-mail et sera publié ici quelques jours avant le départ.
+
+À venir
+
 FAQ
 
 ### Les questions fréquentes.
 
 #### Où et quand retirer mon dossard ?
 
-Le vendredi 17 septembre de 17h00 à 19h00 pour toutes les courses. Sinon : le samedi de 7h30 à 9h00 pour le L\*\*\*, de 10h00 à 10h30 pour les MiniKids et Kids, de 16h30 à 17h15 pour le RUN 7 KM, de 17h00 à 19h00 pour le S\* et le M\*\* ; le dimanche de 7h00 à 8h30 pour le S\* et de 11h30 à 13h00 pour le M\*\*. Pièce d'identité obligatoire.
+À la Maison de Madine. Le vendredi 17 septembre de 17h00 à 19h00 pour toutes les courses. Sinon : le samedi de 7h30 à 9h00 pour le L\*\*\*, de 10h00 à 10h30 pour les MiniKids et Kids, de 16h30 à 17h15 pour le RUN 7 KM, de 17h00 à 19h00 pour le S\* et le M\*\* ; le dimanche de 7h00 à 8h30 pour le S\* et de 11h30 à 13h00 pour le M\*\*. Pièce d'identité obligatoire.
 
 #### Licence ou certificat médical ?
 
@@ -210,7 +226,7 @@ S\* : dès la catégorie Cadet (né en 2011 et avant). M\*\* et L\*\*\* : dès
 
 #### Faut-il une combinaison néoprène ?
 
-Elle est obligatoire si l'eau n'est pas au-dessus de 16°C, et recommandée dans tous les cas. À Madine, l'eau tourne autour de 18°C en moyenne ces dernières années. Le bonnet fourni par l'organisation est toujours obligatoire.
+Elle est obligatoire si l'eau n'est pas au-dessus de 16°C, et recommandée dans tous les cas. Le bonnet fourni par l'organisation est toujours obligatoire.
 
 #### Peut-on s'inscrire sur place ?
 

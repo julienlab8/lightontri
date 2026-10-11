@@ -263,17 +263,4 @@ if __name__ == "__main__":
         json.dumps(fr_index, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"assets/search-index.json -> {len(fr_index)} pages")
 
-    # --- EN / DE : index de recherche seulement (pas de .md, hors corpus llms.txt) ---
-    # Refonte du 11/10/2026 : EN/DE seront retraduits une fois le FR validé. Tant que la
-    # nouvelle arborescence n'existe pas dans en/ et de/, on ne touche pas à leurs index.
-    ALL_PAGES = list(PAGES.keys()) + SEARCH_ONLY
-    for lang in ("en", "de"):
-        if not all((ROOT / lang / src).exists() for src in ALL_PAGES):
-            print(f"{lang}/ : arborescence pas encore traduite, index inchangé")
-            continue
-        idx = []
-        for src in ALL_PAGES:
-            convert(f"{lang}/{src}", idx, prefix=f"{lang}/")
-        (ROOT / "assets" / f"search-index-{lang}.json").write_text(
-            json.dumps(idx, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-        print(f"assets/search-index-{lang}.json -> {len(idx)} pages")
+    # EN / DE : retirés le 11/10/2026 (seront retraduits depuis le FR validé).

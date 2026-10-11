@@ -1,6 +1,6 @@
-# Rejoindre l'aventure LIGHT ON TRI · Bénévoles, partenaires, presse
+# Bénévoles, partenaires et presse · Rejoindre LIGHT ON TRI
 
-> L'esprit LIGHT ON, devenir bénévole du LIGHT ON Crew, devenir partenaire, presse, réseaux sociaux et contact de LIGHT ON TRI : triathlons de Woippy, Pierre-Percée et Madine.
+> Devenir bénévole du LIGHT ON Crew, partenaire, presse, réseaux et contact : participez aux triathlons LIGHT ON TRI de Woippy, Pierre-Percée et Madine.
 
 Version Markdown de https://www.lightontri.com/communaute.html . La page HTML fait foi.
 
@@ -22,7 +22,7 @@ LIGHT ON organise des événements outdoor en Lorraine : triathlon, trail et ru
 
 Du MiniKids au L\*\*\*, en passant par les RUN : on peut venir pour se tester, pour un chrono, ou pour accompagner les enfants sur leur premier dossard.
 
-#### Trois lacs, trois ambiances
+#### Trois lieux, trois ambiances
 
 Woippy pour ouvrir la saison, Pierre-Percée et ses sapins en juin, Madine pour finir en septembre. Même organisation, décor différent.
 
@@ -56,7 +56,7 @@ Le premier sourire du week-end, c'est vous.
 
 Devenir partenaire
 
-### Trois week-ends, une saison entière.
+### Trois triathlons, une saison entière.
 
 Woippy, Pierre-Percée, Madine : associez votre marque à un événement, ou à toute la saison LIGHT ON TRI.
 

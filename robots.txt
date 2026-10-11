@@ -43,7 +43,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-# Refonte du 11/10/2026 : les versions EN et DE seront retraduites une fois le FR validé.
-# En attendant, elles ne sont pas dans le sitemap. Retirer ces lignes une fois la traduction en ligne.
-
 Sitemap: https://www.lightontri.com/sitemap.xml

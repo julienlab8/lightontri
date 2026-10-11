@@ -20,8 +20,6 @@ Les épreuves LIGHT ON TRI pour la saison 2027 sont :
 
 - **LIGHT ON TRI Madine\*\*\*** : samedi 18 et dimanche 19 septembre 2027.
 
-Date de Madine\*\*\* communiquée directement par l'organisation ; le règlement publié le 07/10/2026 indiquait encore « date à venir » pour cette épreuve au moment de sa rédaction.
-
 ### Article 2 · Briefing et distances
 
 Un briefing écrit sera transmis par courriel quelques jours avant la manifestation.
@@ -42,11 +40,9 @@ Les formats proposés selon les épreuves sont les suivants :
 
 - **Distance L\*\*\*** : environ 1,9 km natation - 85 à 90 km vélo - 21 km course à pied.
 
-- **Duathlons Mini-Kids et Kids.**
+- **MiniKids et Kids** : duathlon à Pierre-Percée\*\*\*, triathlon à Madine\*\*\*.
 
-- **Course à pied**, selon l'épreuve.
-
-Le format **Distance XS** annoncé pour Pierre-Percée\*\*\* dans le règlement publié le 07/10/2026 n'est finalement pas proposé : confirmé directement par l'organisation.
+- **RUN 5, 6 ou 7 KM**, selon l'épreuve.
 
 ### Article 3 · Catégories
 
@@ -56,11 +52,11 @@ Le format **Distance XS** annoncé pour Pierre-Percée\*\*\* dans le règlement 
 
 - **Triathlon L\*\*\*** : à partir de la catégorie Junior (né en 2009 et avant).
 
-- **Mini-Kids** : nés en 2018, 2019, 2020 ou 2021.
+- **MiniKids** : nés en 2018, 2019, 2020 ou 2021.
 
 - **Kids** : nés en 2014, 2015, 2016 ou 2017.
 
-- **Course à pied 6 ou 7 km** : selon les conditions propres à l'épreuve.
+- **RUN 5, 6 et 7 KM** : selon les conditions propres à l'épreuve.
 
 Les catégories d'âge et conditions d'accès restent soumises à la réglementation fédérale applicable en 2027.
 
@@ -74,9 +70,9 @@ Les inscriptions se font uniquement en ligne sur le site [www.lightontri.com](ht
 
 - **Triathlon S\*** : 34 € (licencié) / 39 € (non-licencié).
 
-- **Mini-Kids et Kids** : 15 €.
+- **MiniKids et Kids** : 15 €.
 
-- **RUN 5, 6 et 7 km** : 12 €.
+- **RUN 5, 6 et 7 KM** : 12 €.
 
 Pour les licenciés, la licence de triathlon doit être téléchargée sur l'interface d'inscription. Pour les non-licenciés, un certificat médical de non-contre-indication à la pratique du triathlon (ou du sport) en compétition, datant de moins d'un an, doit être téléchargé sur l'interface d'inscription au plus tard 15 jours avant l'événement.
 
@@ -90,7 +86,7 @@ Le retrait des dossards s'effectue la veille de chaque course de 17h00 à 19h00,
 
 #### LIGHT ON TRI Pierre-Percée\*\*\* - vendredi 11 juin 2027
 
-- 17h00 - 19h00 : retrait des dossards Mini-Kids, Kids, S et M et L.
+- 17h00 - 19h00 : retrait des dossards MiniKids, Kids, S et M et L.
 
 #### Samedi 12 juin 2027
 
@@ -98,13 +94,15 @@ Le retrait des dossards s'effectue la veille de chaque course de 17h00 à 19h00,
 
 - 9h30 : Triathlon L - départ femmes et hommes.
 
-- 10h00 - 10h45 : retrait des dossards Mini-Kids et Kids (duathlon).
+- 10h00 - 10h45 : retrait des dossards MiniKids et Kids (duathlon).
 
-- 11h00 : Duathlon Mini-Kids (nés en 2018, 2019, 2020 et 2021).
+- 11h00 : Duathlon MiniKids (nés en 2018, 2019, 2020 et 2021).
 
 - 11h30 : Duathlon Kids (nés en 2014, 2015, 2016 et 2017).
 
 - 17h00 - 19h00 : retrait des dossards S et M.
+
+- 17h30 : RUN 5 KM - départ.
 
 #### Dimanche 13 juin 2027
 
@@ -168,7 +166,7 @@ Le parcours vélo commence au parc à vélo sur le site de Woippy Plage : Triat
 
 #### LIGHT ON TRI Pierre-Percée\*\*\*
 
-Le parcours vélo commence au parc à vélo sur le site de Pierre-Percée. Les tracés et le nombre de boucles 2027 sont en cours de finalisation et seront précisés dans le guide participant.
+Le parcours vélo part du parc à vélo du lac de Pierre-Percée (T1, après la natation) et arrive au Village LIGHT ON, au lac de la Plaine à Celles-sur-Plaine (T2). Les tracés et le nombre de boucles 2027 sont en cours de finalisation et seront précisés dans le guide participant.
 
 #### LIGHT ON TRI Madine\*\*\*
 
@@ -184,7 +182,7 @@ Le parcours course à pied commence au parc à vélo sur le site de Woippy Plage
 
 #### LIGHT ON TRI Pierre-Percée\*\*\*
 
-Le parcours course à pied commence au parc à vélo sur le site de Pierre-Percée. Les tracés et le nombre de boucles 2027 sont en cours de finalisation et seront précisés dans le guide participant.
+Le parcours course à pied part du Village LIGHT ON, au lac de la Plaine à Celles-sur-Plaine, où se trouve aussi l'arrivée. Les tracés et le nombre de boucles 2027 sont en cours de finalisation et seront précisés dans le guide participant.
 
 #### LIGHT ON TRI Madine\*\*\*
 
@@ -258,6 +256,6 @@ Pour toute question relative à l'épreuve : [hello@lightontri.com](mailto:hell
 
 ### Une question sur le règlement ?
 
-Écrivez-nous, on répond. Inscriptions ouvertes le 13 octobre 2026.
+Écrivez-nous, on répond. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027) [Nous écrire](https://www.lightontri.com/communaute.html#contact)

@@ -1,6 +1,6 @@
-# Premier triathlon · Le S* LIGHT ON TRI, étape par étape
+# Premier triathlon : format, jour J et matériel · LIGHT ON TRI
 
-> Premier triathlon ? Le S* LIGHT ON TRI (500 m, une boucle de vélo, 5 km) à Woippy, Pierre-Percée ou Madine en 2027 : format, déroulé du jour J, sac à préparer et questions fréquentes.
+> Premier triathlon ? Le S* (500 m, une boucle de vélo, 5 km) à Woippy, Pierre-Percée ou Madine en 2027 : déroulé du jour J, sac à préparer et questions.
 
 Version Markdown de https://www.lightontri.com/premier-triathlon.html . La page HTML fait foi.
 
@@ -86,6 +86,10 @@ Vélo raccroché à sa place, chaussures de course aux pieds, et vous repartez p
 
 L'arche, le speaker, vos proches. Sur le S\*, il n'y a pas de temps limite : elle vous attend, quoi qu'il arrive.
 
+> Merci à tous les bénévoles pour vos encouragements !! Cela m'a beaucoup aidé pour mon premier triathlon.
+
+**Anaïs M.** | Madine 2026
+
 Le sac à préparer
 
 ### Ce qu'il faut apporter.
@@ -103,10 +107,6 @@ L'organisation fournit le dossard, le bonnet, la puce de chronométrage et les a
 - **Ceinture porte-dossard**Le dossard peut se porter sur une ceinture fixée en trois points : pratique pour le tourner entre vélo et course.
 
 - **Pièce d'identité**Obligatoire pour le retrait du dossard. Et la licence ou le certificat médical, déjà déposés en ligne.
-
-> Merci à tous les bénévoles pour vos encouragements !! Cela m'a beaucoup aidé pour mon premier triathlon.
-
-**Anaïs M.** | Madine 2026
 
 > Toutes les réponses à mes questions se trouvaient dans le guide ou sur le site. Facile d'accès, lisible.
 
@@ -131,10 +131,6 @@ Le S\* est ouvert dès la catégorie Cadet (né en 2011 et avant). Pour les plus
 #### Et le drafting, on a le droit ?
 
 Rouler dans la roue d'un autre cycliste est encadré en triathlon. Les règles de chaque course seront précisées dans le guide participant, envoyé quelques jours avant.
-
-#### Combien de temps ça prend ?
-
-Comptez votre temps de nage, de vélo et de course, plus quelques minutes de transition. Le plus long, c'est souvent de repartir du Village LIGHT ON.
 
 ### Prêt pour le S\* ?
 

@@ -1,6 +1,6 @@
-# LIGHT ON TRI Pierre-Percée*** 2027 · Les courses : S* · M** · L*** · MiniKids · Kids · RUN 5 KM
+# Triathlon Pierre-Percée*** 2027 : S, M, L, Kids et RUN · LIGHT ON TRI
 
-> LIGHT ON TRI Pierre-Percée***, du vendredi 11 au dimanche 13 juin 2027 : S* · M** · L*** · MiniKids · Kids · RUN 5 KM. Distances, horaires, tarifs et inscriptions.
+> Triathlon entre les lacs de Pierre-Percée et de la Plaine, du 11 au 13 juin 2027 : L***, S*, M**, MiniKids, Kids et RUN 5 KM. Horaires, tarifs, inscription.
 
 Version Markdown de https://www.lightontri.com/pierre-percee.html . La page HTML fait foi.
 
@@ -14,6 +14,8 @@ Le triathlon revient au lac de Pierre-Percée, entre Nancy et Strasbourg. L\*\*\
 
 ### L'essentiel
 
+Le LIGHT ON TRI Pierre-Percée\*\*\* 2027 a lieu du 11 au 13 juin 2027, entre le lac de Pierre-Percée (natation) et le lac de la Plaine à Celles-sur-Plaine (Village LIGHT ON et arrivée) : triathlon L\*\*\* le samedi 12 juin, triathlons S\* et M\*\* le dimanche 13 juin, plus MiniKids, Kids et RUN 5 KM.
+
 - **Dates** : 11, 12 et 13 juin 2027. Dossards le vendredi, courses samedi et dimanche
 - **Lieu** : Deux lacs. Natation au lac de Pierre-Percée, Village LIGHT ON au lac de la Plaine
 - **Courses** : S\* · M\*\* · L\*\*\*. Plus MiniKids, Kids et RUN 5 KM
@@ -25,28 +27,27 @@ Comparatif
 
 ### Les triathlons en un coup d'œil.
 
-Même parcours en deux lacs, trois distances. Tout ce qui change d'un format à l'autre est ici.
+Même parcours en deux lacs, trois distances. Le détail de chaque parcours est juste en dessous.
 
 Comparatif des triathlons du LIGHT ON TRI Pierre-Percée\*\*\* 2027
 
 |  | S\* | M\*\* | L\*\*\* |
 |---|---|---|---|
 | Départ | Dimanche 13 juin · 9h00 | Dimanche 13 juin · 13h30 | Samedi 12 juin · 9h30 |
-| Natation | **0,5 km** Une boucle de 500 m dans le lac de Pierre-Percée, départ sur la plage. | **1,5 km** Deux boucles de 750 m dans le lac de Pierre-Percée, avec sortie à l'australienne. | **1,9 km** Deux boucles de 950 m dans le lac de Pierre-Percée, avec sortie à l'australienne. |
-| Vélo | **20 km** Du parc à vélo du lac de Pierre-Percée (T1) jusqu'au Village LIGHT ON, au lac de la Plaine (T2). Tracé 2027 détaillé dans le guide participant. | **40 km** Du parc à vélo du lac de Pierre-Percée (T1) jusqu'au Village LIGHT ON, au lac de la Plaine (T2). Tracé 2027 détaillé dans le guide participant. | **90 km** Du parc à vélo du lac de Pierre-Percée (T1) jusqu'au Village LIGHT ON, au lac de la Plaine (T2). Tracé 2027 détaillé dans le guide participant. |
-| Course à pied | **5 km** Au départ du Village LIGHT ON, au bord du lac de la Plaine. Tracé 2027 détaillé dans le guide participant. | **10 km** Au départ du Village LIGHT ON, au bord du lac de la Plaine. Tracé 2027 détaillé dans le guide participant. | **21,1 km** Au départ du Village LIGHT ON, au bord du lac de la Plaine. Tracé 2027 détaillé dans le guide participant. |
+| Natation | **0,5 km** | **1,5 km** | **1,9 km** |
+| Vélo | **20 km** | **40 km** | **90 km** |
+| Course à pied | **5 km** | **10 km** | **21,1 km** |
 | Tarif | 34 € licencié · 39 € non-licencié | 59 € licencié · 69 € non-licencié | 119 € licencié · 134 € non-licencié |
 | Temps limite | Aucun temps limite | Fin du vélo à 3h00 après le départ | Fin de la natation à 1h10, fin du vélo à 5h30 après le départ |
-| Âge minimum | Dès la catégorie Cadet (né en 2011 et avant) | Dès la catégorie Junior (né en 2009 et avant) | Dès la catégorie Junior (né en 2009 et avant) |
-| Pack annulation | Non proposé | 10 € | 15 € |
-| Récompenses | Pas de prime. Podium : 3 premiers hommes et 3 premières femmes | 100, 75 et 50 € aux 3 premiers hommes et femmes, plus podium vétérans | 200, 150 et 100 € aux 3 premiers hommes et femmes, plus podium vétérans |
-| Pour qui ? | Premier triathlon, reprise, ou envie de goûter au lac sans y passer la journée. | Triathlètes à l'aise sur 1,5 km de nage qui veulent un M\*\* dans un cadre qui change des routes de plaine. | Triathlètes qui ont déjà un M\*\* ou deux au compteur et veulent passer au format half. |
+| Âge minimum | Cadet (né en 2011 et avant) | Junior (né en 2009 et avant) | Junior (né en 2009 et avant) |
 
 Et aussi : MiniKids · Kids · RUN 5 KM.
 
 **Deux lacs, deux parcs à vélo.** Natation et T1 au lac de Pierre-Percée, T2, course à pied et arrivée au Village LIGHT ON, au lac de la Plaine. [Comment ça se passe](https://www.lightontri.com/pierre-percee-evenement.html#lieu)
 
 ### S\*
+
+Format court, proche du sprint
 
 Le dimanche matin, au bord du lac, les sapins en toile de fond. Le bon format pour découvrir le triathlon sans y passer la journée.
 
@@ -72,6 +73,8 @@ Au départ du Village LIGHT ON, au bord du lac de la Plaine. Tracé 2027 détail
 
 ### M\*\*
 
+Distance olympique
+
 La distance olympique le dimanche après-midi. Le temps de faire une grasse matinée, ou de venir encourager les copains du S\*.
 
 Départ : Dimanche 13 juin · 13h30
@@ -96,6 +99,8 @@ Au départ du Village LIGHT ON, au bord du lac de la Plaine. Tracé 2027 détail
 
 ### L\*\*\*
 
+Longue distance, format half
+
 Le gros morceau du week-end, le samedi à 9h30. 1,9 km dans le lac, 90 km de vélo, un semi pour finir. Le dimanche, vous avez le droit de ne rien faire.
 
 Départ : Samedi 12 juin · 9h30
@@ -117,6 +122,10 @@ Course à pied**21,1 km**
 Au départ du Village LIGHT ON, au bord du lac de la Plaine. Tracé 2027 détaillé dans le guide participant.
 
 [S'inscrire au L\*\*\*](https://in.njuko.com/light-on-tri-2027)
+
+Pierre-Percée 2027
+
+Pas encore de retours sur ce parcours en deux lacs. Les premiers, ce sera vous : on a hâte de lire vos impressions.
 
 Et aussi
 
@@ -166,29 +175,7 @@ Tarif : 12 €
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027)
 
-Packs saison 2027
-
-### Plus vous enchaînez, moins vous payez.
-
-Mettez 2 triathlons dans votre panier : -15 %. Mettez-en 3 : -20 %. La remise s'applique toute seule, sans code promo.
-
-S\*, M\*\* ou L\*\*\*, sur un ou plusieurs lieux : deux fois Pierre-Percée, Woippy puis Madine, mélange des formats, c'est vous qui composez.
-
-**Un pack, une seule personne.** Les courses doivent être au nom du même participant : un dossard pour vous, un pour votre conjoint et un pour votre fils, ça fait trois inscriptions, pas un pack.
-
-Packs valables sur les triathlons S\*, M\*\* et L\*\*\*, hors Kids et RUN.
-
-Pack 2 courses**-15%**2 triathlons, même participant
-
-Pack 3 courses**-20%**3 triathlons, même participant
-
-- [**Woippy\*\***16 mai](https://www.lightontri.com/woippy.html)
-
-- [**Pierre-Percée\*\*\***12-13 juin](https://www.lightontri.com/pierre-percee.html)
-
-- [**Madine\*\*\***18-19 sept.](https://www.lightontri.com/madine.html)
-
-[Composer mon pack](https://in.njuko.com/light-on-tri-2027)
+[Packs saison-15 % 2 triathlons-20 % 3 triathlonsAutomatique dans le panier, au nom de la même personne. Hors Kids et RUN.Comment ça marche](https://www.lightontri.com/./#packs)
 
 S'inscrire
 
@@ -198,15 +185,15 @@ Les inscriptions se font uniquement en ligne, sur Njuko. Ouverture le mardi 13 o
 
 #### Choisissez votre course
 
-Une ou plusieurs. Avec 2 triathlons au même nom dans le panier, -15 % automatiquement, et -20 % avec 3.
+Une ou plusieurs : à partir de 2 triathlons, le pack s'applique tout seul.
 
 #### Licence ou certificat
 
-Licencié : votre licence de triathlon, à télécharger lors de l'inscription. Non-licencié : un certificat médical de moins d'un an (non contre-indication au triathlon ou au sport en compétition), à déposer au plus tard 15 jours avant.
+Licence de triathlon, ou certificat médical de moins d'un an à déposer au plus tard 15 jours avant.
 
 #### Retrait du dossard
 
-La veille de 17h00 à 19h00 ou le jour J selon votre course, avec une pièce d'identité. Les créneaux sont dans le programme.
+La veille ou le jour J selon votre course, avec une pièce d'identité.
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027) [Lire le règlement](https://www.lightontri.com/reglement.html)
 
