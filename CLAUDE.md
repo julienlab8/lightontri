@@ -51,7 +51,7 @@ Projet adapté depuis `lightontrail-redesign/` (squelette d'origine le plus neut
 - **Remise des prix (Article 10)** : primes uniquement sur L*** et M** (3 premiers hommes/femmes + 3 premiers vétérans hommes/femmes) - L : 200/150/100€, M : 100/75/50€, places 4-5 offertes pour l'édition N+1. Pas de prime sur les formats S*.
 - Ouverture des inscriptions 2027 : **mardi 13 octobre 2026 à 20h00 (heure de Paris)**, confirmée par Julien en session (11/10/2026). Implémentée en JS (`assets/js/site.js`) via une cible UTC fixe (`Date.UTC(2026, 9, 13, 18, 0, 0)`, 18h UTC = 20h CEST) pour rester indépendante du fuseau/horloge du visiteur : compte à rebours complet sur l'accueil (`#regCountdown`) + pastille courte + bascule auto de tous les CTA `.btn-go.is-disabled` sitewide à l'heure dite. **Tant qu'aucun lien d'inscription Njuko réel n'existe**, les CTA pointent vers `infos.html#inscriptions` même une fois « ouverts » (TODO Njuko signalé dans `site.js` à remplacer dès réception du vrai lien) - décision explicite de Julien, à l'inverse du choix fait sur LIGHT ON RUN.
 - Le village de l'événement s'appelle **Village LIGHT ON**.
-- Contact : hello@lightontri.com et 06 37 08 97 57.
+- Contact : hello@lightontri.com et 03 74 47 56 52.
 - Réseaux : à confirmer (pas de handles officiels TRI vérifiés dans les sources actuelles - ne pas réutiliser ceux de RUN/TRAIL sans validation).
 - Le menu et le pied de page sont dupliqués dans chaque page HTML : toute modification doit être répétée sur toutes les pages.
 

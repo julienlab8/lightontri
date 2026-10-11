@@ -252,7 +252,7 @@ Les dossards ne sont pas transférables à l'année suivante. L'organisateur ne 
 
 ### Renseignements LIGHT ON TRI
 
-Pour toute question relative à l'épreuve : [hello@lightontri.com](mailto:hello@lightontri.com) - [06 37 08 97 57](tel:+33637089757). Directeur de course : M. Julien Labdant. Informations et mises à jour : [www.lightontri.com](https://www.lightontri.com/).
+Pour toute question relative à l'épreuve : [hello@lightontri.com](mailto:hello@lightontri.com) - [03 74 47 56 52](tel:+33374475652). Directeur de course : M. Julien Labdant. Informations et mises à jour : [www.lightontri.com](https://www.lightontri.com/).
 
 ### Une question sur le règlement ?
 

@@ -120,7 +120,7 @@ L\*\*\* : fin de la natation à 1h10, fin du vélo à 5h30. M\*\* : fin du vé
 
 #### Une autre question ?
 
-Écrivez-nous à [hello@lightontri.com](mailto:hello@lightontri.com) ou au [06 37 08 97 57](tel:+33637089757). On vous répond.
+Écrivez-nous à [hello@lightontri.com](mailto:hello@lightontri.com) ou au [03 74 47 56 52](tel:+33374475652). On vous répond.
 
 ### Une question avant de vous inscrire ?
 

@@ -78,6 +78,24 @@ Départ du parc à vélo sur le site de Woippy Plage. M\*\* : 3 boucles. S\* : 1
 
 Départ du même site. S\* : 2 boucles. M\*\* : 3 boucles.
 
+Parcours S\*
+
+### Le S\* en trois tracés.
+
+Natation, vélo, course à pied : les tracés du Triathlon S\* de Woippy, à zoomer tranquillement avant le jour J. Ceux du M\*\* seront publiés ici dès qu'ils sont prêts.
+
+#### Natation
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/10637223)
+
+#### Vélo
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/25401617)
+
+#### Course à pied
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/20052893)
+
 Village LIGHT ON
 
 ### Tout se passe au Village LIGHT ON.
