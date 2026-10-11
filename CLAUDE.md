@@ -5,6 +5,28 @@ Aperçu local : `python3 -m http.server 8080` à la racine, puis http://localhos
 
 Projet adapté depuis `lightontrail-redesign/` (squelette d'origine le plus neutre, choisi par Julien) en suivant le prompt maître « ADAPTATION DU SITE LIGHT ON TRI » : toute trace trail (noms, couleurs, médias, 17/37/54 KM) a été retirée.
 
+## Arborescence (refonte du 11/10/2026, demandée par Magali)
+
+Menu à 4 onglets : **Woippy**, **Pierre-Percée**, **Madine**, **Rejoindre l'aventure**. Barre du haut : Packs, Résultats, Photos, Devenir bénévole, Devenir partenaire.
+
+- Chaque lieu a deux pages, sur le modèle de la page Pierre-Percée 2027 de LIGHT ON TRAIL :
+  - **Les courses** (`woippy.html`, `pierre-percee.html`, `madine.html`) : L'essentiel, comparatif des triathlons, une section par format (`#s`, `#m`, `#l`, bandeau natation/vélo/course), « Et aussi » (`#jeunes`, `#run`), tracés OpenRunner quand on les a, packs (`#packs`), S'inscrire en 3 étapes (`#inscription`).
+  - **L'événement** (`*-evenement.html`) : programme (`#programme`), Village LIGHT ON (`#village`), lieu & accès (`#lieu`), matériel & règles + lien règlement (`#materiel`), FAQ avec JSON-LD (`#faq`).
+- **Rejoindre l'aventure** : `communaute.html` (`#esprit`, `#benevole`, `#partenaire`, `#presse`, `#suivre`, `#contact`) + `premier-triathlon.html`.
+- Accueil : les 3 lieux (date, lieu, courses avec horaires), « Qui court où ? » (tableau, cartes sur mobile), packs, premier triathlon, rejoindre, inscriptions par lieu. On met en avant **WOIPPY\*\*, PIERRE-PERCÉE\*\*\*, MADINE\*\*\*** et non les formats S/M/L.
+- Conservées : `reglement.html` (commun aux 3), `resultats.html`, `medias.html`, `mentions-legales.html`, `404.html`. Supprimées : `courses.html`, `infos.html`, `actualites.html`, `evenement-*.html` (redirections 301 dans `.htaccess`, y compris les anciennes adresses Wix).
+- Version FR d'abord : EN/DE seront retraduits une fois le FR validé (pas dans le sitemap, plus de sélecteur de langue en attendant).
+
+## Courses 2027 par lieu (source : visuels Njuko 2027 validés par Magali le 09/10/2026)
+
+- **Woippy\*\*** (dimanche 16 mai) : S\* 9h00 (0,5 / 17 / 5,6 km ; ne pas parler de montée ni de D+ : non confirmé), RUN 6 KM 11h30 (on communique 6 km, pas 5,6), M\*\* 13h30 (1,5 / 40 / 10 km). Pas de Kids.
+- **Pierre-Percée\*\*\*** : exception, le triathlon relie **deux lacs et deux parcs à vélo** (Magali, 11/10/2026). Retrait des dossards, Village LIGHT ON, T2, course à pied et arrivée : **base de loisirs de Celles-sur-Plaine (88110), au bord du lac de la Plaine** (lac du bas, là où tout le monde se retrouve). Les athlètes montent ensuite à vélo jusqu'au **lac de Pierre-Percée** (lac du haut) pour la natation et la T1, puis redescendent à vélo vers le Village (T2). Pas d'adresse affichée pour le lac du haut, seulement l'indication « parking de l'Anse de Pierre-Percée » pour le départ natation. Courses : samedi 12 juin L\*\*\* 9h30 (1,9 / 90 / 21,1 km), MiniKids 11h00 (duathlon 250 m / 1 km / 250 m, nés 2018-2021), Kids 11h30 (duathlon 750 m / 5 km / 750 m, nés 2014-2017), RUN 5 KM 17h30 ; dimanche 13 juin S\* 9h00 (0,5 / 20 / 5 km), M\*\* 13h30 (1,5 / 40 / 10 km).
+- **Madine\*\*\*** : samedi 18 septembre L\*\*\* 9h30 (1,9 / 85 / 21 km), MiniKids 11h00 (triathlon 50 m / 1,2 km / 500 m), Kids 11h30 (triathlon 200 m / 4 km / 1,5 km), RUN 7 KM 17h30 ; dimanche 19 septembre S\* 9h00 (0,5 / 20 / 5 km), M\*\* 13h30 (1,5 / 45 / 10 km).
+- **Packs** (TRI uniquement) : -15 % pour 2 courses, -20 % pour 3 courses, S\*/M\*\*/L\*\*\* sur un ou plusieurs triathlons, hors Kids et RUN.
+- Détails de parcours (boucles, D+, ravitos, température de l'eau) : pages officielles lightontri.com (infos seulement, jamais la mise en page ni les textes : l'ancien site n'est pas une référence de style).
+- Tarifs (Magali, 11/10/2026, prévaut sur le règlement qui disait Kids 10 €) : **RUN 5/6/7 KM 12 €**, **MiniKids et Kids 15 €**.
+- Packs : remise **automatique dans le panier Njuko, sans code promo** (2 triathlons -15 %, 3 triathlons -20 %). **Nominatifs** : les courses doivent être au nom de la même personne (un dossard pour soi, un pour son conjoint et un pour son fils = pas de pack).
+
 ## Hiérarchie des sources (ordre de confiance)
 
 1. Instructions explicites de Julien dans le brief / en session.
@@ -32,12 +54,12 @@ Projet adapté depuis `lightontrail-redesign/` (squelette d'origine le plus neut
 - Remboursement : 50% sur présentation d'un certificat médical jusqu'à 1 mois avant l'épreuve, aucun remboursement dans le dernier mois (sauf pack annulation souscrit à l'inscription : 15€ pour L***, 10€ pour M**). Transfert de dossard possible (3€) jusqu'à 48h avant le premier créneau de retrait.
 - Assurance : SMACL n° C2020-3654. Directeur de course : Julien Labdant.
 - Équipement (Article 2) : combinaison néoprène obligatoire si l'eau n'est pas au-dessus de 16°C, recommandée dans tous les cas. Bonnet fourni par l'organisation obligatoire. Puce de chronométrage à la cheville gauche, à rendre après l'arrivée (50€ si non rendue). Dossard non réduit/modifié, un seul fourni. Autocollant à coller sur le casque et la tige de selle du vélo. Aucun ravitaillement extérieur autorisé. Pas de règle de drafting détaillée dans le règlement fourni - à ne pas inventer, renvoyer au guide participant.
-- Infos.html construit comme un hub général (inscriptions, premier triathlon, matériel & règles, FAQ) commun aux 3 événements - pas d'accès/hébergement/restauration spécifiques à un lieu (ceux-ci, quand confirmés, iront dans la section #lieu de chaque page événement, pas sur infos.html).
+- Plus de page « Infos » ni « Les formats » (supprimées le 11/10/2026) : les formats diffèrent d'un lieu à l'autre, toutes les infos pratiques vont dans la page de chaque lieu (voir « Arborescence »).
 - **Les 3 événements 2027** :
   - **LIGHT ON TRI Woippy\*\*** - dimanche 16 mai 2027.
   - **LIGHT ON TRI Pierre-Percée\*\*\*** - week-end du vendredi 11 au dimanche 13 juin 2027 (retraits/animations le vendredi, courses le samedi 12 et dimanche 13). **Pas de format XS** : annoncé dans le règlement PDF du 07/10/2026, mais Julien a confirmé en session le 11/10/2026 que ce format n'est finalement pas proposé - instruction explicite qui prévaut sur le PDF (voir hiérarchie des sources ci-dessus). Signalé en toutes lettres sur `reglement.html` / `en/reglement.html` / `de/reglement.html`.
   - **LIGHT ON TRI Madine\*\*\*** - week-end du samedi 18 au dimanche 19 septembre 2027 (date transmise directement par Julien ; le règlement PDF du 07/10/2026 indiquait encore « à venir »). **Vérifié par calcul calendaire : le 18 septembre 2027 tombe un samedi et le 19 un dimanche** - la formulation orale « samedis 18 et 19 » doit donc s'afficher comme « samedi 18 - dimanche 19 septembre 2027 », pas comme deux samedis.
-- Horaires détaillés : seuls ceux de Pierre-Percée sont publiés dans le règlement 2027 (programme vendredi/samedi/dimanche complet, Article 6). **Les horaires définitifs de Woippy et de Madine seront ceux du guide participant** (pas encore publié) : ne jamais présenter le programme heure par heure de Madine 2026 comme celui de Madine 2027 - il sert uniquement de contenu rétrospectif (voir plus bas). Le règlement contient toutefois un « FORMAT\*\* - PROGRAMME TYPE » générique (retrait S/M, parcs à vélo, départs, récompenses) qui peut illustrer Woippy** à titre indicatif, mais qui n'est pas daté/horodaté comme définitif pour 2027 - à présenter comme indicatif, jamais comme confirmé.
+- Horaires détaillés : Pierre-Percée = règlement 2027 (Article 6) + RUN 5 KM samedi 17h30 (visuel Njuko). Woippy = horaires 2027 de la page officielle lightontri.com (samedi 15 mai 17h-19h retrait ; dimanche S* 9h00, RUN 6 KM 11h30, M** 13h30). Madine = programme 2026 transposé aux dates 2027 (vendredi 17, samedi 18, dimanche 19 septembre), **validé par Magali** (consigne Njuko du 09/10/2026 : « reprendre les infos 2026 du site »). Chaque page programme précise que la version définitive sera dans le guide participant.
 - **Programme détaillé confirmé - Pierre-Percée\*\*\* (Article 6)** :
   - Vendredi 11 juin : retrait dossards Mini-Kids, Kids, S, M et L, 17h00-19h00.
   - Samedi 12 juin : retrait dossards L 7h30-9h00 ; Triathlon L - départ 9h30 ; retrait dossards Mini-Kids/Kids (duathlon) 10h00-10h45 ; Duathlon Mini-Kids - départ 11h00 ; Duathlon Kids - départ 11h30 ; retrait dossards S et M 17h00-19h00.
@@ -49,10 +71,10 @@ Projet adapté depuis `lightontrail-redesign/` (squelette d'origine le plus neut
   - **Madine\*\*\*** (départ natation sur la plage, site lac de Madine côté Nonsard-Lamarche) : natation L*** 2 boucles de 950 m, M** 2 boucles de 750 m, S* 1 boucle de 500 m. Vélo (parc à vélo côté Nonsard-Lamarche) : L*** 2 boucles, M** 1 boucle, S* 1 boucle. Course à pied (même site) : L*** 3 boucles, M** 2 boucles, S* 1 boucle.
   - L'organisateur se réserve le droit de modifier les parcours (toutes épreuves).
 - **Remise des prix (Article 10)** : primes uniquement sur L*** et M** (3 premiers hommes/femmes + 3 premiers vétérans hommes/femmes) - L : 200/150/100€, M : 100/75/50€, places 4-5 offertes pour l'édition N+1. Pas de prime sur les formats S*.
-- Ouverture des inscriptions 2027 : **mardi 13 octobre 2026 à 20h00 (heure de Paris)**, confirmée par Julien en session (11/10/2026). Implémentée en JS (`assets/js/site.js`) via une cible UTC fixe (`Date.UTC(2026, 9, 13, 18, 0, 0)`, 18h UTC = 20h CEST) pour rester indépendante du fuseau/horloge du visiteur : compte à rebours complet sur l'accueil (`#regCountdown`) + pastille courte + bascule auto de tous les CTA `.btn-go.is-disabled` sitewide à l'heure dite. **Tant qu'aucun lien d'inscription Njuko réel n'existe**, les CTA pointent vers `infos.html#inscriptions` même une fois « ouverts » (TODO Njuko signalé dans `site.js` à remplacer dès réception du vrai lien) - décision explicite de Julien, à l'inverse du choix fait sur LIGHT ON RUN.
+- Ouverture des inscriptions 2027 : **mardi 13 octobre 2026 à 20h00 (heure de Paris)**. Lien d'inscription unique pour les 3 lieux : **https://in.njuko.com/light-on-tri-2027**. Tous les boutons S'inscrire y pointent et sont cliquables dès maintenant (décision de Magali, 11/10/2026 : on voit que tout est prêt, Njuko gère l'ouverture). `assets/js/site.js` ne gère plus que le compte à rebours de l'accueil (`#regCountdown`).
 - Le village de l'événement s'appelle **Village LIGHT ON**.
 - Contact : hello@lightontri.com et 03 74 47 56 52.
-- Réseaux : à confirmer (pas de handles officiels TRI vérifiés dans les sources actuelles - ne pas réutiliser ceux de RUN/TRAIL sans validation).
+- Réseaux : Instagram @lighton_tri et Facebook facebook.com/lightontri (liens présents sur l'ancien site officiel lightontri.com). YouTube/LinkedIn : non vérifiés pour TRI, pas affichés.
 - Le menu et le pied de page sont dupliqués dans chaque page HTML : toute modification doit être répétée sur toutes les pages.
 
 ## Woippy et Pierre-Percée : contenu rétrospectif uniquement
@@ -78,7 +100,7 @@ L'édition Madine de septembre 2026 a déjà eu lieu (photos Drive datées du 25
   - `madine-2026-peloton-velo-route.jpg` - groupe de cyclistes de dos sur route, lumière d'automne (J2, probable S*/M**).
   - `madine-2026-accolade-arrivee.jpg` - accolade à l'arrivée, cape/drapeau orange LIGHT ON, moment fort et émotionnel (J2).
   - Toutes déclinées en `-640.webp` / `-1280.webp` / `-1920.webp`, qualité 74.
-- Pas de photos/vidéos disponibles pour Woippy ou Pierre-Percée à ce stade (dossiers Drive fournis ne couvrent que Madine 2026) : flaguer ce manque plutôt que d'illustrer ces pages avec des photos Madine.
+- Photos par lieu : sélection de Magali dans `~/Documents/Documents/MAZE Planner/LIGHT ON/2 - LIGHT ON TRI/Site web TRI 2027/Site web TRI 2027 - Séléction photos/` (dossiers 1 - Woippy, 2 - Pierre-Percée, 3 - Madine). Choix du 11/10/2026 **provisoire** (à revoir avec Magali). Règle : **jamais deux fois la même photo sur tout le site** (le menu n'a volontairement pas de photo).
 - Témoignages : extraits du Google Sheet officiel (enquête satisfaction Madine 2026, 415 réponses), uniquement avis positifs et non dupliqués, cités mot pour mot avec prénom + initiale + format. Exemples retenus : Renaud M. (S*) « Très agréablement surpris par l'organisation que j'ai trouvé impeccable. » ; Geoffrey L. (L***) « Tout est top !!! Les bénévoles au top !!! » ; Catherine M. (S*) « Tout est rôdé à la perfection » ; Marie M. (M**) « J'ai passé une excellente journée, ravie d'avoir fini mon M malgré le vent » ; Stéphanie J. (S*) « Super orga ! Merci à tous ! » ; FANNY I. (M**) « Très bonne communication sur les réseaux sociaux, ça donne envie » ; Bérangère H. (S*) « Toutes les réponses à mes questions se trouvaient dans le guide ou sur le site. Facile d'accès, lisible. ». La majorité des retours libres du sheet sont des remarques opérationnelles (parking, signalétique, ravitos) utiles pour la page « Premier triathlon » mais pas citables comme témoignages.
 
 ## DA LIGHT ON TRI
@@ -96,7 +118,7 @@ L'édition Madine de septembre 2026 a déjà eu lieu (photos Drive datées du 25
 - Grille d'espacement : multiples de 8px.
 - Le double menu (barre d'accès rapide + menu principal) est à conserver tel quel, adapté pour distinguer les 3 événements (pas un seul comme sur TRAIL/RUN).
 - Mettre en orange un mot clé des grands titres avec `<em>` (jamais d'italique).
-- Témoignages : uniquement de vrais retours issus du Google Sheet Madine 2026, jamais inventés, jamais dupliqués (`.v-lead`, `.v-card`, `.q-inline`). Aucun témoignage pour Woippy/Pierre-Percée (pas encore organisés sous ce format).
+- Témoignages : uniquement de vrais retours, cités mot pour mot (prénom + initiale + format/édition), **ceux d'un lieu uniquement sur les pages de ce lieu**, jamais deux fois le même sur le site (`.v-lead`, `.v-card`, `.q-inline`). Sources Madine 2026 : Google Sheet de l'enquête + capture « Avis Madine 2026.png » (dossier Communication/Réseaux sociaux). Woippy et Pierre-Percée : **Magali fournit les retours** (rien à inventer en attendant).
 - Chaque page doit proposer un bouton S'inscrire bien visible ; désactivé visuellement tant que le lien réel n'est pas fourni ; un seul bouton plein par groupe de boutons.
 - Les styles de la refonte sont à la fin de `assets/css/site.css` ; changer le `?v=` des liens CSS/JS après chaque modification.
 
@@ -137,15 +159,12 @@ Ne jamais modifier les informations pratiques (horaires, distances, barrières h
 - Vidéos : hébergées nativement (`<video controls>` dans `.media-frame`) si des fichiers officiels sont fournis. Hero vidéo accueil ajouté le 11/10/2026 (`assets/video/hero-tri-2027.mp4` + variante mobile `hero-tri-2027-mobile.mp4`, extrait ~28s monté depuis le fichier Drive `lightontri-final-16-9.mov` fourni par Julien) : autoplay/muted/loop/playsinline, poster `assets/img/hero-tri-2027-poster.jpg`, repli photo statique (`<picture>` existant) si `prefers-reduced-motion: reduce`. Aucune autre vidéo officielle traitée à ce stade pour TRI.
 - Versions Markdown générées par `python3 tools/build_md.py` : relancer après toute modification HTML, ne jamais éditer les `.md` à la main.
 
-## À vérifier / signaler avant mise en ligne
+## À vérifier / signaler avant mise en ligne (mis à jour le 11/10/2026)
 
-1. **Ouverture des inscriptions 2027** : date confirmée (13/10/2026 20h00) et compte à rebours/bascule auto implémentés (voir DA/JS ci-dessus). **Aucun lien d'inscription Njuko réel** dans les sources actuelles : les CTA « S'inscrire » restent pointés vers `infos.html#inscriptions` même après la bascule auto, jusqu'à réception du vrai lien (TODO signalé dans `site.js`).
-2. **Horaires Woippy et Madine 2027** non publiés (règlement : « les horaires définitifs seront ceux du guide participant »). Ne jamais afficher le programme heure par heure de Madine 2026 comme celui de 2027.
-3. **Réseaux sociaux TRI** (Instagram, Facebook, YouTube, LinkedIn) non confirmés indépendamment - ne pas réutiliser les handles RUN/TRAIL sans validation.
-4. ~~**Logo wordmark TRI** disponible uniquement en PNG (pas de SVG/AI source).~~ Résolu le 11/10/2026 : source vectorielle bicolore officielle fournie par Julien, recadrée et intégrée (`assets/logo/logo-tri-bicolor.svg`, header + footer, 39 pages).
-5. ~~Tarif XS (Pierre-Percée) non chiffré dans le règlement fourni.~~ Résolu le 11/10/2026 : pas de format XS à Pierre-Percée, confirmé par Julien - XS retiré de tout le site (voir note datée dans la liste des 3 événements ci-dessus).
-6. ~~**Photos/vidéos Woippy et Pierre-Percée** : aucune disponible actuellement, seul Madine 2026 a des médias exploitables.~~ Résolu partiellement le 11/10/2026 : photo hero ajoutée sur chaque page événement (voir section "Woippy et Pierre-Percée : contenu rétrospectif uniquement" ci-dessus). Le fichier Pierre-Percée a un nom Drive ambigu ("TRAIL" au lieu de "TRI") à confirmer avec Magali. Galerie `medias.html` et visuels par format pas encore étendus à ces deux événements - dossier Drive source disponible pour un second passage.
-7. **Guide participant 2027** pas encore publié pour aucun des 3 événements - toute donnée d'horaire fine en dépend.
-8. Fichiers trail orphelins dans le dépôt d'origine (gpx, docs résultats, partners) déjà supprimés lors du scaffolding ; `/en/` et `/de/` restent à réécrire pour TRI (encore des copies trail à ce stade).
-9. **Formats proposés par événement** : déduits du nombre d'étoiles de chaque événement et des noms de dossiers Drive, pas listés explicitement nulle part. Woippy\*\* → déduit S* + M** (pas de L***, pas confirmé explicitement). Pierre-Percée\*\*\* → S* + M** + L*** (pas de XS, voir note datée du 11/10/2026 ci-dessus). Madine\*\*\* → S* + M** + L*** + Kids + RUN 7 KM (d'après les dossiers photos J1/J2 2026). **À confirmer avec Julien ou le guide participant avant publication.**
-10. **Adresses/lieux de départ Woippy et Pierre-Percée** utilisées sur le site (codes postaux/communes uniquement, pas de GPS précis ni d'adresse de rue inventée) : à vérifier spécifiquement pour l'usage triathlon (les coordonnées GPS précédemment utilisées sur TRAIL/RUN pour Pierre-Percée/Madine n'ont jamais été vérifiées de façon indépendante non plus).
+1. **Retours de participants Woippy et Pierre-Percée** : Magali les fournit. Les pages Madine ont déjà les leurs.
+2. **Photos** : choix provisoire du 11/10/2026, à revoir avec Magali (ainsi que la sélection des secondes de la vidéo d'accueil).
+3. **Pierre-Percée** : tracés vélo et course à pied 2027 en cours de finalisation.
+4. **Madine** : programme 2026 transposé aux dates 2027 (validé par Magali le 11/10/2026). RUN 7 KM « dès 15 ans » (ancien site).
+5. **Guide participant 2027** pas encore publié : il fera foi pour les horaires fins, les règles de drafting et les accès.
+6. **EN/DE** : à retraduire depuis le FR validé (pages encore à l'ancienne arborescence, hors sitemap).
+7. **Woippy\*\*** : seul le S\* a ses tracés OpenRunner (natation, vélo, course). M\*\*, Pierre-Percée et Madine : tracés à fournir.

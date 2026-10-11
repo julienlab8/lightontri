@@ -1,268 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.lightontri.com/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/" />
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
-    <loc>https://www.lightontri.com/en/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/" />
+    <loc>https://www.lightontri.com/woippy.html</loc>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
-    <loc>https://www.lightontri.com/de/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/" />
+    <loc>https://www.lightontri.com/woippy-evenement.html</loc>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
-    <loc>https://www.lightontri.com/courses.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/courses.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/courses.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/courses.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/courses.html" />
+    <loc>https://www.lightontri.com/pierre-percee.html</loc>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
-    <loc>https://www.lightontri.com/en/courses.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/courses.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/courses.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/courses.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/courses.html" />
+    <loc>https://www.lightontri.com/pierre-percee-evenement.html</loc>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
-    <loc>https://www.lightontri.com/de/courses.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/courses.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/courses.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/courses.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/courses.html" />
+    <loc>https://www.lightontri.com/madine.html</loc>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
-    <loc>https://www.lightontri.com/infos.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/infos.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/infos.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/infos.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/infos.html" />
+    <loc>https://www.lightontri.com/madine-evenement.html</loc>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
-    <loc>https://www.lightontri.com/en/infos.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/infos.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/infos.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/infos.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/infos.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/de/infos.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/infos.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/infos.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/infos.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/infos.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/evenement-woippy.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/evenement-woippy.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/evenement-woippy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/evenement-woippy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/evenement-woippy.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/en/evenement-woippy.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/evenement-woippy.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/evenement-woippy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/evenement-woippy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/evenement-woippy.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/de/evenement-woippy.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/evenement-woippy.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/evenement-woippy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/evenement-woippy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/evenement-woippy.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/evenement-pierre-percee.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/evenement-pierre-percee.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/evenement-pierre-percee.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/evenement-pierre-percee.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/evenement-pierre-percee.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/en/evenement-pierre-percee.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/evenement-pierre-percee.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/evenement-pierre-percee.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/evenement-pierre-percee.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/evenement-pierre-percee.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/de/evenement-pierre-percee.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/evenement-pierre-percee.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/evenement-pierre-percee.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/evenement-pierre-percee.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/evenement-pierre-percee.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/evenement-madine.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/evenement-madine.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/evenement-madine.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/evenement-madine.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/evenement-madine.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/en/evenement-madine.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/evenement-madine.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/evenement-madine.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/evenement-madine.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/evenement-madine.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/de/evenement-madine.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/evenement-madine.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/evenement-madine.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/evenement-madine.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/evenement-madine.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/resultats.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/resultats.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/resultats.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/resultats.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/resultats.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/en/resultats.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/resultats.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/resultats.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/resultats.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/resultats.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/de/resultats.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/resultats.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/resultats.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/resultats.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/resultats.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/reglement.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/reglement.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/reglement.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/reglement.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/reglement.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/en/reglement.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/reglement.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/reglement.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/reglement.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/reglement.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/de/reglement.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/reglement.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/reglement.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/reglement.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/reglement.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/medias.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/medias.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/medias.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/medias.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/medias.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/en/medias.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/medias.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/medias.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/medias.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/medias.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/de/medias.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/medias.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/medias.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/medias.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/medias.html" />
+    <loc>https://www.lightontri.com/premier-triathlon.html</loc>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
     <loc>https://www.lightontri.com/communaute.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/communaute.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/communaute.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/communaute.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/communaute.html" />
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
-    <loc>https://www.lightontri.com/en/communaute.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/communaute.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/communaute.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/communaute.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/communaute.html" />
+    <loc>https://www.lightontri.com/reglement.html</loc>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
-    <loc>https://www.lightontri.com/de/communaute.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/communaute.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/communaute.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/communaute.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/communaute.html" />
+    <loc>https://www.lightontri.com/resultats.html</loc>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
-    <loc>https://www.lightontri.com/actualites.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/actualites.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/actualites.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/actualites.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/actualites.html" />
+    <loc>https://www.lightontri.com/medias.html</loc>
+    <lastmod>2026-10-11</lastmod>
   </url>
   <url>
-    <loc>https://www.lightontri.com/en/actualites.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/actualites.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/actualites.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/actualites.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/actualites.html" />
-  </url>
-  <url>
-    <loc>https://www.lightontri.com/de/actualites.html</loc>
-    <lastmod>2026-10-07</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontri.com/actualites.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontri.com/en/actualites.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontri.com/de/actualites.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontri.com/actualites.html" />
+    <loc>https://www.lightontri.com/mentions-legales.html</loc>
+    <lastmod>2026-10-11</lastmod>
   </url>
 </urlset>

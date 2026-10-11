@@ -38,40 +38,61 @@ RedirectMatch 404 ^/tools/
 # Versions Markdown des pages (llms.txt v2) : la page HTML reste l'adresse officielle pour les moteurs
 <IfModule mod_headers.c>
   <Files "index.md">
-    Header set Link "<https://www.lightontrail.com/>; rel=canonical"
+    Header set Link "<https://www.lightontri.com/>; rel=canonical"
   </Files>
-  <Files "courses.md">
-    Header set Link "<https://www.lightontrail.com/courses.html>; rel=canonical"
+  <Files "woippy.md">
+    Header set Link "<https://www.lightontri.com/woippy.html>; rel=canonical"
   </Files>
-  <Files "evenement.md">
-    Header set Link "<https://www.lightontrail.com/evenement.html>; rel=canonical"
+  <Files "woippy-evenement.md">
+    Header set Link "<https://www.lightontri.com/woippy-evenement.html>; rel=canonical"
   </Files>
-  <Files "infos.md">
-    Header set Link "<https://www.lightontrail.com/infos.html>; rel=canonical"
+  <Files "pierre-percee.md">
+    Header set Link "<https://www.lightontri.com/pierre-percee.html>; rel=canonical"
   </Files>
-  <Files "reglement.md">
-    Header set Link "<https://www.lightontrail.com/reglement.html>; rel=canonical"
+  <Files "pierre-percee-evenement.md">
+    Header set Link "<https://www.lightontri.com/pierre-percee-evenement.html>; rel=canonical"
   </Files>
-  <Files "resultats.md">
-    Header set Link "<https://www.lightontrail.com/resultats.html>; rel=canonical"
+  <Files "madine.md">
+    Header set Link "<https://www.lightontri.com/madine.html>; rel=canonical"
+  </Files>
+  <Files "madine-evenement.md">
+    Header set Link "<https://www.lightontri.com/madine-evenement.html>; rel=canonical"
+  </Files>
+  <Files "premier-triathlon.md">
+    Header set Link "<https://www.lightontri.com/premier-triathlon.html>; rel=canonical"
   </Files>
   <Files "communaute.md">
-    Header set Link "<https://www.lightontrail.com/communaute.html>; rel=canonical"
+    Header set Link "<https://www.lightontri.com/communaute.html>; rel=canonical"
   </Files>
-  <Files "actualites.md">
-    Header set Link "<https://www.lightontrail.com/actualites.html>; rel=canonical"
+  <Files "reglement.md">
+    Header set Link "<https://www.lightontri.com/reglement.html>; rel=canonical"
+  </Files>
+  <Files "resultats.md">
+    Header set Link "<https://www.lightontri.com/resultats.html>; rel=canonical"
   </Files>
 </IfModule>
 
-# Une seule adresse officielle : https://www.lightontrail.com/
+# Une seule adresse officielle : https://www.lightontri.com/
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^lightontrail\.com$ [NC]
-RewriteRule ^(.*)$ https://www.lightontrail.com/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^lightontri\.com$ [NC]
+RewriteRule ^(.*)$ https://www.lightontri.com/$1 [R=301,L]
 RewriteCond %{THE_REQUEST} \s/+index\.html[\s?] [NC]
-RewriteRule ^index\.html$ https://www.lightontrail.com/ [R=301,L]
-RewriteCond %{THE_REQUEST} \s/+en/index\.html[\s?] [NC]
-RewriteRule ^en/index\.html$ https://www.lightontrail.com/en/ [R=301,L]
-RewriteCond %{THE_REQUEST} \s/+de/index\.html[\s?] [NC]
-RewriteRule ^de/index\.html$ https://www.lightontrail.com/de/ [R=301,L]
+RewriteRule ^index\.html$ https://www.lightontri.com/ [R=301,L]
 </IfModule>
+
+# Refonte du 11/10/2026 : anciennes pages -> nouvelle arborescence (3 lieux + Rejoindre l'aventure)
+Redirect 301 /courses.html https://www.lightontri.com/
+Redirect 301 /infos.html https://www.lightontri.com/premier-triathlon.html
+Redirect 301 /actualites.html https://www.lightontri.com/
+Redirect 301 /evenement-woippy.html https://www.lightontri.com/woippy-evenement.html
+Redirect 301 /evenement-pierre-percee.html https://www.lightontri.com/pierre-percee-evenement.html
+Redirect 301 /evenement-madine.html https://www.lightontri.com/madine-evenement.html
+# Anciennes adresses du site Wix
+Redirect 301 /light-on-triathlon-woippy https://www.lightontri.com/woippy.html
+Redirect 301 /light-on-triathlon-pierre-percee https://www.lightontri.com/pierre-percee.html
+Redirect 301 /light-on-triathlon-madine https://www.lightontri.com/madine.html
+Redirect 301 /devenir-benevoles https://www.lightontri.com/communaute.html
+Redirect 301 /faq https://www.lightontri.com/woippy-evenement.html
+Redirect 301 /presse https://www.lightontri.com/communaute.html
+Redirect 301 /triathlon https://www.lightontri.com/premier-triathlon.html

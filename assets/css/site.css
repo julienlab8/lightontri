@@ -1347,3 +1347,207 @@
 .route-embed iframe { width: 100%; height: 520px; border: 0; border-radius: 0; display: block; background: var(--surface); filter: grayscale(0.45) saturate(0.8) brightness(1.14) contrast(0.9) sepia(0.06); }
 .route-embed figcaption { margin-top: 16px; color: var(--muted); font-size: 14px; }
 @media (max-width: 860px) { .route-grid { grid-template-columns: 1fr; gap: 40px; } .route-embed iframe { height: 464px; } }
+
+/* ============ REFONTE ARBORESCENCE ( 11/10/2026) : 3 lieux + Rejoindre l'aventure ============ */
+/* Menu : étoiles des lieux, carte info texte (pas de photo : aucune photo en double sur le site) */
+.nav-parent .st { color: var(--accent); font-size: .8em; margin-left: 1px; vertical-align: top; }
+.nav-drop.mega .mega-info { display: flex; flex-direction: column; justify-content: flex-end; gap: 4px; width: 216px; margin-left: 4px; padding: 18px 16px; background: var(--surface-2); border-left: 2px solid var(--accent); text-decoration: none; }
+.nav-drop.mega .mega-info .mi-k { font-family: var(--display); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.nav-drop.mega .mega-info .mi-t { font-family: var(--display); font-weight: 700; font-size: 26px; line-height: 1; text-transform: uppercase; color: var(--text); }
+.nav-drop.mega .mega-info .mi-t em { font-style: normal; color: var(--accent); font-size: .6em; vertical-align: top; }
+.nav-drop.mega .mega-info .mi-p { font-size: 13px; color: var(--muted); }
+.nav-drop.mega .mega-info .mi-go { margin-top: 10px; font-family: var(--display); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--text); }
+.nav-drop.mega .mega-info:hover .mi-go { color: var(--accent); }
+@media (max-width: 1100px) { .nav-drop.mega .mega-info { display: none; } }
+
+/* Accueil : les 3 lieux dans le hero */
+.hero-evs { list-style: none; margin: 0; padding: 18px 22px; display: grid; gap: 10px; }
+.hero-evs a { display: flex; justify-content: space-between; align-items: baseline; gap: 24px; text-decoration: none; color: var(--text); }
+.hero-evs b { font-family: var(--display); font-weight: 700; font-size: clamp(16px, 1.6vw, 22px); text-transform: uppercase; }
+.hero-evs b em { font-style: normal; color: var(--accent); font-size: .7em; vertical-align: top; }
+.hero-evs span { font-family: var(--display); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); white-space: nowrap; }
+.hero-evs a:hover b { color: var(--accent); }
+
+/* Accueil : une ligne par lieu */
+.ev-row { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(24px, 4vw, 64px); align-items: center; padding-block: clamp(36px, 5vw, 64px); border-bottom: 1px solid var(--line-2); }
+.ev-row:nth-of-type(even) .ev-ph { order: 2; }
+.ev-ph { position: relative; display: block; aspect-ratio: 4/3; overflow: hidden; }
+.ev-ph img { width: 100%; height: 100%; object-fit: cover; transition: transform .8s var(--ease); }
+.ev-ph:hover img { transform: scale(1.04); }
+.ev-ph::after { content: ""; position: absolute; inset: 0; background: linear-gradient(0deg, rgba(35,35,35,.75) 0%, rgba(35,35,35,0) 50%); }
+.ev-big { position: absolute; left: 20px; bottom: 14px; z-index: 1; font-family: var(--display); font-weight: 700; font-size: clamp(56px, 7vw, 108px); line-height: .85; letter-spacing: -.02em; color: var(--text); }
+.ev-big small { display: block; font-size: .3em; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); margin-top: 6px; }
+.ev-idx { display: block; font-family: var(--display); font-weight: 700; font-size: 12px; letter-spacing: .14em; color: var(--accent); margin-bottom: 14px; }
+.ev-date { display: block; font-family: var(--display); font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.ev-name { margin: 8px 0 6px; font-size: clamp(44px, 6.4vw, 104px); line-height: .9; letter-spacing: -.02em; }
+.ev-name a { color: var(--text); text-decoration: none; }
+.ev-name em { font-style: normal; color: var(--accent); font-size: .42em; vertical-align: top; margin-left: .04em; }
+.ev-name a:hover { color: var(--accent); }
+.ev-name a:hover em { color: var(--text); }
+.ev-place { margin: 0 0 18px; font-family: var(--display); font-size: 13px; letter-spacing: .06em; text-transform: uppercase; color: var(--accent); }
+.ev-txt { margin: 0 0 22px; color: rgba(255,255,255,.82); max-width: 46ch; font-size: 17px; line-height: 1.6; }
+.ev-chips { list-style: none; margin: 0 0 28px; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.ev-chips li { display: flex; flex-direction: column; gap: 2px; padding: 9px 12px; border: 1px solid var(--line-2); min-width: 84px; }
+.ev-chips b { font-family: var(--display); font-size: 15px; }
+.ev-chips span { font-size: 12px; color: var(--muted); }
+.ev-row .hero-actions { align-items: center; gap: 14px 28px; }
+.ev-more { font-family: var(--display); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; }
+@media (max-width: 860px) {
+  .ev-row { grid-template-columns: minmax(0, 1fr); }
+  .ev-row:nth-of-type(even) .ev-ph { order: 0; }
+  .ev-idx { display: none; }
+}
+
+/* Accueil : qui court où */
+.matrix { min-width: 720px; }
+.matrix thead th a { display: block; font-family: var(--display); font-weight: 700; font-size: clamp(18px, 1.8vw, 26px); text-transform: uppercase; color: var(--text); text-decoration: none; }
+.matrix thead th em { font-style: normal; color: var(--accent); font-size: .65em; vertical-align: top; }
+.matrix thead th span { display: block; margin-top: 4px; font-size: 12px; letter-spacing: .08em; color: var(--accent); }
+.matrix tbody th b { display: block; font-family: var(--display); font-size: 20px; }
+.matrix tbody th span { display: block; margin-top: 2px; font-weight: 400; font-size: 13px; color: var(--muted); }
+.matrix td a { color: var(--text); text-decoration: none; font-weight: 500; }
+.matrix td a:hover { color: var(--accent); }
+.matrix td small { display: block; font-size: 12px; color: var(--muted); }
+.matrix td.no { color: var(--faint); }
+
+/* Packs */
+.packs { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 32px clamp(32px, 5vw, 80px); padding: clamp(28px, 4vw, 56px); background: var(--surface); border-top: 2px solid var(--accent); }
+.packs .h-sec { margin: 10px 0 18px; }
+.packs-txt p { margin: 0 0 12px; color: rgba(255,255,255,.82); max-width: 48ch; }
+.packs-txt .packs-note { font-size: 14px; color: var(--muted); }
+.packs-offers { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; align-self: center; }
+.pack { padding: 22px 20px; border: 1px solid var(--line-2); }
+.pack.hot { border-color: var(--accent); }
+.pack-k { display: block; font-family: var(--display); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.pack-v { display: block; margin: 8px 0 4px; font-family: var(--display); font-size: clamp(56px, 6vw, 88px); line-height: .9; color: var(--accent); }
+.pack-v small { font-size: .45em; vertical-align: top; }
+.pack-d { font-size: 13px; color: var(--muted); }
+.packs-cal { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; grid-column: 1 / -1; border-top: 1px solid var(--line-2); padding-top: 22px; }
+.packs-cal a { display: flex; flex-direction: column; text-decoration: none; color: var(--text); }
+.packs-cal b { font-family: var(--display); font-size: clamp(15px, 1.5vw, 20px); text-transform: uppercase; }
+.packs-cal b em { font-style: normal; color: var(--accent); font-size: .7em; vertical-align: top; }
+.packs-cal span { font-size: 13px; color: var(--muted); }
+.packs-cal a:hover b { color: var(--accent); }
+.packs .hero-actions { grid-column: 1 / -1; margin: 0; }
+@media (max-width: 860px) { .packs { grid-template-columns: minmax(0, 1fr); } }
+@media (max-width: 520px) { .packs-cal { grid-template-columns: minmax(0, 1fr); } }
+
+/* Pages courses : bandeau des 3 disciplines */
+.disc { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; margin-top: clamp(32px, 4vw, 48px); background: var(--line-2); border-block: 1px solid var(--line-2); }
+.disc-i { background: var(--bg); padding: 24px 24px 24px 0; }
+.disc-i + .disc-i { padding-left: 24px; }
+.disc-ico { display: inline-flex; width: 26px; height: 26px; color: var(--accent); vertical-align: middle; }
+.disc-ico svg { width: 100%; height: 100%; }
+.disc-l { margin-left: 10px; font-family: var(--display); font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); vertical-align: middle; }
+.disc-v { display: block; margin: 14px 0 8px; font-family: var(--display); font-size: clamp(30px, 3.4vw, 48px); line-height: 1; }
+.disc-i p { margin: 0; font-size: 15px; line-height: 1.55; color: var(--muted); }
+.c-actions { margin-top: 28px; }
+.course-sec + .course-sec { padding-top: 0; }
+@media (max-width: 760px) {
+  .disc { grid-template-columns: minmax(0, 1fr); }
+  .disc-i, .disc-i + .disc-i { padding: 20px 0; }
+}
+.cmp td b { display: block; font-family: var(--display); font-size: 17px; margin-bottom: 4px; }
+.cmp-more { margin: 22px 0 0; color: var(--muted); }
+
+/* Et aussi : enfants et RUN */
+.xgrid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; margin-top: clamp(28px, 3vw, 40px); }
+.xgrid.three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.xcard { display: flex; flex-direction: column; padding-top: 22px; border-top: 1px solid var(--line-2); position: relative; }
+.xcard::before { content: ""; position: absolute; top: -1px; left: 0; width: 48px; height: 2px; background: var(--accent); }
+.x-when { font-family: var(--display); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.xcard h3 { margin: 10px 0 4px; font-size: clamp(30px, 3vw, 42px); }
+.xcard h3 em { font-style: normal; color: var(--accent); font-size: .6em; vertical-align: top; }
+.x-kind { font-size: 13px; color: var(--muted); }
+.x-dist { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 18px 0 14px; }
+.x-d { display: inline-flex; align-items: center; gap: 8px; font-family: var(--display); font-weight: 700; font-size: 17px; }
+.x-d .disc-ico { width: 22px; height: 22px; }
+.xcard > p { margin: 0 0 12px; color: rgba(255,255,255,.82); }
+.xcard .x-meta { font-size: 14px; color: var(--muted); }
+.xcard .q-inline { margin: 4px 0 18px; }
+.xcard .btn { align-self: flex-start; margin-top: auto; }
+.s-card { display: flex; flex-direction: column; }
+.s-card .go, .join-grid .go, .social-grid .go { margin-top: auto; padding-top: 14px; font-family: var(--display); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.join-grid .icard, .social-grid .icard { display: flex; flex-direction: column; }
+.btn.btn-sm { padding: 12px 18px; font-size: 12px; }
+.fine { margin: 22px 0 0; font-size: 14px; color: var(--muted); max-width: 70ch; }
+@media (max-width: 960px) { .xgrid.three { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 640px) { .xgrid, .xgrid.three { grid-template-columns: minmax(0, 1fr); gap: 36px; } }
+
+/* Accueil : liste d'inscription par lieu */
+.reg-list { display: grid; gap: 0; margin-top: 28px; max-width: 640px; border-top: 1px solid var(--line-2); }
+.reg-row { display: flex; justify-content: space-between; align-items: center; gap: 18px; padding: 16px 0; border-bottom: 1px solid var(--line-2); }
+.reg-row > a { display: flex; flex-direction: column; text-decoration: none; color: var(--text); }
+.reg-row b { font-family: var(--display); font-size: clamp(18px, 2vw, 26px); text-transform: uppercase; }
+.reg-row b em { font-style: normal; color: var(--accent); font-size: .65em; vertical-align: top; }
+.reg-row span { font-size: 13px; color: var(--muted); }
+.reg-row > a:hover b { color: var(--accent); }
+@media (max-width: 520px) { .reg-row { flex-direction: column; align-items: flex-start; } }
+
+/* Premier triathlon : le sac */
+.checklist { list-style: none; margin: clamp(28px, 3vw, 40px) 0 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 48px; }
+.checklist li { display: grid; grid-template-columns: 28px minmax(0, 1fr); column-gap: 14px; padding: 18px 0; border-top: 1px solid var(--line-2); }
+.checklist li::before { content: ""; grid-row: 1 / span 2; width: 18px; height: 18px; margin-top: 3px; border: 2px solid var(--accent); }
+.checklist b { font-family: var(--display); font-size: 16px; text-transform: uppercase; }
+.checklist span { color: var(--muted); font-size: 15px; margin-top: 4px; }
+@media (max-width: 700px) { .checklist { grid-template-columns: minmax(0, 1fr); } }
+
+/* Rejoindre : photo + contenu */
+.split { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); gap: clamp(28px, 4vw, 64px); align-items: start; margin-top: clamp(28px, 3vw, 40px); }
+.split-ph { aspect-ratio: 4/5; overflow: hidden; }
+.split-ph img { width: 100%; height: 100%; object-fit: cover; display: block; }
+@media (max-width: 860px) { .split { grid-template-columns: minmax(0, 1fr); } .split-ph { aspect-ratio: 16/10; } }
+
+.photo-strip.three { grid-template-columns: repeat(3, 1fr); }
+.photo-strip.three figure { aspect-ratio: 4/5; }
+@media (max-width: 860px) { .photo-strip.three { grid-template-columns: repeat(2, 1fr); } .photo-strip.three figure:last-child { grid-column: 1 / -1; aspect-ratio: 16/9; } }
+.wide-sep .wide-photo { margin: 0 0 clamp(56px, 7vw, 96px); }
+.matrix-sec .cmp-wrap { margin-top: 28px; }
+.packs .h-sec { font-size: clamp(30px, 3.6vw, 56px); }
+.reg-row .soon-tag, .ev-row .soon-tag, .xcard .soon-tag, .hero-evs + .soon-tag { display: none; }
+.ev-name { font-size: clamp(40px, 4.8vw, 84px); white-space: nowrap; }
+@media (max-width: 520px) { .ev-name { white-space: normal; } }
+/* Les menus des derniers onglets s'ouvrent vers la gauche (pas de débordement horizontal) */
+@media (min-width: 1041px) {
+  .nav-links > .nav-item:nth-child(n+2) .nav-drop.mega { left: auto; right: -14px; }
+  .nav-links > .nav-item:last-child .nav-drop { left: auto; right: -14px; }
+}
+/* Tableaux à textes longs : seule la ligne « Départ » reste en titre orange */
+.cmp.detail tbody tr:nth-child(-n+3) td, .cmp.matrix tbody tr:nth-child(-n+3) td { font-family: var(--font); font-weight: 400; font-size: 15px; color: rgba(255,255,255,.86); }
+.cmp.detail tbody tr:first-child td { font-family: var(--display); font-weight: 700; font-size: 17px; color: var(--accent); }
+.cmp.detail { min-width: 760px; }
+.cmp.detail tbody th { width: 15%; }
+.cmp.detail td b { color: var(--text); }
+.cmp.matrix tbody td a { font-weight: 500; }
+@media (max-width: 520px) {
+  .btn .soon-tag { display: none; }
+  .packs { padding: 24px 18px; }
+  .packs-offers { gap: 8px; }
+  .pack { padding: 16px 14px; }
+}
+/* Qui court où, sur mobile : une carte par course au lieu d'un tableau à faire défiler */
+@media (max-width: 640px) {
+  .matrix-sec .cmp-wrap { overflow: visible; }
+  .matrix-sec .swipe-hint { display: none; }
+  .cmp.matrix { min-width: 0; display: block; }
+  .cmp.matrix thead { display: none; }
+  .cmp.matrix tbody, .cmp.matrix tr { display: block; }
+  .cmp.matrix tr { padding: 18px 0; border-top: 1px solid var(--line-2); }
+  .cmp.matrix tbody th { position: static; display: flex; align-items: baseline; gap: 12px; width: auto; padding: 0 0 10px; border: 0; background: none; }
+  .cmp.matrix tbody th span { margin: 0; }
+  .cmp.matrix td { display: flex; justify-content: space-between; gap: 12px; padding: 7px 0; border: 0; }
+  .cmp.matrix td::before { content: attr(data-ev); font-family: var(--display); font-weight: 700; font-size: 13px; text-transform: uppercase; color: var(--accent); }
+  .cmp.matrix td a { text-align: right; }
+  .cmp.matrix td.no { display: none; }
+  .cmp.matrix tbody tr:last-child th, .cmp.matrix tbody tr:last-child td { border-bottom: 0; }
+}
+.packs-txt .packs-note { margin-top: 18px; padding: 12px 0 12px 16px; border-left: 3px solid var(--accent); font-size: 15px; color: rgba(255,255,255,.86); }
+.packs-txt .packs-note b { color: var(--text); }
+.packs-txt .packs-fine { font-size: 13.5px; color: var(--muted); }
+.sub-h { margin: clamp(36px, 4vw, 52px) 0 0; font-size: clamp(20px, 2vw, 26px); }
+.icard-grid.steps.five { grid-template-columns: repeat(5, minmax(0, 1fr)); margin-top: 24px; margin-bottom: clamp(32px, 4vw, 48px); }
+@media (max-width: 1100px) { .icard-grid.steps.five { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 760px) { .icard-grid.steps.five { grid-template-columns: minmax(0, 1fr); } }
+/* Bandeau orange : le mot mis en avant passe en blanc (orange sur orange = invisible) */
+.cta-slim h2 em { color: var(--text); }
+.cta-slim h2 .sq { color: var(--bg); }

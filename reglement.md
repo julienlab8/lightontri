@@ -74,7 +74,9 @@ Les inscriptions se font uniquement en ligne sur le site [www.lightontri.com](ht
 
 - **Triathlon S\*** : 34 € (licencié) / 39 € (non-licencié).
 
-- **Kids** : 10 €.
+- **Mini-Kids et Kids** : 15 €.
+
+- **RUN 5, 6 et 7 km** : 12 €.
 
 Pour les licenciés, la licence de triathlon doit être téléchargée sur l'interface d'inscription. Pour les non-licenciés, un certificat médical de non-contre-indication à la pratique du triathlon (ou du sport) en compétition, datant de moins d'un an, doit être téléchargé sur l'interface d'inscription au plus tard 15 jours avant l'événement.
 
@@ -258,4 +260,4 @@ Pour toute question relative à l'épreuve : [hello@lightontri.com](mailto:hell
 
 Écrivez-nous, on répond. Inscriptions ouvertes le 13 octobre 2026.
 
-[S'inscrireBientôt](https://www.lightontri.com/infos.html#inscriptions) [Nous écrire](https://www.lightontri.com/communaute.html#contact)
+[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Nous écrire](https://www.lightontri.com/communaute.html#contact)

@@ -58,4 +58,4 @@ Un retour sur l'édition Madine de septembre 2026, via l'enquête de satisfactio
 
 Inscriptions ouvertes le 13 octobre 2026.
 
-[S'inscrireBientôt](https://www.lightontri.com/infos.html#inscriptions)
+[S'inscrire](https://in.njuko.com/light-on-tri-2027)

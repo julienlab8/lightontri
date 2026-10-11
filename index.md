@@ -1,205 +1,196 @@
-# LIGHT ON TRI · Triathlons Woippy, Pierre-Percée & Madine · Saison 2027
+# LIGHT ON TRI 2027 · Triathlons de Woippy, Pierre-Percée et Madine
 
-> Trois triathlons LIGHT ON en 2027 : Woippy** (16 mai), Pierre-Percée*** (12-13 juin) et Madine*** (18-19 septembre). Du S* au L***, du premier triathlon au grand format.
+> Trois triathlons LIGHT ON en 2027 : Woippy** le 16 mai, Pierre-Percée*** du 11 au 13 juin, Madine*** les 18 et 19 septembre. S*, M**, L***, Kids et RUN, packs -15 % et -20 %.
 
 Version Markdown de https://www.lightontri.com/ . La page HTML fait foi.
 
 ---
 
-**Saison 2027** - Woippy, Pierre-Percée & Madine
+**Saison 2027** - 3 triathlons, 3 lacs du Grand Est
 
 ## Light On Tri
 
-[S'inscrire](https://www.lightontri.com/infos.html#inscriptions) Voir les 3 épreuves
+[S'inscrire](https://in.njuko.com/light-on-tri-2027) Choisir mon triathlon
 
-S\* · M\*\* · L\*\*\*3 rendez-vous dans le Grand Est
+- [**Woippy\*\***16 mai](https://www.lightontri.com/woippy.html)
 
-Nage, pédale, cours. Une seule règle : en profiter.
+- [**Pierre-Percée\*\*\***11-13 juin](https://www.lightontri.com/pierre-percee.html)
 
-### L'essentiel
+- [**Madine\*\*\***18-19 sept.](https://www.lightontri.com/madine.html)
 
-- **3 épreuves** : Woippy\*\* · Pierre-Percée\*\*\* · Madine\*\*\*. 16 mai, 12-13 juin, 18-19 septembre 2027
-- **Formats** : S\* · M\*\* · L\*\*\*. Du premier triathlon au grand format
-- **Lieux** : Woippy (57) · Pierre-Percée (88) · Madine (55). Trois lacs du Grand Est
-- **Tarifs 2027** : 34-39 € · 59-69 € · 119-134 €. S\* · M\*\* · L\*\*\* selon la période
-- **Organisation** : LIGHT ON. Association Woippy Triathlon
+Trois lacs, trois dates. Une seule règle : en profiter.
 
 **01** Trois lacs, trois rendez-vous
 
 ### La saison2027
 
-[Comparer les formats](https://www.lightontri.com/courses.html)
+Qui court où ?
 
-M \*\*
+01 Dimanche 16 mai 2027
 
-Dimanche 16 mai 2027
+#### [Woippy\*\*](https://www.lightontri.com/woippy.html)
 
-#### LIGHT ON TRI Woippy\*\*
+Woippy Plage · Aux portes de Metz, à 45 minutes de Nancy
 
-Premier rendez-vous de la saison, en Moselle. S\* et M\*\* pour se lancer ou retrouver le rythme.
+On ouvre la saison aux portes de Metz : départ natation dans l'eau, trois boucles de vélo pour le M\*\*, et un RUN 6 KM pour les copains qui ne nagent pas.
 
-Formats : S\* · M\*\*
+- **S\***Dim. 9h00
 
-Lieu : Woippy (57)
+- **RUN 6 KM**Dim. 11h30
 
-Voir l'épreuve
+- **M\*\***Dim. 13h30
 
-[Voir la page](https://www.lightontri.com/evenement-woippy.html)
+[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Les courses](https://www.lightontri.com/woippy.html) [Programme & infos](https://www.lightontri.com/woippy-evenement.html)
 
-L \*\*\*
+02 Du vendredi 11 au dimanche 13 juin 2027
 
-Vendredi 11 au dimanche 13 juin 2027
+#### [Pierre-Percée\*\*\*](https://www.lightontri.com/pierre-percee.html)
 
-#### LIGHT ON TRI Pierre-Percée\*\*\*
+Lac de Pierre-Percée · Entre Nancy et Strasbourg
 
-Le format complet au bord du lac, dans les Vosges. S\* pour découvrir, L\*\*\* pour le grand format du week-end.
+Le triathlon revient au lac de Pierre-Percée. Trois jours, six courses, et le L\*\*\* le samedi matin pour ceux qui voient grand.
 
-Formats : S\* · M\*\* · L\*\*\*
+- **L\*\*\***Sam. 9h30
 
-Lieu : Celles-sur-Plaine (88)
+- **MiniKids**Sam. 11h00
 
-Voir l'épreuve
+- **Kids**Sam. 11h30
 
-[Voir la page](https://www.lightontri.com/evenement-pierre-percee.html)
+- **RUN 5 KM**Sam. 17h30
 
-L \*\*\*
+- **S\***Dim. 9h00
 
-Samedi 18 - dimanche 19 septembre 2027
+- **M\*\***Dim. 13h30
 
-#### LIGHT ON TRI Madine\*\*\*
+[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Les courses](https://www.lightontri.com/pierre-percee.html) [Programme & infos](https://www.lightontri.com/pierre-percee-evenement.html)
 
-Le rendez-vous de clôture, au Lac de Madine. S\*, M\*\*, L\*\*\*, Kids et RUN 7 KM pour toute la famille.
+03 Samedi 18 et dimanche 19 septembre 2027
 
-Formats : S\* · M\*\* · L\*\*\* · Kids · RUN 7 KM
+#### [Madine\*\*\*](https://www.lightontri.com/madine.html)
 
-Lieu : Nonsard-Lamarche (55)
+Lac de Madine · Entre Metz et Nancy
 
-Voir l'épreuve
+Le rendez-vous de fin de saison, au bord du lac de Madine. Du MiniKids au L\*\*\*, toute la famille repart avec un dossard.
 
-[Voir la page](https://www.lightontri.com/evenement-madine.html)
+- **L\*\*\***Sam. 9h30
 
-**02** Retours de triathlètes 2026
+- **MiniKids**Sam. 11h00
 
-### Ce qu'ils en disent.
+- **Kids**Sam. 11h30
 
-> Très agréablement surpris par l'organisation que j'ai trouvé impeccable.
+- **RUN 7 KM**Sam. 17h30
 
-**Renaud M.** | S\* · Madine 2026
+- **S\***Dim. 9h00
 
-> Tout est top !!! Les bénévoles au top !!! Pareil pour l'organisation c'est vraiment carré avec une très bonne ambiance.
+- **M\*\***Dim. 13h30
 
-**Geoffrey L.** | L\*\*\* · Madine 2026
+[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Les courses](https://www.lightontri.com/madine.html) [Programme & infos](https://www.lightontri.com/madine-evenement.html)
 
-> J'ai passé une excellente journée, ravie d'avoir fini mon M malgré le vent.
+**02** Chaque lieu a sa date et ses courses
 
-**Marie M.** | M\*\* · Madine 2026
+### Qui court où ?
 
-> Toutes les réponses à mes questions se trouvaient dans le guide ou sur le site. Facile d'accès, lisible.
+Les courses LIGHT ON TRI 2027 par lieu et par date
 
-**Bérangère H.** | S\* · Madine 2026
+|  | [Woippy\*\*16 mai](https://www.lightontri.com/woippy.html) | [Pierre-Percée\*\*\*11-13 juin](https://www.lightontri.com/pierre-percee.html) | [Madine\*\*\*18-19 sept.](https://www.lightontri.com/madine.html) |
+|---|---|---|---|
+| **S\***0,5 km · 17 à 20 km · 5 à 5,6 km | [Dim. 16 mai · 9h00](https://www.lightontri.com/woippy.html#s) | [Dim. 13 juin · 9h00](https://www.lightontri.com/pierre-percee.html#s) | [Dim. 19 sept. · 9h00](https://www.lightontri.com/madine.html#s) |
+| **M\*\***1,5 km · 40 à 45 km · 10 km | [Dim. 16 mai · 13h30](https://www.lightontri.com/woippy.html#m) | [Dim. 13 juin · 13h30](https://www.lightontri.com/pierre-percee.html#m) | [Dim. 19 sept. · 13h30](https://www.lightontri.com/madine.html#m) |
+| **L\*\*\***1,9 km · 85 à 90 km · 21 km | - | [Sam. 12 juin · 9h30](https://www.lightontri.com/pierre-percee.html#l) | [Sam. 18 sept. · 9h30](https://www.lightontri.com/madine.html#l) |
+| **MiniKids**Nés de 2018 à 2021 | - | [Sam. 12 juin · 11h00Duathlon](https://www.lightontri.com/pierre-percee.html#jeunes) | [Sam. 18 sept. · 11h00Triathlon](https://www.lightontri.com/madine.html#jeunes) |
+| **Kids**Nés de 2014 à 2017 | - | [Sam. 12 juin · 11h30Duathlon](https://www.lightontri.com/pierre-percee.html#jeunes) | [Sam. 18 sept. · 11h30Triathlon](https://www.lightontri.com/madine.html#jeunes) |
+| **RUN**Course à pied | [6 km · dim. 16 mai · 11h30](https://www.lightontri.com/woippy.html#run) | [5 km · sam. 12 juin · 17h30](https://www.lightontri.com/pierre-percee.html#run) | [7 km · sam. 18 sept. · 17h30](https://www.lightontri.com/madine.html#run) |
 
-> Très bonne communication sur les réseaux sociaux, ça donne envie.
+**03** Packs saison 2027
 
-**Fanny I.** | M\*\* · Madine 2026
+### Plus vous enchaînez, moins vous payez.
 
-Ce sont leurs mots, pas les nôtres. **Les prochains, c'est vous qui les écrirez.**
+Mettez 2 triathlons dans votre panier : -15 %. Mettez-en 3 : -20 %. La remise s'applique toute seule, sans code promo.
 
-[S'inscrire](https://www.lightontri.com/infos.html#inscriptions)
+S\*, M\*\* ou L\*\*\*, sur un ou plusieurs lieux : deux fois Pierre-Percée, Woippy puis Madine, mélange des formats, c'est vous qui composez.
+
+**Un pack, une seule personne.** Les courses doivent être au nom du même participant : un dossard pour vous, un pour votre conjoint et un pour votre fils, ça fait trois inscriptions, pas un pack.
+
+Packs valables sur les triathlons S\*, M\*\* et L\*\*\*, hors Kids et RUN.
+
+Pack 2 courses**-15%**2 triathlons, même participant
+
+Pack 3 courses**-20%**3 triathlons, même participant
+
+- [**Woippy\*\***16 mai](https://www.lightontri.com/woippy.html)
+
+- [**Pierre-Percée\*\*\***12-13 juin](https://www.lightontri.com/pierre-percee.html)
+
+- [**Madine\*\*\***18-19 sept.](https://www.lightontri.com/madine.html)
+
+[Composer mon pack](https://in.njuko.com/light-on-tri-2027)
+
+**04** Premier triathlon
+
+### Jamais fait de triathlon ?
+
+Le S\* est fait pour ça : 500 m de nage, une boucle de vélo, 5 km de course et aucun temps limite. On vous explique tout, du sac à préparer à la ligne d'arrivée.
+
+#### Quel format choisir
+
+Le S\* à Woippy, Pierre-Percée ou Madine : trois dates pour se lancer.
+
+[Voir la page](https://www.lightontri.com/premier-triathlon.html#format)
+
+#### Le jour J, étape par étape
+
+Du retrait du dossard à l'arche d'arrivée, transitions comprises.
+
+[Voir la page](https://www.lightontri.com/premier-triathlon.html#jour-j)
+
+#### Le sac à préparer
+
+Ce que vous apportez, ce que l'organisation fournit.
+
+[Voir la page](https://www.lightontri.com/premier-triathlon.html#sac)
 
 ### Le goût de l'effort, grandeur nature.
 
-Trois lacs du Grand Est, trois ambiances, une seule organisation : LIGHT ON.
+Trois lacs du Grand Est, les bénévoles du LIGHT ON Crew sur tout le parcours, et une arche d'arrivée qui vous attend.
 
-**03** L'événement
+**05** Rejoindre l'aventure
 
-### La course, et tout ce qu'il y a autour.
+### Sans dossard ?
 
-Natation, vélo, course à pied : trois disciplines, une seule transition à gérer. Le Village LIGHT ON accueille coureurs et supporters pour chaque épreuve.
+[Toutes les façons de participer](https://www.lightontri.com/communaute.html)
 
-#### Premier triathlon
+#### Devenir bénévole
 
-Transitions, matériel, règles de base : tout ce qu'il faut savoir avant de se lancer.
+Signaleurs, ravitos, retrait des dossards : sans le LIGHT ON Crew, pas de course.
 
-[Voir la page](https://www.lightontri.com/infos.html#premier-triathlon)
+Rejoindre le Crew
 
-#### Les formats
+[Voir la page](https://www.lightontri.com/communaute.html#benevole)
 
-S\*, M\*\* ou L\*\*\* : comparez les distances et choisissez le vôtre.
+#### Devenir partenaire
 
-[Voir la page](https://www.lightontri.com/courses.html)
+Associer votre marque à trois week-ends de triathlon dans le Grand Est.
 
-#### Préparer sa venue
+Parlons-en
 
-Inscriptions, matériel, règlement : l'essentiel avant le départ.
+[Voir la page](https://www.lightontri.com/communaute.html#partenaire)
 
-[Voir la page](https://www.lightontri.com/infos.html)
+#### Nous suivre
 
-**04** En images
+Instagram et Facebook : les annonces, les photos et les coulisses de la saison.
 
-### Retour sur Madine 2026.
+@lighton_tri
 
-Natation, vélo, course à pied et arrivée au Lac de Madine. Voilà à quoi ça ressemblait.
+[Voir la page](https://www.lightontri.com/communaute.html#suivre)
 
-[Toutes les photos](https://www.lightontri.com/medias.html)
-
-**05** Actualités
-
-### Quoi de neuf ?
-
-[Toutes les actualités](https://www.lightontri.com/actualites.html)
-
-16 mai 2027
-
-#### Woippy\*\* ouvre la saison
-
-S\* et M\*\* à Woippy, en Moselle : le premier rendez-vous LIGHT ON TRI de 2027.
-
-[Voir la page](https://www.lightontri.com/evenement-woippy.html)
-
-12-13 juin 2027
-
-#### Pierre-Percée\*\*\* : le week-end complet
-
-S\*, M\*\* et L\*\*\* au bord du lac, dans les Vosges.
-
-[Voir la page](https://www.lightontri.com/evenement-pierre-percee.html)
-
-18-19 septembre 2027
-
-#### Madine\*\*\* clôture la saison
-
-S\*, M\*\*, L\*\*\*, Kids et RUN 7 KM au Lac de Madine.
-
-[Voir la page](https://www.lightontri.com/evenement-madine.html)
-
-Toute l'année
-
-#### [Rejoindre le LIGHT ON Crew](https://www.lightontri.com/communaute.html#benevole)
-
-Ravitaillements, transitions, Village LIGHT ON : sans bénévoles, pas de course.
-
-Saison 2027
+Inscriptions 2027
 
 ### On se voit sur la ligne de départ ?
 
-Choisissez votre épreuve et votre format. Inscriptions ouvertes le **mardi 13 octobre 2026 à 20h00**.
+Ouverture le mardi 13 octobre 2026 à 20h00. Choisissez votre lieu et votre format, et pensez au pack si vous en faites plusieurs.
 
-Ouverture des inscriptions dans
+[**Woippy\*\***Dimanche 16 mai 2027](https://www.lightontri.com/woippy.html)[S'inscrire](https://in.njuko.com/light-on-tri-2027)
 
-00Jours
+[**Pierre-Percée\*\*\***Du vendredi 11 au dimanche 13 juin 2027](https://www.lightontri.com/pierre-percee.html)[S'inscrire](https://in.njuko.com/light-on-tri-2027)
 
-00Heures
-
-00Minutes
-
-00Secondes
-
-[S'inscrireBientôt](https://www.lightontri.com/infos.html#inscriptions) [Comparer les formats](https://www.lightontri.com/courses.html)
-
-06 Partenaires
-
-### Soutenir la saison.
-
-Vous voulez associer votre marque à une saison de triathlons LIGHT ON ? Parlons-en.
-
-[Devenir partenaire](mailto:hello@lightontri.com?subject=Devenir%20partenaire%20LIGHT%20ON%20TRI)
+[**Madine\*\*\***Samedi 18 et dimanche 19 septembre 2027](https://www.lightontri.com/madine.html)[S'inscrire](https://in.njuko.com/light-on-tri-2027)

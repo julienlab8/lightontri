@@ -17,15 +17,16 @@ ROOT = Path(__file__).resolve().parent.parent
 BASE = "https://www.lightontri.com/"
 PAGES = {
     "index.html": "index.md",
-    "courses.html": "courses.md",
-    "infos.html": "infos.md",
-    "evenement-woippy.html": "evenement-woippy.md",
-    "evenement-pierre-percee.html": "evenement-pierre-percee.md",
-    "evenement-madine.html": "evenement-madine.md",
+    "woippy.html": "woippy.md",
+    "woippy-evenement.html": "woippy-evenement.md",
+    "pierre-percee.html": "pierre-percee.md",
+    "pierre-percee-evenement.html": "pierre-percee-evenement.md",
+    "madine.html": "madine.md",
+    "madine-evenement.html": "madine-evenement.md",
+    "premier-triathlon.html": "premier-triathlon.md",
+    "communaute.html": "communaute.md",
     "reglement.html": "reglement.md",
     "resultats.html": "resultats.md",
-    "communaute.html": "communaute.md",
-    "actualites.html": "actualites.md",
 }
 # Pages indexées pour la recherche du site, mais SANS version Markdown publique
 # (elles ne font pas partie du corpus llms.txt : pas de .md, pas de canonical .md).
@@ -35,7 +36,7 @@ SEARCH_ONLY = [
 ]
 # blocs sans texte utile pour un agent (décor, compte à rebours, logos, formulaires)
 SKIP_TAGS = {"script", "style", "svg", "video", "iframe", "form", "picture", "img", "noscript", "button", "source"}
-SKIP_CLASSES = {"count-band", "h-partners", "h-newsletter", "swipe-hint", "geo", "glow", "picto", "sr-skip", "tl-tag"}
+SKIP_CLASSES = {"count-band", "soon-tag", "h-partners", "h-newsletter", "swipe-hint", "geo", "glow", "picto", "sr-skip", "tl-tag"}
 BLOCKS = {"p", "li", "h1", "h2", "h3", "h4", "dt", "dd", "summary", "blockquote", "figcaption", "caption", "tr", "td", "th", "div", "section", "figure", "details", "dl", "ul", "ol", "table", "article"}
 
 
@@ -263,8 +264,13 @@ if __name__ == "__main__":
     print(f"assets/search-index.json -> {len(fr_index)} pages")
 
     # --- EN / DE : index de recherche seulement (pas de .md, hors corpus llms.txt) ---
+    # Refonte du 11/10/2026 : EN/DE seront retraduits une fois le FR validé. Tant que la
+    # nouvelle arborescence n'existe pas dans en/ et de/, on ne touche pas à leurs index.
     ALL_PAGES = list(PAGES.keys()) + SEARCH_ONLY
     for lang in ("en", "de"):
+        if not all((ROOT / lang / src).exists() for src in ALL_PAGES):
+            print(f"{lang}/ : arborescence pas encore traduite, index inchangé")
+            continue
         idx = []
         for src in ALL_PAGES:
             convert(f"{lang}/{src}", idx, prefix=f"{lang}/")
