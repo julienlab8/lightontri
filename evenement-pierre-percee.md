@@ -12,8 +12,6 @@ Trois jours au bord du lac, dans les Vosges : retrait des dossards le vendredi,
 
 [S'inscrire](https://www.lightontri.com/infos.html#inscriptions) Voir le programme
 
-**À savoir :** aucune photo ou vidéo officielle de Pierre-Percée n'est disponible à ce stade - cette page est volontairement sans visuel plutôt que d'illustrer avec des images d'une autre épreuve.
-
 Programme
 
 ### Le week-end, heure par heure.

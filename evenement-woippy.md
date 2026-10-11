@@ -12,8 +12,6 @@ Premier rendez-vous de la saison LIGHT ON TRI, à Woippy Plage : départ natati
 
 [S'inscrire](https://www.lightontri.com/infos.html#inscriptions) Voir le programme
 
-**À savoir :** aucune photo ou vidéo officielle de Woippy n'est disponible à ce stade - cette page est volontairement sans visuel plutôt que d'illustrer avec des images d'une autre épreuve.
-
 Programme
 
 ### Un programme encore à confirmer.
