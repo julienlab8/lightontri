@@ -1663,6 +1663,8 @@
 .nav-insta { display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; border: 1px solid var(--line-2); color: var(--muted); transition: color .15s, border-color .15s; }
 .nav-insta:hover { color: var(--text); border-color: var(--accent); }
 .nav-insta svg { width: 18px; height: 18px; }
-@media (max-width: 520px) { .nav-insta { width: 36px; height: 36px; } .nav-cta { gap: 8px !important; } }
+@media (max-width: 520px) { .nav-cta { gap: 8px !important; } }
 /* Raccourcis du menu mobile : 4 liens en 2 × 2 */
 @media (max-width: 1040px) { .nav-links .nav-quick { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; } }
+.nav-insta { box-sizing: border-box; width: 40px; height: 40px; flex: none; }
+.nav-insta svg { width: 19px; height: 19px; }
