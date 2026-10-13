@@ -69,7 +69,25 @@ Course à pied**5 km**
 
 Au départ du Village LIGHT ON, au bord du lac de la Plaine. Tracé 2027 détaillé dans le guide participant.
 
-S'inscrire au S\*
+S'inscrire au S\* Voir les tracés
+
+Parcours S\*
+
+### Le S\* en trois tracés.
+
+Natation, vélo, course à pied : les tracés du Triathlon S\* de Pierre-Percée, à zoomer tranquillement avant le jour J.
+
+#### Natation
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/24293986)
+
+#### Vélo
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/24986834)
+
+#### Course à pied
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/24149449)
 
 ### M\*\*
 
@@ -95,7 +113,25 @@ Course à pied**10 km**
 
 Au départ du Village LIGHT ON, au bord du lac de la Plaine. Tracé 2027 détaillé dans le guide participant.
 
-S'inscrire au M\*\*
+S'inscrire au M\*\* Voir les tracés
+
+Parcours M\*\*
+
+### Le M\*\* en tracés.
+
+Natation, vélo, course à pied : les tracés du Triathlon M\*\* de Pierre-Percée, à zoomer tranquillement avant le jour J.
+
+#### Natation
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/24294039)
+
+#### Vélo
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/24982300)
+
+#### Course à pied
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/25430918)
 
 ### L\*\*\*
 
@@ -121,7 +157,25 @@ Course à pied**21,1 km**
 
 Au départ du Village LIGHT ON, au bord du lac de la Plaine. Tracé 2027 détaillé dans le guide participant.
 
-S'inscrire au L\*\*\*
+S'inscrire au L\*\*\* Voir les tracés
+
+Parcours L\*\*\*
+
+### Le L\*\*\* en trois tracés.
+
+Natation, vélo, course à pied : les tracés du Triathlon L\*\*\* de Pierre-Percée, à zoomer tranquillement avant le jour J.
+
+#### Natation
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/25430881)
+
+#### Vélo
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/24130161)
+
+#### Course à pied
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/25430955)
 
 Pierre-Percée 2027
 
@@ -174,6 +228,16 @@ Course à pied
 Tarif : 12 €
 
 S'inscrire
+
+Tracés MiniKids & Kids
+
+À venir : le détail des duathlons jeunes est renvoyé au guide participant 2027.
+
+Tracé RUN 5 KM
+
+#### RUN 5 KM
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/25430893)
 
 [Packs saison-15 % 2 triathlons-20 % 3 triathlonsAutomatique dans le panier, au nom de la même personne. Hors Kids et RUN.Comment ça marche](https://www.lightontri.com/./#packs)
 

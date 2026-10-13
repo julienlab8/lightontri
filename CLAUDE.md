@@ -181,4 +181,4 @@ Ne jamais modifier les informations pratiques (horaires, distances, barrières h
 4. **Madine** : programme 2026 transposé aux dates 2027 (validé par Magali le 11/10/2026). RUN 7 KM « dès 15 ans » (ancien site).
 5. **Guide participant 2027** pas encore publié : il fera foi pour les horaires fins, les règles de drafting et les accès.
 6. **EN/DE** : à retraduire depuis le FR validé (pages encore à l'ancienne arborescence, hors sitemap).
-7. **Woippy\*\*** : le S\* (natation, vélo, course) et le RUN 6 KM ont leurs tracés OpenRunner. **Madine** : le RUN 7 KM a son tracé OpenRunner. M\*\* (Woippy), S\*/M\*\*/L\*\*\* (Madine) et Pierre-Percée : tracés à fournir.
+7. **Woippy\*\*** : le S\* (natation, vélo, course) et le RUN 6 KM ont leurs tracés OpenRunner. **Madine** : le RUN 7 KM a son tracé OpenRunner. **Pierre-Percée** : S\*/M\*\*/L\*\*\* (natation, vélo, course à pied) et le RUN 5 KM ont leurs tracés OpenRunner (ajoutés le 13/10/2026, collection OpenRunner « LIGHT ON TRI Pierre-Percée\*\*\* ») ; MiniKids et Kids affichent « à venir » (pas encore de tracé dans la collection). M\*\* (Woippy) et S\*/M\*\*/L\*\*\* (Madine) : tracés à fournir.
