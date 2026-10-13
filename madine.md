@@ -10,7 +10,7 @@ Version Markdown de https://www.lightontri.com/madine.html . La page HTML fait f
 
 Samedi 18 et dimanche 19 septembre au lac de Madine, à égale distance de Metz et de Nancy. L\*\*\* le samedi, S\* et M\*\* le dimanche, et des dossards pour toute la famille avec les Kids et le RUN 7 KM.
 
-S'inscrire Comparer les formats
+[S'inscrire](https://in.njuko.com/light-on-tri-2027) Comparer les formats
 
 ### L'essentiel
 
@@ -67,7 +67,7 @@ Course à pied**5 km**
 
 Une boucle de 5 km, plate, un ravito à mi-parcours.
 
-S'inscrire au S\* Voir les tracés
+[S'inscrire au S\*](https://in.njuko.com/light-on-tri-2027) Voir les tracés
 
 Ils l'ont fait à Madine en 2026
 
@@ -117,7 +117,7 @@ Course à pied**10 km**
 
 Deux boucles de 5 km entre route et sentiers, trois ravitos (km 2,5, 5 et 7,5).
 
-S'inscrire au M\*\* Voir les tracés
+[S'inscrire au M\*\*](https://in.njuko.com/light-on-tri-2027) Voir les tracés
 
 Ils l'ont fait à Madine en 2026
 
@@ -167,7 +167,7 @@ Course à pied**21 km**
 
 Trois boucles de 7 km entre route et sentiers, cinq ravitos.
 
-S'inscrire au L\*\*\* Voir les tracés
+[S'inscrire au L\*\*\*](https://in.njuko.com/light-on-tri-2027) Voir les tracés
 
 Parcours L\*\*\*
 
@@ -209,7 +209,7 @@ Un vrai triathlon, en format miniature : un aller-retour dans chaque discipline
 
 Tarif : 15 €
 
-S'inscrire
+[S'inscrire](https://in.njuko.com/light-on-tri-2027)
 
 Samedi 18 septembre · 11h30
 
@@ -227,7 +227,7 @@ Tarif : 15 €
 
 **Andréa V.** | Madine 2026
 
-S'inscrire
+[S'inscrire](https://in.njuko.com/light-on-tri-2027)
 
 Samedi 18 septembre · 17h30
 
@@ -241,7 +241,7 @@ Course à pied · dès 15 ans
 
 Tarif : 12 €
 
-S'inscrire
+[S'inscrire](https://in.njuko.com/light-on-tri-2027)
 
 Tracés MiniKids
 
@@ -295,7 +295,7 @@ Licence de triathlon, ou certificat médical de moins d'un an à déposer au plu
 
 La veille ou le jour J selon votre course, avec une pièce d'identité.
 
-S'inscrire [Lire le règlement](https://www.lightontri.com/reglement.html)
+[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Lire le règlement](https://www.lightontri.com/reglement.html)
 
 Un empêchement ? Transfert de dossard possible jusqu'à 48h avant le premier retrait (3 €). Pack annulation à prendre à l'inscription : 10 € sur le M\*\*, 15 € sur le L\*\*\*.
 
@@ -303,4 +303,4 @@ Un empêchement ? Transfert de dossard possible jusqu'à 48h avant le premier r
 
 18 et 19 septembre 2027 au lac de Madine. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
 
-S'inscrire [Voir le programme](https://www.lightontri.com/madine-evenement.html)
+[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir le programme](https://www.lightontri.com/madine-evenement.html)

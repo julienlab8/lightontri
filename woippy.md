@@ -10,7 +10,7 @@ Version Markdown de https://www.lightontri.com/woippy.html . La page HTML fait f
 
 Dimanche 16 mai 2027 à Woippy Plage, aux portes de Metz. Un S\* pour se lancer, un M\*\* pour envoyer, un RUN 6 KM pour ceux qui gardent les pieds au sec.
 
-S'inscrire Comparer les formats
+[S'inscrire](https://in.njuko.com/light-on-tri-2027) Comparer les formats
 
 ### L'essentiel
 
@@ -67,7 +67,7 @@ Course à pied**5,6 km**
 
 Deux boucles, parcours plat, un ravito à mi-parcours.
 
-S'inscrire au S\* Voir les tracés
+[S'inscrire au S\*](https://in.njuko.com/light-on-tri-2027) Voir les tracés
 
 > L'ambiance globale donne l'impression d'une course familiale. Pour la première fois, c'était top !
 
@@ -97,7 +97,7 @@ Course à pied**10 km**
 
 Trois boucles de 3,3 km, 100 % route, deux ravitos.
 
-S'inscrire au M\*\*
+[S'inscrire au M\*\*](https://in.njuko.com/light-on-tri-2027)
 
 Ils l'ont fait à Woippy en 2026
 
@@ -141,7 +141,7 @@ Pas d'eau, pas de vélo : deux boucles plates à Woippy Plage, un ravito à mi-
 
 Tarif : 12 €
 
-S'inscrire
+[S'inscrire](https://in.njuko.com/light-on-tri-2027)
 
 #### Tracé RUN 6 KM
 
@@ -167,7 +167,7 @@ Licence de triathlon, ou certificat médical de moins d'un an à déposer au plu
 
 La veille ou le jour J selon votre course, avec une pièce d'identité.
 
-S'inscrire [Lire le règlement](https://www.lightontri.com/reglement.html)
+[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Lire le règlement](https://www.lightontri.com/reglement.html)
 
 Un empêchement ? Transfert de dossard possible jusqu'à 48h avant le premier retrait (3 €). Pack annulation à prendre à l'inscription : 10 € sur le M\*\*.
 
@@ -175,4 +175,4 @@ Un empêchement ? Transfert de dossard possible jusqu'à 48h avant le premier r
 
 Dimanche 16 mai 2027 à Woippy Plage. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
 
-S'inscrire [Voir le programme](https://www.lightontri.com/woippy-evenement.html)
+[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir le programme](https://www.lightontri.com/woippy-evenement.html)

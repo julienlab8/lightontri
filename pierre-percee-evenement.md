@@ -10,7 +10,7 @@ Version Markdown de https://www.lightontri.com/pierre-percee-evenement.html . La
 
 Dossards le vendredi soir, L\*\*\* et enfants le samedi, S\* et M\*\* le dimanche. On nage dans le lac de Pierre-Percée, on finit au Village LIGHT ON, au bord du lac de la Plaine.
 
-S'inscrire [Voir les courses](https://www.lightontri.com/pierre-percee.html)
+[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir les courses](https://www.lightontri.com/pierre-percee.html)
 
 Programme
 
@@ -252,4 +252,4 @@ Bien sûr, et on compte sur eux pour faire du bruit. Le site est pensé pour que
 
 Du 11 au 13 juin 2027 à Pierre-Percée. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
 
-S'inscrire [Voir les courses](https://www.lightontri.com/pierre-percee.html)
+[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir les courses](https://www.lightontri.com/pierre-percee.html)
