@@ -1647,18 +1647,8 @@
   .nav-drop.mega .mega-head { font-size: 10.5px !important; padding: 10px 0 2px !important; }
   .nav-quick a { font-size: 11px !important; }
 }
-@media (max-width: 1040px) {
-  .nav-links .nav-quick { display: flex !important; flex-wrap: wrap; gap: 4px 18px !important; grid-template-columns: none !important; margin: 0 0 14px !important; padding: 0 0 14px !important; border-bottom: 1px solid var(--line-2); }
-  .nav-links .nav-quick a { border: 0 !important; background: none !important; padding: 4px 0 !important; min-height: 0 !important; font-size: 11px !important; letter-spacing: .08em; color: var(--muted) !important; }
-  .nav-links .nav-quick a::before { display: none !important; }
-  .nav-links .nav-item:first-of-type .nav-parent { border-top: 0 !important; }
-}
 .tb-insta { display: inline-flex; align-items: center; gap: 6px; }
 .tb-insta svg { width: 13px; height: 13px; flex: none; }
-@media (max-width: 1040px) {
-  .nav-links .nav-quick { display: grid !important; grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap: 2px 18px !important; }
-  .nav-links .nav-quick + .nav-item .nav-parent { border-top: 0 !important; }
-}
 .topbar-links a.tb-insta, .nav-links .nav-quick a.tb-insta { display: inline-flex !important; align-items: center; gap: 6px !important; }
 .tb-insta svg { position: relative; top: -1px; }
 /* Picto Instagram à gauche de la loupe (même gabarit) */
@@ -1666,8 +1656,6 @@
 .nav-insta:hover { color: var(--text); border-color: var(--accent); }
 .nav-insta svg { width: 18px; height: 18px; }
 @media (max-width: 520px) { .nav-cta { gap: 8px !important; } }
-/* Raccourcis du menu mobile : 4 liens en 2 × 2 */
-@media (max-width: 1040px) { .nav-links .nav-quick { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; } }
 .nav-insta { box-sizing: border-box; width: 40px; height: 40px; flex: none; }
 .nav-insta svg { width: 19px; height: 19px; }
 /* Accueil mobile : titre un peu plus petit, surtitre discret, lieux sur une seule ligne */
