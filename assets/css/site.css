@@ -1675,3 +1675,6 @@
   .h-hero h1 .h-places { font-size: 3.55vw; white-space: nowrap; margin-top: .55em; letter-spacing: .03em; }
   .h-hero h1 .h-places i { margin: 0 .45em; }
 }
+/* Header : carrés Instagram et recherche à la hauteur du bouton S'inscrire */
+.nav-cta .nav-insta, .nav-cta .nav-search-btn { box-sizing: border-box; width: calc(46px * 920 / 940); height: calc(46px * 920 / 940); flex: none; }
+@media (max-width: 520px) { .nav-cta .nav-insta, .nav-cta .nav-search-btn { width: calc(36px * 920 / 940); height: calc(36px * 920 / 940); } .nav-cta .nav-insta svg, .nav-cta .nav-search-btn svg { width: 16px; height: 16px; } }
