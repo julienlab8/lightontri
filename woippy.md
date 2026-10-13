@@ -97,7 +97,7 @@ Course à pied**10 km**
 
 Trois boucles de 3,3 km, 100 % route, deux ravitos.
 
-[S'inscrire au M\*\*](https://in.njuko.com/light-on-tri-2027)
+[S'inscrire au M\*\*](https://in.njuko.com/light-on-tri-2027) Voir les tracés
 
 Ils l'ont fait à Woippy en 2026
 
@@ -109,7 +109,7 @@ Parcours S\*
 
 ### Le S\* en trois tracés.
 
-Natation, vélo, course à pied : les tracés du Triathlon S\* de Woippy, à zoomer tranquillement avant le jour J. Ceux du M\*\* seront publiés ici dès qu'ils sont prêts.
+Natation, vélo, course à pied : les tracés du Triathlon S\* de Woippy, à zoomer tranquillement avant le jour J.
 
 #### Natation
 
@@ -122,6 +122,24 @@ Natation, vélo, course à pied : les tracés du Triathlon S\* de Woippy, à zo
 #### Course à pied
 
 [Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/20052893)
+
+Parcours M\*\*
+
+### Le M\*\* en trois tracés.
+
+Natation, vélo, course à pied : les tracés du Triathlon M\*\* de Woippy, à zoomer tranquillement avant le jour J.
+
+#### Natation
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/10638413)
+
+#### Vélo
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/10638335)
+
+#### Course à pied
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/20052994)
 
 Et aussi
 
