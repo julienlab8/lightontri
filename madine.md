@@ -211,6 +211,20 @@ Tarif : 15 €
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027)
 
+Tracés MiniKids
+
+#### Natation
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21670641)
+
+#### Vélo
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21670690)
+
+#### Course à pied
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21670751)
+
 Samedi 18 septembre · 11h30
 
 #### Kids
@@ -229,34 +243,6 @@ Tarif : 15 €
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027)
 
-Samedi 18 septembre · 17h30
-
-#### RUN 7 KM
-
-Course à pied · dès 15 ans
-
-7 km
-
-7 km au bord du lac en fin de journée, quand la lumière est la plus belle. Ouvert à tous dès 15 ans.
-
-Tarif : 12 €
-
-[S'inscrire](https://in.njuko.com/light-on-tri-2027)
-
-Tracés MiniKids
-
-#### Natation
-
-[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21670641)
-
-#### Vélo
-
-[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21670690)
-
-#### Course à pied
-
-[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21670751)
-
 Tracés Kids
 
 #### Natation
@@ -270,6 +256,20 @@ Tracés Kids
 #### Course à pied
 
 [Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21670783)
+
+Samedi 18 septembre · 17h30
+
+#### RUN 7 KM
+
+Course à pied · dès 15 ans
+
+7 km
+
+7 km au bord du lac en fin de journée, quand la lumière est la plus belle. Ouvert à tous dès 15 ans.
+
+Tarif : 12 €
+
+[S'inscrire](https://in.njuko.com/light-on-tri-2027)
 
 #### Tracé RUN 7 KM
 
