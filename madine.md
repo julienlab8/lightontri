@@ -20,7 +20,7 @@ Le LIGHT ON TRI Madine\*\*\* 2027 a lieu les 18 et 19 septembre 2027 au lac de M
 - **Lieu** : Lac de Madine. Nonsard-Lamarche (55), à égale distance de Metz et de Nancy
 - **Courses** : S\* · M\*\* · L\*\*\*. Plus MiniKids, Kids et RUN 7 KM
 - **Départs** : L\*\*\* samedi 9h30. S\* dimanche 9h00, M\*\* dimanche 13h30
-- **Tarifs** : 34 € · 59 € · 119 €. Licenciés. Non-licenciés : 39 €, 69 €, 134 €
+- **Tarifs** : 39 € · 64 € · 129 €. Licenciés. Non-licenciés : 44 €, 74 €, 144 €
 - **Packs** : -15 % ou -20 %. Dès 2 triathlons dans la saison
 
 Comparatif
@@ -37,7 +37,7 @@ Comparatif des triathlons du LIGHT ON TRI Madine\*\*\* 2027
 | Natation | **0,5 km** | **1,5 km** | **1,9 km** |
 | Vélo | **20 km** | **45 km** | **85 km** |
 | Course à pied | **5 km** | **10 km** | **21 km** |
-| Tarif | 34 € licencié · 39 € non-licencié | 59 € licencié · 69 € non-licencié | 119 € licencié · 134 € non-licencié |
+| Tarif | 39 € licencié · 44 € non-licencié | 64 € licencié · 74 € non-licencié | 129 € licencié · 144 € non-licencié |
 | Temps limite | Aucun temps limite | Fin du vélo à 3h00 après le départ | Fin de la natation à 1h10, fin du vélo à 5h30 après le départ |
 | Âge minimum | Cadet (né en 2011 et avant) | Junior (né en 2009 et avant) | Junior (né en 2009 et avant) |
 
@@ -51,9 +51,9 @@ Tout plat, tout simple, au bord du lac de Madine. Si vous hésitez encore pour v
 
 Départ : Dimanche 19 septembre · 9h00
 
-Tarif licencié : 34 €
+Tarif licencié : 39 €
 
-Non-licencié : 39 €
+Non-licencié : 44 €
 
 Natation**0,5 km**
 
@@ -83,9 +83,9 @@ La distance olympique en fin de saison, quand la forme est là. Une seule boucle
 
 Départ : Dimanche 19 septembre · 13h30
 
-Tarif licencié : 59 €
+Tarif licencié : 64 €
 
-Non-licencié : 69 €
+Non-licencié : 74 €
 
 Natation**1,5 km**
 
@@ -115,9 +115,9 @@ Le format half, le samedi. Le public sur la plage, deux boucles de vélo, trois 
 
 Départ : Samedi 18 septembre · 9h30
 
-Tarif licencié : 119 €
+Tarif licencié : 129 €
 
-Non-licencié : 134 €
+Non-licencié : 144 €
 
 Natation**1,9 km**
 

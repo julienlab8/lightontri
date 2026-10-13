@@ -20,7 +20,7 @@ Le LIGHT ON TRI Woippy\*\* 2027 a lieu le dimanche 16 mai 2027 à Woippy Plage, 
 - **Lieu** : Woippy Plage. Woippy (57), aux portes de Metz
 - **Courses** : S\* · M\*\* · RUN 6 KM. Trois départs dans la journée
 - **Départs** : 9h00 · 11h30 · 13h30. S\*, puis RUN 6 KM, puis M\*\*
-- **Tarifs** : S\* 34 € · M\*\* 59 €. Licenciés. Non-licenciés : 39 € et 69 €
+- **Tarifs** : S\* 39 € · M\*\* 64 €. Licenciés. Non-licenciés : 44 € et 74 €
 - **Packs** : -15 % ou -20 %. Dès 2 triathlons dans la saison
 
 Comparatif
@@ -37,7 +37,7 @@ Comparatif des triathlons du LIGHT ON TRI Woippy\*\* 2027
 | Natation | **0,5 km** | **1,5 km** |
 | Vélo | **17 km** | **40 km** |
 | Course à pied | **5,6 km** | **10 km** |
-| Tarif | 34 € licencié · 39 € non-licencié | 59 € licencié · 69 € non-licencié |
+| Tarif | 39 € licencié · 44 € non-licencié | 64 € licencié · 74 € non-licencié |
 | Temps limite | Aucun temps limite | Fin du vélo à 3h00 après le départ |
 | Âge minimum | Cadet (né en 2011 et avant) | Junior (né en 2009 et avant) |
 
@@ -51,9 +51,9 @@ Le format pour découvrir le triathlon ou lancer sa saison. Pas de temps limite�
 
 Départ : Dimanche 16 mai · 9h00
 
-Tarif licencié : 34 €
+Tarif licencié : 39 €
 
-Non-licencié : 39 €
+Non-licencié : 44 €
 
 Natation**0,5 km**
 
@@ -81,9 +81,9 @@ Deux boucles de nage, trois boucles de vélo, trois boucles de course : le M\*\
 
 Départ : Dimanche 16 mai · 13h30
 
-Tarif licencié : 59 €
+Tarif licencié : 64 €
 
-Non-licencié : 69 €
+Non-licencié : 74 €
 
 Natation**1,5 km**
 

@@ -64,11 +64,11 @@ Les catégories d'âge et conditions d'accès restent soumises à la réglementa
 
 Les inscriptions se font uniquement en ligne sur le site [www.lightontri.com](https://www.lightontri.com/).
 
-- **Triathlon L\*\*\*** : 119 € (licencié) / 134 € (non-licencié).
+- **Triathlon L\*\*\*** : 129 € (licencié) / 144 € (non-licencié).
 
-- **Triathlon M\*\*** : 59 € (licencié) / 69 € (non-licencié).
+- **Triathlon M\*\*** : 64 € (licencié) / 74 € (non-licencié).
 
-- **Triathlon S\*** : 34 € (licencié) / 39 € (non-licencié).
+- **Triathlon S\*** : 39 € (licencié) / 44 € (non-licencié).
 
 - **MiniKids et Kids** : 15 €.
 

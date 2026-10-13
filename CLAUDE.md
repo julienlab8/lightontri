@@ -51,7 +51,7 @@ Menu à 4 onglets : **Woippy**, **Pierre-Percée**, **Madine**, **Rejoindre l'av
 - Distances génériques (confirmées par le règlement 2027, à affiner par événement dès que le guide participant le précise) : S* ≈ 0,5 km natation / 20-25 km vélo / 5 km course à pied. M** ≈ 1,5 km natation / 40-45 km vélo / 10 km course à pied. L*** ≈ 1,9 km natation / 85-90 km vélo / 21 km course à pied.
 - Catégories d'âge (règlement 2027) : S* à partir de Cadet (né en 2011 ou avant) ; M**/L*** à partir de Junior (né en 2009 ou avant) ; Mini-Kids nés 2018-2021 ; Kids nés 2014-2017.
 - Certificat médical obligatoire de moins d'un an, à téléverser au plus tard 15 jours avant l'épreuve. Retrait des dossards la veille de 17h à 19h (sauf précision différente par événement dans le guide participant).
-- Tarifs 2027 (règlement) : L*** 119€/134€ selon période, M** 59€/69€, S* 34€/39€, Kids 10€.
+- Tarifs 2027 (mis à jour par Julien en session le 12/10/2026, prévaut sur le règlement qui indiquait L*** 119€/134€, M** 59€/69€, S* 34€/39€, Kids 10€) : **S* 39€ licencié / 44€ non-licencié, M** 64€/74€, L*** 129€/144€**.
 - Temps limites : L*** natation 1h10, vélo 5h30 ; M** vélo 3h00 ; S* pas de temps limite.
 - Remboursement : 50% sur présentation d'un certificat médical jusqu'à 1 mois avant l'épreuve, aucun remboursement dans le dernier mois (sauf pack annulation souscrit à l'inscription : 15€ pour L***, 10€ pour M**). Transfert de dossard possible (3€) jusqu'à 48h avant le premier créneau de retrait.
 - Assurance : SMACL n° C2020-3654. Directeur de course : Julien Labdant.
