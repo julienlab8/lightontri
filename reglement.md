@@ -258,4 +258,4 @@ Pour toute question relative à l'épreuve : [hello@lightontri.com](mailto:hell
 
 Écrivez-nous, on répond. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Nous écrire](https://www.lightontri.com/communaute.html#contact)
+S'inscrire [Nous écrire](https://www.lightontri.com/communaute.html#contact)

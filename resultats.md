@@ -54,4 +54,4 @@ S\*, M\*\*, L\*\*\*, Kids et RUN 7 KM : [voir les classements sur Sporkrono](ht
 
 Inscriptions dès le mardi 13 octobre 2026 à 20h00.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027)
+S'inscrire

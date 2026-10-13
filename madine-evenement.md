@@ -10,7 +10,7 @@ Version Markdown de https://www.lightontri.com/madine-evenement.html . La page H
 
 Welcome drink le vendredi, L\*\*\*, enfants et RUN 7 KM le samedi, S\* et M\*\* le dimanche. Et le public tout du long, de la plage à l'arche d'arrivée.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir les courses](https://www.lightontri.com/madine.html)
+S'inscrire [Voir les courses](https://www.lightontri.com/madine.html)
 
 Programme
 
@@ -256,4 +256,4 @@ Bien sûr, et on compte sur eux pour faire du bruit. Le site est pensé pour que
 
 18 et 19 septembre 2027 au lac de Madine. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir les courses](https://www.lightontri.com/madine.html)
+S'inscrire [Voir les courses](https://www.lightontri.com/madine.html)

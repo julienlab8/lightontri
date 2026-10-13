@@ -10,7 +10,7 @@ Version Markdown de https://www.lightontri.com/madine.html . La page HTML fait f
 
 Samedi 18 et dimanche 19 septembre au lac de Madine, à égale distance de Metz et de Nancy. L\*\*\* le samedi, S\* et M\*\* le dimanche, et des dossards pour toute la famille avec les Kids et le RUN 7 KM.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) Comparer les formats
+S'inscrire Comparer les formats
 
 ### L'essentiel
 
@@ -67,13 +67,31 @@ Course à pied**5 km**
 
 Une boucle de 5 km, plate, un ravito à mi-parcours.
 
-[S'inscrire au S\*](https://in.njuko.com/light-on-tri-2027)
+S'inscrire au S\* Voir les tracés
 
 Ils l'ont fait à Madine en 2026
 
 > Tout est rôdé à la perfection.
 
 **Catherine M.** | S\* · Madine 2026
+
+Parcours S\*
+
+### Le S\* en trois tracés.
+
+Natation, vélo, course à pied : les tracés du Triathlon S\* de Madine, à zoomer tranquillement avant le jour J.
+
+#### Natation
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/10644096)
+
+#### Vélo
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/20284711)
+
+#### Course à pied
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/10644044)
 
 ### M\*\*
 
@@ -99,13 +117,31 @@ Course à pied**10 km**
 
 Deux boucles de 5 km entre route et sentiers, trois ravitos (km 2,5, 5 et 7,5).
 
-[S'inscrire au M\*\*](https://in.njuko.com/light-on-tri-2027)
+S'inscrire au M\*\* Voir les tracés
 
 Ils l'ont fait à Madine en 2026
 
 > J'ai passé une excellente journée, ravie d'avoir fini mon M malgré le vent.
 
 **Marie M.** | M\*\* · Madine 2026
+
+Parcours M\*\*
+
+### Le M\*\* en tracés.
+
+Natation, vélo, course à pied : les tracés du Triathlon M\*\* de Madine, à zoomer tranquillement avant le jour J.
+
+#### Natation
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/10644134)
+
+#### Vélo
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/20665316)
+
+#### Course à pied
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/25430439)
 
 ### L\*\*\*
 
@@ -131,7 +167,25 @@ Course à pied**21 km**
 
 Trois boucles de 7 km entre route et sentiers, cinq ravitos.
 
-[S'inscrire au L\*\*\*](https://in.njuko.com/light-on-tri-2027)
+S'inscrire au L\*\*\* Voir les tracés
+
+Parcours L\*\*\*
+
+### Le L\*\*\* en trois tracés.
+
+Natation, vélo, course à pied : les tracés du Triathlon L\*\*\* de Madine, à zoomer tranquillement avant le jour J.
+
+#### Natation
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/10644235)
+
+#### Vélo
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/20324696)
+
+#### Course à pied
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/19976641)
 
 > Une organisation au top et des bénévoles super sympas et aux petits soins pour nous... Mon premier triathlon L et j'ai adoré.
 
@@ -155,7 +209,7 @@ Un vrai triathlon, en format miniature : un aller-retour dans chaque discipline
 
 Tarif : 15 €
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027)
+S'inscrire
 
 Samedi 18 septembre · 11h30
 
@@ -173,7 +227,7 @@ Tarif : 15 €
 
 **Andréa V.** | Madine 2026
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027)
+S'inscrire
 
 Samedi 18 septembre · 17h30
 
@@ -187,7 +241,39 @@ Course à pied · dès 15 ans
 
 Tarif : 12 €
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027)
+S'inscrire
+
+Tracés MiniKids
+
+#### Natation
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21670641)
+
+#### Vélo
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21670690)
+
+#### Course à pied
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21670751)
+
+Tracés Kids
+
+#### Natation
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21670668)
+
+#### Vélo
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21670707)
+
+#### Course à pied
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21670783)
+
+#### Tracé RUN 7 KM
+
+[Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21994023)
 
 [Packs saison-15 % 2 triathlons-20 % 3 triathlonsAutomatique dans le panier, au nom de la même personne. Hors Kids et RUN.Comment ça marche](https://www.lightontri.com/./#packs)
 
@@ -209,7 +295,7 @@ Licence de triathlon, ou certificat médical de moins d'un an à déposer au plu
 
 La veille ou le jour J selon votre course, avec une pièce d'identité.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Lire le règlement](https://www.lightontri.com/reglement.html)
+S'inscrire [Lire le règlement](https://www.lightontri.com/reglement.html)
 
 Un empêchement ? Transfert de dossard possible jusqu'à 48h avant le premier retrait (3 €). Pack annulation à prendre à l'inscription : 10 € sur le M\*\*, 15 € sur le L\*\*\*.
 
@@ -217,4 +303,4 @@ Un empêchement ? Transfert de dossard possible jusqu'à 48h avant le premier r
 
 18 et 19 septembre 2027 au lac de Madine. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir le programme](https://www.lightontri.com/madine-evenement.html)
+S'inscrire [Voir le programme](https://www.lightontri.com/madine-evenement.html)

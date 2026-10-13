@@ -142,16 +142,17 @@
     setInterval(tick, 1000);
   })();
 
-  // Ouverture des inscriptions 2027 : mardi 13 octobre 2026, 20h00 (heure de Paris).
-  // Cible exprimée en instant UTC fixe (18h00 UTC = 20h00 CEST) pour ne pas dépendre du fuseau du visiteur.
-  // Les boutons S'inscrire pointent déjà vers Njuko (https://in.njuko.com/light-on-tri-2027) et sont
-  // cliquables avant l'ouverture (décision de Magali, 11/10/2026) : ce bloc ne gère plus que le compte
-  // à rebours de l'accueil (#regCountdown) et d'éventuels boutons .is-disabled restants.
+  // Inscriptions retirées temporairement du lien Njuko (demande de Julien, 13/10/2026) :
+  // les boutons S'inscrire repassent en .is-disabled tant que REGISTRATIONS_LIVE reste à false.
+  // Remettre à true (et ajuster REG_OPEN_UTC) pour réactiver l'ouverture automatique.
   (function () {
+    var REGISTRATIONS_LIVE = false;
     var REG_OPEN_UTC = Date.UTC(2026, 9, 13, 18, 0, 0);
     var ctas = document.querySelectorAll('.btn-go.is-disabled');
     var block = document.getElementById('regCountdown');
     var timer = null;
+
+    if (!REGISTRATIONS_LIVE) return;
 
     function pad(n) { return (n < 10 ? '0' : '') + n; }
 

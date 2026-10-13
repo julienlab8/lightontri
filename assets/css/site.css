@@ -1303,6 +1303,8 @@
   }
   .btn.is-disabled:hover { transform: none; }
   .btn-soon-note { display: block; margin-top: 8px; font-size: 12.5px; color: var(--muted); }
+  .mega-info.is-disabled { pointer-events: none; cursor: default; opacity: .5; filter: grayscale(.4); }
+  .mega-info.is-disabled:hover .mi-go { color: var(--text); }
 
   /* Cartes événements de la saison (accueil) : réutilise la structure .h-race */
   .h-race .info h3 { font-family: var(--display); font-weight: 700; font-size: clamp(20px, 2vw, 28px); margin: 0 0 10px; line-height: 1.05; }

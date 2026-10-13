@@ -10,7 +10,7 @@ Version Markdown de https://www.lightontri.com/woippy-evenement.html . La page H
 
 Dossards le samedi soir, trois départs le dimanche, et tout se passe au même endroit : le parc à vélo, l'arrivée et le Village LIGHT ON sont à quelques mètres les uns des autres.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir les courses](https://www.lightontri.com/woippy.html)
+S'inscrire [Voir les courses](https://www.lightontri.com/woippy.html)
 
 Programme
 
@@ -214,4 +214,4 @@ Bien sûr, et on compte sur eux pour faire du bruit. Le site est pensé pour que
 
 Dimanche 16 mai 2027 à Woippy Plage. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir les courses](https://www.lightontri.com/woippy.html)
+S'inscrire [Voir les courses](https://www.lightontri.com/woippy.html)

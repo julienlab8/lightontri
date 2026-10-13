@@ -8,7 +8,7 @@ Version Markdown de https://www.lightontri.com/ . La page HTML fait foi.
 
 ## Triathlons 2027 en Lorraine - Light On Tri WoippyPierre-PercéeMadine
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) Choisir mon triathlon
+S'inscrire Choisir mon triathlon
 
 Trois lieux, trois dates. Une seule règle : en profiter.
 
@@ -32,7 +32,7 @@ On ouvre la saison aux portes de Metz : départ natation dans l'eau, trois bouc
 
 - **M\*\***Dim. 13h30
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Les courses](https://www.lightontri.com/woippy.html) [Programme & infos](https://www.lightontri.com/woippy-evenement.html)
+S'inscrire [Les courses](https://www.lightontri.com/woippy.html) [Programme & infos](https://www.lightontri.com/woippy-evenement.html)
 
 02 Du vendredi 11 au dimanche 13 juin 2027
 
@@ -54,7 +54,7 @@ Le triathlon revient au lac de Pierre-Percée. Trois jours, six courses, et le L
 
 - **M\*\***Dim. 13h30
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Les courses](https://www.lightontri.com/pierre-percee.html) [Programme & infos](https://www.lightontri.com/pierre-percee-evenement.html)
+S'inscrire [Les courses](https://www.lightontri.com/pierre-percee.html) [Programme & infos](https://www.lightontri.com/pierre-percee-evenement.html)
 
 03 Samedi 18 et dimanche 19 septembre 2027
 
@@ -76,7 +76,7 @@ Le rendez-vous de fin de saison, au bord du lac de Madine. Du MiniKids au L\*\*\
 
 - **M\*\***Dim. 13h30
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Les courses](https://www.lightontri.com/madine.html) [Programme & infos](https://www.lightontri.com/madine-evenement.html)
+S'inscrire [Les courses](https://www.lightontri.com/madine.html) [Programme & infos](https://www.lightontri.com/madine-evenement.html)
 
 **02** Chaque lieu a sa date et ses courses
 
@@ -115,7 +115,7 @@ Pack 3 courses**-20%**3 triathlons, même participant
 
 - [**Madine\*\*\***18-19 sept.](https://www.lightontri.com/madine.html)
 
-[Composer mon pack](https://in.njuko.com/light-on-tri-2027)
+Composer mon pack
 
 **04** Premier triathlon
 
@@ -181,8 +181,8 @@ Inscriptions 2027
 
 Ouverture le mardi 13 octobre 2026 à 20h00. Choisissez votre lieu et votre format, et pensez au pack si vous en faites plusieurs.
 
-[**Woippy\*\***Dimanche 16 mai 2027](https://www.lightontri.com/woippy.html)[S'inscrire](https://in.njuko.com/light-on-tri-2027)
+[**Woippy\*\***Dimanche 16 mai 2027](https://www.lightontri.com/woippy.html)S'inscrire
 
-[**Pierre-Percée\*\*\***Du vendredi 11 au dimanche 13 juin 2027](https://www.lightontri.com/pierre-percee.html)[S'inscrire](https://in.njuko.com/light-on-tri-2027)
+[**Pierre-Percée\*\*\***Du vendredi 11 au dimanche 13 juin 2027](https://www.lightontri.com/pierre-percee.html)S'inscrire
 
-[**Madine\*\*\***Samedi 18 et dimanche 19 septembre 2027](https://www.lightontri.com/madine.html)[S'inscrire](https://in.njuko.com/light-on-tri-2027)
+[**Madine\*\*\***Samedi 18 et dimanche 19 septembre 2027](https://www.lightontri.com/madine.html)S'inscrire

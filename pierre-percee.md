@@ -10,7 +10,7 @@ Version Markdown de https://www.lightontri.com/pierre-percee.html . La page HTML
 
 Le triathlon revient au lac de Pierre-Percée, entre Nancy et Strasbourg. L\*\*\* le samedi, S\* et M\*\* le dimanche, les enfants et le RUN 5 KM entre les deux.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) Comparer les formats
+S'inscrire Comparer les formats
 
 ### L'essentiel
 
@@ -69,7 +69,7 @@ Course à pied**5 km**
 
 Au départ du Village LIGHT ON, au bord du lac de la Plaine. Tracé 2027 détaillé dans le guide participant.
 
-[S'inscrire au S\*](https://in.njuko.com/light-on-tri-2027)
+S'inscrire au S\*
 
 ### M\*\*
 
@@ -95,7 +95,7 @@ Course à pied**10 km**
 
 Au départ du Village LIGHT ON, au bord du lac de la Plaine. Tracé 2027 détaillé dans le guide participant.
 
-[S'inscrire au M\*\*](https://in.njuko.com/light-on-tri-2027)
+S'inscrire au M\*\*
 
 ### L\*\*\*
 
@@ -121,7 +121,7 @@ Course à pied**21,1 km**
 
 Au départ du Village LIGHT ON, au bord du lac de la Plaine. Tracé 2027 détaillé dans le guide participant.
 
-[S'inscrire au L\*\*\*](https://in.njuko.com/light-on-tri-2027)
+S'inscrire au L\*\*\*
 
 Pierre-Percée 2027
 
@@ -145,7 +145,7 @@ Course à pied, vélo, course à pied : un premier duathlon à la taille des pl
 
 Tarif : 15 €
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027)
+S'inscrire
 
 Samedi 12 juin · 11h30
 
@@ -159,7 +159,7 @@ Le même enchaînement, en plus long. Les parents sont autorisés à crier très
 
 Tarif : 15 €
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027)
+S'inscrire
 
 Samedi 12 juin · 17h30
 
@@ -173,7 +173,7 @@ Course à pied
 
 Tarif : 12 €
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027)
+S'inscrire
 
 [Packs saison-15 % 2 triathlons-20 % 3 triathlonsAutomatique dans le panier, au nom de la même personne. Hors Kids et RUN.Comment ça marche](https://www.lightontri.com/./#packs)
 
@@ -195,7 +195,7 @@ Licence de triathlon, ou certificat médical de moins d'un an à déposer au plu
 
 La veille ou le jour J selon votre course, avec une pièce d'identité.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Lire le règlement](https://www.lightontri.com/reglement.html)
+S'inscrire [Lire le règlement](https://www.lightontri.com/reglement.html)
 
 Un empêchement ? Transfert de dossard possible jusqu'à 48h avant le premier retrait (3 €). Pack annulation à prendre à l'inscription : 10 € sur le M\*\*, 15 € sur le L\*\*\*.
 
@@ -203,4 +203,4 @@ Un empêchement ? Transfert de dossard possible jusqu'à 48h avant le premier r
 
 Du 11 au 13 juin 2027 à Pierre-Percée. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir le programme](https://www.lightontri.com/pierre-percee-evenement.html)
+S'inscrire [Voir le programme](https://www.lightontri.com/pierre-percee-evenement.html)

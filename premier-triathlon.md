@@ -10,7 +10,7 @@ Version Markdown de https://www.lightontri.com/premier-triathlon.html . La page 
 
 Trois sports, deux transitions, une arche d'arrivée. Ça impressionne avant, ça se prépare simplement, et on vous explique tout ici.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) Quel format choisir ?
+S'inscrire Quel format choisir ?
 
 Quel format choisir
 
@@ -136,4 +136,4 @@ Rouler dans la roue d'un autre cycliste est encadré en triathlon. Les règles d
 
 Woippy le 16 mai, Pierre-Percée le 13 juin, Madine le 19 septembre. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
 
-[S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir toutes les courses](https://www.lightontri.com/./#qui-court-ou)
+S'inscrire [Voir toutes les courses](https://www.lightontri.com/./#qui-court-ou)
