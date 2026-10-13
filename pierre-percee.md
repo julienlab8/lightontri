@@ -231,7 +231,7 @@ S'inscrire
 
 Tracés MiniKids & Kids
 
-À venir : le détail des duathlons jeunes est renvoyé au guide participant 2027.
+À venir : les parcours duathlon seront disponibles prochainement.
 
 Tracé RUN 5 KM
 
