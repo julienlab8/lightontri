@@ -1,2 +1,6 @@
 # Configuration locale Claude Code (ne pas déployer)
 .claude/
+
+# Scratch de scraping des résultats (données brutes Sporkrono + script de build,
+# pas un livrable du site : voir CLAUDE.md "À vérifier" pour la reproduire)
+_scrape/
