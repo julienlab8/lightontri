@@ -134,6 +134,6 @@ Rouler dans la roue d'un autre cycliste est encadré en triathlon. Les règles d
 
 ### Prêt pour le S\* ?
 
-Woippy le 16 mai, Pierre-Percée le 13 juin, Madine le 19 septembre. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
+Woippy le 16 mai, Pierre-Percée le 13 juin, Madine le 19 septembre. Inscriptions ouvertes.
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir toutes les courses](https://www.lightontri.com/./#qui-court-ou)

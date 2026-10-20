@@ -171,7 +171,7 @@ S'inscrire
 
 ### Trois étapes, et c'est réglé.
 
-Les inscriptions se font uniquement en ligne, sur Njuko. Ouverture le mardi 13 octobre 2026 à 20h00, et les places sont limitées sur chaque format.
+Les inscriptions se font uniquement en ligne, sur Njuko, et les places sont limitées sur chaque format.
 
 #### Choisissez votre course
 
@@ -191,6 +191,6 @@ Un empêchement ? Transfert de dossard possible jusqu'à 48h avant le premier r
 
 ### On ouvre la saison ensemble.
 
-Dimanche 16 mai 2027 à Woippy Plage. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
+Dimanche 16 mai 2027 à Woippy Plage. Inscriptions ouvertes.
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir le programme](https://www.lightontri.com/woippy-evenement.html)

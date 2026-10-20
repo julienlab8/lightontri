@@ -30,6 +30,8 @@ Dimanche 16 mai 2027. Résultats à venir.
 
 Saison 2026
 
+Woippy\*\* Madine\*\*\*
+
 ### Woippy\*\* 2026.
 
 Classement complet, filtre femmes/hommes, par catégorie et recherche par nom. Le classement officiel reste celui de notre chronométreur, [Sporkrono](https://www.sporkrono.fr/courses/3861127134/light-on-tri-woippy/).
@@ -113,6 +115,8 @@ RUN 6 KM
 - 3e. DUPIRE ManonSEF · 2e de cat. - 28:11
 
 Saison 2026
+
+Woippy\*\* Madine\*\*\*
 
 ### Madine\*\*\* 2026.
 
@@ -284,6 +288,6 @@ RUN 7 KM
 
 ### Envie d'y figurer en 2027 ?
 
-Inscriptions dès le mardi 13 octobre 2026 à 20h00.
+Inscriptions ouvertes.
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027)

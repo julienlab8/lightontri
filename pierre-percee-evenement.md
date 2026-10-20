@@ -222,7 +222,7 @@ Elle est obligatoire si l'eau n'est pas au-dessus de 16°C, et recommandée dans
 
 #### Peut-on s'inscrire sur place ?
 
-Non : les inscriptions se font uniquement en ligne, et les places sont limitées sur chaque format. Ouverture le mardi 13 octobre 2026 à 20h00.
+Non : les inscriptions se font uniquement en ligne, et les places sont limitées sur chaque format.
 
 #### Comment marchent les packs ?
 
@@ -250,6 +250,6 @@ Bien sûr, et on compte sur eux pour faire du bruit. Le site est pensé pour que
 
 ### Rendez-vous au lac.
 
-Du 11 au 13 juin 2027 à Pierre-Percée. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
+Du 11 au 13 juin 2027 à Pierre-Percée. Inscriptions ouvertes.
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir les courses](https://www.lightontri.com/pierre-percee.html)

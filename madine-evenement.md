@@ -230,7 +230,7 @@ Elle est obligatoire si l'eau n'est pas au-dessus de 16°C, et recommandée dans
 
 #### Peut-on s'inscrire sur place ?
 
-Non : les inscriptions se font uniquement en ligne, et les places sont limitées sur chaque format. Ouverture le mardi 13 octobre 2026 à 20h00.
+Non : les inscriptions se font uniquement en ligne, et les places sont limitées sur chaque format.
 
 #### Comment marchent les packs ?
 
@@ -254,6 +254,6 @@ Bien sûr, et on compte sur eux pour faire du bruit. Le site est pensé pour que
 
 ### On finit la saison ensemble.
 
-18 et 19 septembre 2027 au lac de Madine. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
+18 et 19 septembre 2027 au lac de Madine. Inscriptions ouvertes.
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir les courses](https://www.lightontri.com/madine.html)

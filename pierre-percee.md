@@ -245,7 +245,7 @@ S'inscrire
 
 ### Trois étapes, et c'est réglé.
 
-Les inscriptions se font uniquement en ligne, sur Njuko. Ouverture le mardi 13 octobre 2026 à 20h00, et les places sont limitées sur chaque format.
+Les inscriptions se font uniquement en ligne, sur Njuko, et les places sont limitées sur chaque format.
 
 #### Choisissez votre course
 
@@ -265,6 +265,6 @@ Un empêchement ? Transfert de dossard possible jusqu'à 48h avant le premier r
 
 ### Rendez-vous au lac.
 
-Du 11 au 13 juin 2027 à Pierre-Percée. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
+Du 11 au 13 juin 2027 à Pierre-Percée. Inscriptions ouvertes.
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir le programme](https://www.lightontri.com/pierre-percee-evenement.html)

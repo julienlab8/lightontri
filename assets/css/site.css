@@ -1684,6 +1684,15 @@
 .res-tab[aria-selected="true"] { background: var(--accent); color: #fff; }
 .res-tab[aria-selected="true"] em { color: #fff; }
 
+/* passer d'une épreuve à l'autre (Woippy / Madine) */
+.evt-switch { display: inline-flex; border: 1px solid var(--line-2); margin: 2px 0 18px; }
+.evt-switch-btn { appearance: none; background: transparent; color: var(--muted); border: 0; border-right: 1px solid var(--line-2); padding: 9px 18px; font-family: var(--font); font-weight: 700; font-size: 13px; letter-spacing: .04em; text-transform: uppercase; text-decoration: none; display: inline-block; cursor: pointer; transition: color .15s, background .15s; }
+.evt-switch-btn:last-child { border-right: 0; }
+.evt-switch-btn em { font-style: normal; color: var(--accent); }
+.evt-switch-btn:hover { color: var(--text); }
+.evt-switch-btn.is-active { background: var(--accent); color: #fff; cursor: default; pointer-events: none; }
+.evt-switch-btn.is-active em { color: #fff; }
+
 .res-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; margin-bottom: 14px; }
 /* segmenté Tous / Femmes / Hommes */
 .res-seg { display: inline-flex; border: 1px solid var(--line-2); }
@@ -1743,9 +1752,12 @@
 .res-table .c-frank { width: 56px; color: var(--muted); }
 /* colonne de classement principale (générale sans filtre, filtrée sinon) : en orange */
 .res-table tbody td.is-primary { color: var(--accent); font-weight: 700; }
-.res-table .c-clt, .res-table .c-frank, .res-table .c-moy, .res-table .c-tps { text-align: right; white-space: nowrap; }
-.res-table thead .c-clt, .res-table thead .c-frank, .res-table thead .c-moy, .res-table thead .c-tps { text-align: right; }
+.res-table .c-clt, .res-table .c-frank, .res-table .c-moy, .res-table .c-tps,
+.res-table .c-nat, .res-table .c-t1, .res-table .c-velo, .res-table .c-t2, .res-table .c-course { text-align: right; white-space: nowrap; }
+.res-table thead .c-clt, .res-table thead .c-frank, .res-table thead .c-moy, .res-table thead .c-tps,
+.res-table thead .c-nat, .res-table thead .c-t1, .res-table thead .c-velo, .res-table thead .c-t2, .res-table thead .c-course { text-align: right; }
 .res-table .c-tps { font-weight: 700; }
+.res-table .c-nat, .res-table .c-t1, .res-table .c-velo, .res-table .c-t2, .res-table .c-course { color: var(--muted); }
 .res-table .rn { display: block; font-weight: 600; }
 .res-table .rl { display: block; color: var(--muted); font-size: 12px; margin-top: 2px; }
 .cat-chip { display: inline-block; border: 1px solid var(--line-2); padding: 3px 8px; font-size: 11px; font-weight: 700; letter-spacing: .04em; color: var(--muted); white-space: nowrap; }
@@ -1764,8 +1776,12 @@
 .archive-year:last-of-type { border-bottom: 1px solid var(--line-2); }
 
 @media (max-width: 640px) {
-  .res-table .c-moy, .res-table thead .c-moy { display: none; }
+  .res-table .c-moy, .res-table thead .c-moy,
+  .res-table .c-nat, .res-table thead .c-nat, .res-table .c-t1, .res-table thead .c-t1,
+  .res-table .c-velo, .res-table thead .c-velo, .res-table .c-t2, .res-table thead .c-t2,
+  .res-table .c-course, .res-table thead .c-course { display: none; }
   .res-table thead th, .res-table tbody td { padding: 10px 8px; }
   .res-seg-btn { padding: 9px 12px; font-size: 12px; }
+  .evt-switch-btn { padding: 8px 13px; font-size: 12px; }
 }
 @media (max-width: 520px) { .nav-cta .nav-insta, .nav-cta .nav-search-btn { width: calc(36px * 920 / 940); height: calc(36px * 920 / 940); } .nav-cta .nav-insta svg, .nav-cta .nav-search-btn svg { width: 16px; height: 16px; } }

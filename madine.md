@@ -281,7 +281,7 @@ S'inscrire
 
 ### Trois étapes, et c'est réglé.
 
-Les inscriptions se font uniquement en ligne, sur Njuko. Ouverture le mardi 13 octobre 2026 à 20h00, et les places sont limitées sur chaque format.
+Les inscriptions se font uniquement en ligne, sur Njuko, et les places sont limitées sur chaque format.
 
 #### Choisissez votre course
 
@@ -301,6 +301,6 @@ Un empêchement ? Transfert de dossard possible jusqu'à 48h avant le premier r
 
 ### On finit la saison ensemble.
 
-18 et 19 septembre 2027 au lac de Madine. Inscriptions dès le mardi 13 octobre 2026 à 20h00.
+18 et 19 septembre 2027 au lac de Madine. Inscriptions ouvertes.
 
 [S'inscrire](https://in.njuko.com/light-on-tri-2027) [Voir le programme](https://www.lightontri.com/madine-evenement.html)

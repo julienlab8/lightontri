@@ -179,7 +179,7 @@ Inscriptions 2027
 
 ### On se voit sur la ligne de départ ?
 
-Ouverture le mardi 13 octobre 2026 à 20h00. Choisissez votre lieu et votre format, et pensez au pack si vous en faites plusieurs.
+Inscriptions ouvertes. Choisissez votre lieu et votre format, et pensez au pack si vous en faites plusieurs.
 
 [**Woippy\*\***Dimanche 16 mai 2027](https://www.lightontri.com/woippy.html)[S'inscrire](https://in.njuko.com/light-on-tri-2027)
 

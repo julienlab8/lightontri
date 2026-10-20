@@ -16,6 +16,7 @@
       category: 'Catégorie', allCats: 'Toutes',
       sort: 'Trier', sortClt: 'Classement', sortTime: 'Temps', sortCat: 'Catégorie', sortName: 'Nom (A→Z)',
       cltF: 'Clt F', cltH: 'Clt H', cltCat: 'Clt ', clt: 'Clt', runner: 'Athlète', cat: 'Cat.', avg: 'Moy.', time: 'Temps',
+      natation: 'Nat.', t1: 'T1', velo: 'Vélo', t2: 'T2', course: 'Course',
       one: ' athlète', many: ' athlètes', shown: ' affichés', none: 'Aucun athlète ne correspond à cette recherche.'
     }
   };
@@ -150,6 +151,12 @@
     var pageSize = parseInt(root.getAttribute('data-page-size'), 10) || 25;
     var all = store.rows.slice();
 
+    // Temps intermédiaires (natation/T1/vélo/T2/course) : uniquement présents pour les
+    // formats triathlon (pas pour les RUN, ni toujours pour chaque athlète). Moyenne (km/h) :
+    // uniquement pour les formats RUN. On n'affiche la colonne que si au moins une ligne l'a.
+    var hasSplits = all.some(function (r) { return r.natation; });
+    var hasMoy = all.some(function (r) { return r.moy; });
+
     var state = { sexe: 'all', cat: 'all', q: '', sort: 'clt', page: 1 };
 
     var cats = [];
@@ -270,7 +277,14 @@
           : '<th scope="col" class="c-clt">' + T.clt + '</th>') +
         '<th scope="col" class="c-nom">' + T.runner + '</th>' +
         '<th scope="col" class="c-cat">' + T.cat + '</th>' +
-        '<th scope="col" class="c-moy">' + T.avg + '</th>' +
+        (hasSplits
+          ? '<th scope="col" class="c-nat">' + T.natation + '</th>' +
+            '<th scope="col" class="c-t1">' + T.t1 + '</th>' +
+            '<th scope="col" class="c-velo">' + T.velo + '</th>' +
+            '<th scope="col" class="c-t2">' + T.t2 + '</th>' +
+            '<th scope="col" class="c-course">' + T.course + '</th>'
+          : '') +
+        (hasMoy ? '<th scope="col" class="c-moy">' + T.avg + '</th>' : '') +
         '<th scope="col" class="c-tps">' + T.time + '</th>' +
         '</tr>';
 
@@ -293,7 +307,14 @@
           '<td class="c-nom"><span class="rn">' + esc(r.nom) + '</span>' +
           (r.lieu ? '<span class="rl">' + esc(r.lieu) + '</span>' : '') + '</td>' +
           '<td class="c-cat"><span class="cat-chip">' + esc(r.cat) + '</span></td>' +
-          '<td class="c-moy mono">' + (r.moy ? r.moy.toFixed(2) : '') + '</td>' +
+          (hasSplits
+            ? '<td class="c-nat mono">' + esc(r.natation) + '</td>' +
+              '<td class="c-t1 mono">' + esc(r.t1) + '</td>' +
+              '<td class="c-velo mono">' + esc(r.velo) + '</td>' +
+              '<td class="c-t2 mono">' + esc(r.t2) + '</td>' +
+              '<td class="c-course mono">' + esc(r.course) + '</td>'
+            : '') +
+          (hasMoy ? '<td class="c-moy mono">' + (r.moy ? r.moy.toFixed(2) : '') + '</td>' : '') +
           '<td class="c-tps mono">' + esc(r.temps) + '</td>' +
           '</tr>';
       }).join('');
