@@ -34,7 +34,7 @@ Woippy\*\* Madine\*\*\*
 
 ### Woippy\*\* 2026.
 
-Classement complet, filtre femmes/hommes, par catégorie et recherche par nom. Le classement officiel reste celui de notre chronométreur, [Sporkrono](https://www.sporkrono.fr/courses/3861127134/light-on-tri-woippy/).
+Dimanche 17 mai 2026. Classement complet, filtre femmes/hommes, par catégorie et recherche par nom. Le classement officiel reste celui de notre chronométreur, [Sporkrono](https://www.sporkrono.fr/courses/3861127134/light-on-tri-woippy/).
 
 #### S\*
 
@@ -120,7 +120,7 @@ Woippy\*\* Madine\*\*\*
 
 ### Madine\*\*\* 2026.
 
-Classement complet, filtre femmes/hommes, par catégorie et recherche par nom. Le classement officiel reste celui de notre chronométreur, [Sporkrono](https://www.sporkrono.fr/courses/2799362058/light-on-tri-madine/), et [les photos officielles](https://www.app.sportpxl.com/photographs/rougel-jerome/albums/4145/?ak=2c286bad2526d9b266047e91b3e31228b9f9e44a).
+Samedi 19 - dimanche 20 septembre 2026. Classement complet, filtre femmes/hommes, par catégorie et recherche par nom. Le classement officiel reste celui de notre chronométreur, [Sporkrono](https://www.sporkrono.fr/courses/2799362058/light-on-tri-madine/), et [les photos officielles](https://www.app.sportpxl.com/photographs/rougel-jerome/albums/4145/?ak=2c286bad2526d9b266047e91b3e31228b9f9e44a).
 
 #### S\*
 
@@ -296,6 +296,8 @@ Classements complets et podiums de Woippy\*\* et Madine\*\*\* depuis 2020.
 
 #### Woippy\*\*
 
+Dimanche 18 mai 2025.
+
 #### S\*
 
 259 finishers
@@ -375,6 +377,8 @@ RUN 6 KM
 - 3e. GUYOT ClaireSEF · 2e de cat. - 32:14
 
 #### Madine\*\*\*
+
+Samedi 20 - dimanche 21 septembre 2025.
 
 #### S\*
 
@@ -510,6 +514,8 @@ Kids
 
 #### Woippy\*\*
 
+Dimanche 19 mai 2024.
+
 #### S\*
 
 216 finishers
@@ -563,6 +569,8 @@ M\*\*
 - 3e. MINET VéroniqueS4F · 1re de cat. - 3:16:19
 
 #### Madine\*\*\*
+
+Dimanche 22 septembre 2024.
 
 #### S\*
 
@@ -620,6 +628,8 @@ M\*\*
 
 #### Woippy\*\*
 
+Dimanche 21 mai 2023.
+
 #### S\*
 
 193 finishers
@@ -673,6 +683,8 @@ M\*\*
 - 3e. FEUILLAT PrivatineSEF · 2e de cat. - 3:20:12
 
 #### Madine\*\*\*
+
+Dimanche 24 septembre 2023.
 
 #### S\*
 
@@ -730,6 +742,8 @@ M\*\*
 
 #### Madine\*\*\*
 
+Dimanche 18 septembre 2022.
+
 #### S\*
 
 325 finishers
@@ -785,6 +799,8 @@ M\*\*
 #### Édition 2021
 
 #### Madine\*\*\*
+
+Samedi 18 - dimanche 19 septembre 2021.
 
 #### S\*
 
@@ -867,6 +883,8 @@ L\*\*\*
 #### Édition 2020
 
 #### Madine\*\*\*
+
+Samedi 19 - dimanche 20 septembre 2020.
 
 #### S\*
 
