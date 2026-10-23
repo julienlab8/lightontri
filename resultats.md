@@ -378,6 +378,8 @@ RUN 6 KM
 
 - 3e. GUYOT ClaireSEF · 2e de cat. - 32:14
 
+Woippy\*\* Madine\*\*\*
+
 #### Madine\*\*\*
 
 Samedi 20 - dimanche 21 septembre 2025.
@@ -572,6 +574,8 @@ M\*\*
 
 - 3e. MINET VéroniqueS4F · 1re de cat. - 3:16:19
 
+Woippy\*\* Madine\*\*\*
+
 #### Madine\*\*\*
 
 Dimanche 22 septembre 2024.
@@ -687,6 +691,8 @@ M\*\*
 - 2e. NOEL AlexandraV2F · 1re de cat. - 3:14:28
 
 - 3e. FEUILLAT PrivatineSEF · 2e de cat. - 3:20:12
+
+Woippy\*\* Madine\*\*\*
 
 #### Madine\*\*\*
 
