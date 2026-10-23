@@ -99,6 +99,12 @@ RewriteRule ^light-on-triathlon-pierre-perc(e|%C3%A9|é)e/?$ https://www.lighton
 RewriteRule ^copie-de-light-on-tri-pierre-perc.*$ https://www.lightontri.com/pierre-percee.html [R=301,L,NC]
 RewriteRule ^light-on-triathlon-madine/?$ https://www.lightontri.com/madine.html [R=301,L,NC]
 RewriteRule ^copie-de-light-on-tri-madine(-1)?/?$ https://www.lightontri.com/madine.html [R=301,L,NC]
+# Sous-pages "programme" de l'ancien site Wix (ex. /light-on-triathlon-madine/prog),
+# non couvertes par les règles ci-dessus (ancrées sur $) -> détecté en 404 par Google
+# Search Console le 22/10/2026, voir CLAUDE.md
+RewriteRule ^light-on-triathlon-woippy/prog/?$ https://www.lightontri.com/woippy-evenement.html#programme [R=301,NE,L,NC]
+RewriteRule ^light-on-triathlon-pierre-perc(e|%C3%A9|é)e/prog/?$ https://www.lightontri.com/pierre-percee-evenement.html#programme [R=301,NE,L,NC]
+RewriteRule ^light-on-triathlon-madine/prog/?$ https://www.lightontri.com/madine-evenement.html#programme [R=301,NE,L,NC]
 # Espaces participants : futur guide participant, sur la page « L'événement » de chaque lieu
 RewriteRule ^participants-woippy/?$ https://www.lightontri.com/woippy-evenement.html#guide [R=301,NE,L,NC]
 RewriteRule ^participants-pierre-percee/?$ https://www.lightontri.com/pierre-percee-evenement.html#guide [R=301,NE,L,NC]

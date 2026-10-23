@@ -54,7 +54,7 @@ Village LIGHT ON
 
 ### Tout se passe au Village LIGHT ON.
 
-Retrait des dossards, parc à vélo, arrivée et remise des récompenses : tout est au même endroit, supporters compris.
+Retrait des dossards, parc à vélo, arrivée, médaille finisher et remise des récompenses : tout est au même endroit, supporters compris.
 
 #### Retrait des dossards
 
@@ -70,7 +70,7 @@ Avec les boucles en vélo et en course à pied, vos proches vous voient passer p
 
 #### Remise des récompenses
 
-Podium S\* : 3 premiers hommes et 3 premières femmes. Sur le M\*\* : primes de 100, 75 et 50 €, plus le podium vétérans.
+**Médaille finisher pour chaque participant à l'arrivée**, du premier au dernier. Podium S\* : 3 premiers hommes et 3 premières femmes. Sur le M\*\* : primes de 100, 75 et 50 €, plus le podium vétérans.
 
 > La gentillesse des gens (bénévoles) ! Spéciale dédicace à MR Labdant parc à vélo qui accueille avec un grand sourire ! Tout était très bien bravo à vous !
 
@@ -201,6 +201,10 @@ Un transfert de dossard est possible jusqu'à 48h avant le premier retrait des d
 #### Y a-t-il des primes ?
 
 Oui, sur le M\*\* : 100, 75 et 50 € aux 3 premiers hommes et aux 3 premières femmes, plus un podium vétérans. Pas de prime sur le S\*.
+
+#### Est-ce que je reçois une médaille ?
+
+Oui. Chaque participant qui franchit la ligne d'arrivée reçoit sa médaille finisher, du premier au dernier, quel que soit son classement ou son temps.
 
 #### Mes proches peuvent-ils venir ?
 

@@ -76,7 +76,7 @@ Village LIGHT ON
 
 ### Tout se passe au Village LIGHT ON.
 
-Retrait des dossards, T2, course à pied, arrivée et remise des récompenses : tout se passe au lac de la Plaine, supporters compris. Seule la natation a lieu au lac du haut.
+Retrait des dossards, T2, course à pied, arrivée, médaille finisher et remise des récompenses : tout se passe au lac de la Plaine, supporters compris. Seule la natation a lieu au lac du haut.
 
 #### Retrait des dossards
 
@@ -92,7 +92,7 @@ T1 au lac de Pierre-Percée, après la natation. T2 au Village LIGHT ON, au lac 
 
 #### Remise des récompenses
 
-Podiums hommes et femmes sur chaque format. Primes sur le L\*\*\* (200, 150, 100 €) et le M\*\* (100, 75, 50 €), plus le podium vétérans.
+**Médaille finisher pour chaque participant à l'arrivée**, du premier au dernier. Podiums hommes et femmes sur chaque format. Primes sur le L\*\*\* (200, 150, 100 €) et le M\*\* (100, 75, 50 €), plus le podium vétérans.
 
 Pierre-Percée 2027
 
@@ -235,6 +235,10 @@ Un transfert de dossard est possible jusqu'à 48h avant le premier retrait des d
 #### Y a-t-il des primes ?
 
 Oui, sur le L\*\*\* (200, 150 et 100 € aux 3 premiers hommes et aux 3 premières femmes) et sur le M\*\* (100, 75 et 50 €), plus un podium vétérans sur ces deux formats. Pas de prime sur le S\*.
+
+#### Est-ce que je reçois une médaille ?
+
+Oui. Chaque participant qui franchit la ligne d'arrivée reçoit sa médaille finisher, du premier au dernier, quel que soit son classement ou son temps.
 
 #### Pourquoi deux parcs à vélo ?
 

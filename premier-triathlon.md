@@ -84,7 +84,7 @@ Vélo raccroché à sa place, chaussures de course aux pieds, et vous repartez p
 
 #### L'arrivée
 
-L'arche, le speaker, vos proches. Sur le S\*, il n'y a pas de temps limite : elle vous attend, quoi qu'il arrive.
+L'arche, le speaker, vos proches - et votre médaille finisher, remise à chaque participant qui franchit la ligne. Sur le S\*, il n'y a pas de temps limite : elle vous attend, quoi qu'il arrive.
 
 > Merci à tous les bénévoles pour vos encouragements !! Cela m'a beaucoup aidé pour mon premier triathlon.
 
@@ -119,6 +119,10 @@ Les questions qu'on nous pose
 #### Et si je finis dernier ?
 
 Sur le S\*, il n'y a pas de temps limite. L'arche reste ouverte, et les bénévoles applaudissent aussi fort pour le dernier que pour le premier.
+
+#### Est-ce que je reçois une médaille ?
+
+Oui. Chaque participant qui franchit la ligne d'arrivée reçoit sa médaille finisher, du premier au dernier, quel que soit son classement ou son temps.
 
 #### Faut-il être licencié ?
 

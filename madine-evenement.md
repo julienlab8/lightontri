@@ -96,7 +96,7 @@ Village LIGHT ON
 
 ### Tout se passe au Village LIGHT ON.
 
-L'aire d'arrivée, le LIGHT ON Shop et les exposants : c'est là que tout le monde se retrouve. Le retrait des dossards se fait à la Maison de Madine.
+L'aire d'arrivée, le LIGHT ON Shop et les exposants : c'est là que tout le monde se retrouve, médaille finisher en main. Le retrait des dossards se fait à la Maison de Madine.
 
 #### Le Village LIGHT ON
 
@@ -116,7 +116,7 @@ Sur le site de Madine 1, côté Nonsard-Lamarche. Ouverture 1h15 avant chaque d�
 
 #### Remise des récompenses
 
-L\*\*\* samedi à 16h30, Kids samedi à 12h00, RUN 7 KM samedi à 18h15, S\* dimanche à 11h00, M\*\* dimanche à 17h00. Primes sur le L\*\*\* et le M\*\*.
+**Médaille finisher pour chaque participant à l'arrivée**, du premier au dernier. L\*\*\* samedi à 16h30, Kids samedi à 12h00, RUN 7 KM samedi à 18h15, S\* dimanche à 11h00, M\*\* dimanche à 17h00. Primes sur le L\*\*\* et le M\*\*.
 
 > Merci l'organisation et les bénévoles tout au long du parcours, une aide pour signaler les virages dangereux a vraiment été apprécié pour ma part !!!
 
@@ -243,6 +243,10 @@ Un transfert de dossard est possible jusqu'à 48h avant le premier retrait des d
 #### Y a-t-il des primes ?
 
 Oui, sur le L\*\*\* (200, 150 et 100 € aux 3 premiers hommes et aux 3 premières femmes) et sur le M\*\* (100, 75 et 50 €), plus un podium vétérans sur ces deux formats. Pas de prime sur le S\*.
+
+#### Est-ce que je reçois une médaille ?
+
+Oui. Chaque participant qui franchit la ligne d'arrivée reçoit sa médaille finisher, du premier au dernier, quel que soit son classement ou son temps.
 
 #### Mes proches peuvent-ils venir ?
 

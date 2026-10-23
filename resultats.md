@@ -286,6 +286,226 @@ RUN 7 KM
 
 **Geoffrey L.** | L\*\*\* · Madine 2026
 
+Archives
+
+### Résultats des éditions précédentes.
+
+Classements complets et podiums de Woippy\*\* et Madine\*\*\* 2025.
+
+#### Édition 2025
+
+#### Woippy\*\*
+
+#### S\*
+
+259 finishers
+
+#### M\*\*
+
+167 finishers
+
+#### RUN 6 KM
+
+28 finishers
+
+S\*
+
+#### S\*
+
+259 finishers.
+
+##### Podium Hommes
+
+- 1er. WORMS Emmanuel - 57:44
+
+- 2e. MAUCCI Luca - 59:19
+
+- 3e. DELFORGE Thibaut - 59:31
+
+##### Podium Femmes
+
+- 1re. RIEDER Noa MarieS1F · 1re de cat. - 1:01:56
+
+- 2e. WATELIN SaloméS2F · 1re de cat. - 1:06:08
+
+- 3e. GAVOILLE MarieS1F · 2e de cat. - 1:06:38
+
+M\*\*
+
+#### M\*\*
+
+167 finishers.
+
+##### Podium Hommes
+
+- 1er. BIDAUX Jules - 2:05:59
+
+- 2e. MATHIEU Lucas - 2:10:45
+
+- 3e. GAILLARD Yoann - 2:13:14
+
+##### Podium Femmes
+
+- 1re. MURATET AliceS1F · 1re de cat. - 2:41:56
+
+- 2e. HEMMER KathleenS3F · 1re de cat. - 2:51:50
+
+- 3e. TINANT ChloéS3F · 2e de cat. - 2:52:55
+
+RUN 6 KM
+
+#### RUN 6 KM
+
+28 finishers.
+
+##### Podium Hommes
+
+- 1er. PARRICO Anthony - 19:37
+
+- 2e. BOUCHAFRA-HENNEQUIN Ismaël - 21:26
+
+- 3e. KOCZANSKI Guillaume - 22:16
+
+##### Podium Femmes
+
+- 1re. WEYLAND PaulineM0F · 1re de cat. - 24:20
+
+- 2e. LASCOMBE JustineSEF · 1re de cat. - 30:41
+
+- 3e. GUYOT ClaireSEF · 2e de cat. - 32:14
+
+#### Madine\*\*\*
+
+#### S\*
+
+575 finishers
+
+#### M\*\*
+
+485 finishers
+
+#### L\*\*\*
+
+174 finishers
+
+#### Mini-Kids
+
+35 finishers
+
+#### Kids
+
+34 finishers
+
+S\*
+
+#### S\*
+
+575 finishers.
+
+##### Podium Hommes
+
+- 1er. WORMS Emmanuel - 58:31
+
+- 2e. SCHIFFMANN Rémi - 1:00:50
+
+- 3e. ROYNETTE Victor - 1:01:04
+
+##### Podium Femmes
+
+- 1re. HENRY SuzanneSEF · 1re de cat. - 1:07:43
+
+- 2e. HUGUET-RAIWISQUE SoniaVEF · 1re de cat. - 1:11:03
+
+- 3e. THIEBAUT PaulineSEF · 2e de cat. - 1:11:26
+
+M\*\*
+
+#### M\*\*
+
+485 finishers.
+
+##### Podium Hommes
+
+- 1er. BERNARD Erwan - 2:11:00
+
+- 2e. STOFFEL Poli - 2:13:37
+
+- 3e. CALTE Pierre - 2:14:00
+
+##### Podium Femmes
+
+- 1re. GEISLER MarianneSEF · 1re de cat. - 2:43:38
+
+- 2e. OTT AxelleSEF · 2e de cat. - 2:46:45
+
+- 3e. CALTE MarieSEF · 3e de cat. - 2:47:11
+
+L\*\*\*
+
+#### L\*\*\*
+
+174 finishers.
+
+##### Podium Hommes
+
+- 1er. VOILLIOT Thibault - 4:24:54
+
+- 2e. SUIRE Aubin - 4:27:42
+
+- 3e. FLORIMOND Alexandre - 4:29:18
+
+##### Podium Femmes
+
+- 1re. VALANCE SégolèneSEF · 1re de cat. - 4:52:24
+
+- 2e. FLORIMOND AdelineVEF · 1re de cat. - 5:17:01
+
+- 3e. HASCOET SophieSEF · 2e de cat. - 5:24:22
+
+Mini-Kids
+
+#### Mini-Kids
+
+35 finishers.
+
+##### Podium Hommes
+
+- 1er. BERTOLINI Antoine - 07:47
+
+- 2e. CHOTIN Marceau - 07:49
+
+- 3e. GERGEN Justin - 07:59
+
+##### Podium Femmes
+
+- 1re. DARRAS CelestinePOF · 1re de cat. - 09:06
+
+- 2e. GRANDEURY AmbrePOF · 2e de cat. - 10:19
+
+- 3e. BACCICHETTI IsoldaPOF · 3e de cat. - 10:31
+
+Kids
+
+#### Kids
+
+34 finishers.
+
+##### Podium Hommes
+
+- 1er. CHOTIN Gabin - 19:00
+
+- 2e. THOMAS Noé - 19:29
+
+- 3e. LARIVIERE Hugo - 19:51
+
+##### Podium Femmes
+
+- 1re. PERROT JulietteBEF · 1re de cat. - 20:49
+
+- 2e. GERVAISE LouiseBEF · 2e de cat. - 21:18
+
+- 3e. GOCYK MéganeBEF · 3e de cat. - 22:04
+
 ### Envie d'y figurer en 2027 ?
 
 Inscriptions ouvertes.
