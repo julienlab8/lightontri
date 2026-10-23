@@ -290,7 +290,7 @@ Archives
 
 ### Résultats des éditions précédentes.
 
-Classements complets et podiums de Woippy\*\* et Madine\*\*\* 2025.
+Classements complets et podiums de Woippy\*\* et Madine\*\*\* depuis 2020.
 
 #### Édition 2025
 
@@ -505,6 +505,446 @@ Kids
 - 2e. GERVAISE LouiseBEF · 2e de cat. - 21:18
 
 - 3e. GOCYK MéganeBEF · 3e de cat. - 22:04
+
+#### Édition 2024
+
+#### Woippy\*\*
+
+#### S\*
+
+216 finishers
+
+#### M\*\*
+
+99 finishers
+
+S\*
+
+#### S\*
+
+216 finishers.
+
+##### Podium Hommes
+
+- 1er. ANGAUD Augustin - 55:06
+
+- 2e. COURTIOL Jordan - 56:02
+
+- 3e. FRANÇOIS Victor - 56:03
+
+##### Podium Femmes
+
+- 1re. WATELIN SaloméS2F · 1re de cat. - 1:01:57
+
+- 2e. BEAUD AliceS2F · 2e de cat. - 1:05:55
+
+- 3e. MURATET AliceS1F · 1re de cat. - 1:06:10
+
+M\*\*
+
+#### M\*\*
+
+99 finishers.
+
+##### Podium Hommes
+
+- 1er. BIDAUX Jules - 2:19:50
+
+- 2e. SUBLON Robin - 2:23:36
+
+- 3e. GEORIS Sylvain - 2:26:26
+
+##### Podium Femmes
+
+- 1re. VALANCE SégolèneS3F · 1re de cat. - 2:42:40
+
+- 2e. ECKER SamanthaS3F · 2e de cat. - 3:03:24
+
+- 3e. MINET VéroniqueS4F · 1re de cat. - 3:16:19
+
+#### Madine\*\*\*
+
+#### S\*
+
+424 finishers
+
+#### M\*\*
+
+448 finishers
+
+S\*
+
+#### S\*
+
+424 finishers.
+
+##### Podium Hommes
+
+- 1er. CALTÉ Pierre - 59:32
+
+- 2e. WORMS Emmanuel - 1:01:34
+
+- 3e. MAXANT Gaëtan - 1:01:55
+
+##### Podium Femmes
+
+- 1re. TITOTTO-MERLOT JulietteSEF · 1re de cat. - 1:07:17
+
+- 2e. BUCCIARELLI CamilleJUF · 1re de cat. - 1:09:08
+
+- 3e. KOENIG AmélieSEF · 2e de cat. - 1:09:29
+
+M\*\*
+
+#### M\*\*
+
+448 finishers.
+
+##### Podium Hommes
+
+- 1er. DIETRICH Amaury - 1:52:28
+
+- 2e. BIDAUX Jules - 1:58:09
+
+- 3e. OCHEM Nolan - 1:58:16
+
+##### Podium Femmes
+
+- 1re. GOUNOT ElodieSEF · 1re de cat. - 2:25:56
+
+- 2e. MURATET AliceSEF · 2e de cat. - 2:26:20
+
+- 3e. HUGUET-RAIWISQUE SoniaVEF · 1re de cat. - 2:27:13
+
+#### Édition 2023
+
+#### Woippy\*\*
+
+#### S\*
+
+193 finishers
+
+#### M\*\*
+
+119 finishers
+
+S\*
+
+#### S\*
+
+193 finishers.
+
+##### Podium Hommes
+
+- 1er. PLAS Guillaume - 57:49
+
+- 2e. ANGAUD Augustin - 58:20
+
+- 3e. DELFORGE Thibaut - 58:24
+
+##### Podium Femmes
+
+- 1re. GAUNARD EvaSEF · 1re de cat. - 1:09:18
+
+- 2e. GILLET EmelieSEF · 2e de cat. - 1:11:09
+
+- 3e. CASSARD FlorenceSEF · 3e de cat. - 1:12:02
+
+M\*\*
+
+#### M\*\*
+
+119 finishers.
+
+##### Podium Hommes
+
+- 1er. LAURIER Sébastien - 2:24:29
+
+- 2e. DELARBRE Virgile - 2:34:08
+
+- 3e. SALARI-PECCICA Arthur - 2:34:47
+
+##### Podium Femmes
+
+- 1re. MINET VéroniqueSEF · 1re de cat. - 3:08:49
+
+- 2e. NOEL AlexandraV2F · 1re de cat. - 3:14:28
+
+- 3e. FEUILLAT PrivatineSEF · 2e de cat. - 3:20:12
+
+#### Madine\*\*\*
+
+#### S\*
+
+372 finishers
+
+#### M\*\*
+
+382 finishers
+
+S\*
+
+#### S\*
+
+372 finishers.
+
+##### Podium Hommes
+
+- 1er. LAGARDE Antonin - 56:13
+
+- 2e. HIRSCHAUER Rémi - 56:40
+
+- 3e. CALTE Pierre - 57:38
+
+##### Podium Femmes
+
+- 1re. WATELIN SaloméS1F · 1re de cat. - 1:08:37
+
+- 2e. CADAS CloéS1F · 2e de cat. - 1:09:36
+
+- 3e. MICHEL SophieS1F · 3e de cat. - 1:13:12
+
+M\*\*
+
+#### M\*\*
+
+382 finishers.
+
+##### Podium Hommes
+
+- 1er. PINHEIRO Kévin - 2:00:42
+
+- 2e. BRIZION Vincent - 2:01:03
+
+- 3e. REDING Francois - 2:01:37
+
+##### Podium Femmes
+
+- 1re. VALANCE SégolèneS1F · 1re de cat. - 2:13:56
+
+- 2e. ECKER SamanthaS1F · 2e de cat. - 2:25:59
+
+- 3e. PERRIN CharlotteS1F · 3e de cat. - 2:27:42
+
+#### Édition 2022
+
+#### Madine\*\*\*
+
+#### S\*
+
+325 finishers
+
+#### M\*\*
+
+325 finishers
+
+S\*
+
+#### S\*
+
+325 finishers.
+
+##### Podium Hommes
+
+- 1er. LAGARDE Antonin - 1:00:47
+
+- 2e. BOILEAU Thomas - 1:01:26
+
+- 3e. CALTE Pierre - 1:02:05
+
+##### Podium Femmes
+
+- 1re. TITOTTO-MERLOT JulietteSE · 6e de cat. - 1:09:17
+
+- 2e. BUCCIARELLI CamilleCA · 4e de cat. - 1:10:24
+
+- 3e. SCHUHMACHER MorganeSE · 12e de cat. - 1:13:03
+
+M\*\*
+
+#### M\*\*
+
+325 finishers.
+
+##### Podium Hommes
+
+- 1er. DES BOSCS Arnaud - 1:54:25
+
+- 2e. LAWSON Theotime - 1:58:31
+
+- 3e. BRIZION Vincent - 1:58:45
+
+##### Podium Femmes
+
+- 1re. JOLIVET LucieSE · 12e de cat. - 2:11:56
+
+- 2e. VALANCE SégolèneSE · 15e de cat. - 2:13:54
+
+- 3e. PERRIN CharlotteSE · 37e de cat. - 2:25:07
+
+#### Édition 2021
+
+#### Madine\*\*\*
+
+#### S\*
+
+367 finishers
+
+#### M\*\*
+
+311 finishers
+
+#### L\*\*\*
+
+66 finishers
+
+S\*
+
+#### S\*
+
+367 finishers.
+
+##### Podium Hommes
+
+- 1er. BIDAUX Jules - 1:00:36
+
+- 2e. BIDAUX Louis - 1:01:46
+
+- 3e. LESOUDER Anthony - 1:02:25
+
+##### Podium Femmes
+
+- 1re. BRIOT CharlotteS2 · 7e de cat. - 1:09:49
+
+- 2e. SCHNEIDER CamilleS2 · 8e de cat. - 1:10:12
+
+- 3e. BUCCIARELLI CamilleCA · 8e de cat. - 1:10:28
+
+M\*\*
+
+#### M\*\*
+
+311 finishers.
+
+##### Podium Hommes
+
+- 1er. SAYER Thomas - 1:55:58
+
+- 2e. BERNOT Titouan - 1:57:20
+
+- 3e. DIETRICH Amaury - 1:58:22
+
+##### Podium Femmes
+
+- 1re. VALANCE SégolèneS3 · 8e de cat. - 2:18:51
+
+- 2e. JOLIVET LucieS2 · 5e de cat. - 2:21:31
+
+- 3e. BUFFET SENELLE LaurenceS4 · 8e de cat. - 2:23:15
+
+L\*\*\*
+
+#### L\*\*\*
+
+66 finishers.
+
+##### Podium Hommes
+
+- 1er. FANET William - 4:12:48
+
+- 2e. DOMANICO Baptiste - 4:16:39
+
+- 3e. PINHEIRO Kévin - 4:25:39
+
+##### Podium Femmes
+
+- 1re. BERTELOODT ElodieS2 · 4e de cat. - 5:11:07
+
+- 2e. LAPP MelissaS3 · 5e de cat. - 5:15:22
+
+- 3e. BOINNARD AliceS2 · 5e de cat. - 5:37:15
+
+#### Édition 2020
+
+#### Madine\*\*\*
+
+#### S\*
+
+335 finishers
+
+#### M\*\*
+
+341 finishers
+
+#### L\*\*\*
+
+179 finishers
+
+S\*
+
+#### S\*
+
+335 finishers.
+
+##### Podium Hommes
+
+- 1er. WORMS Emmanuel - 1:01:37
+
+- 2e. SCHNEIDER Alexis - 1:02:41
+
+- 3e. POIREL Baptiste - 1:04:12
+
+##### Podium Femmes
+
+- 1re. PEREIRA EmilieS1 · 3e de cat. - 1:12:47
+
+- 2e. ZELLMEYER CamilleS2 · 8e de cat. - 1:13:10
+
+- 3e. SCHUHMACHER MorganeS2 · 10e de cat. - 1:14:39
+
+M\*\*
+
+#### M\*\*
+
+341 finishers.
+
+##### Podium Hommes
+
+- 1er. BAHEUX Tony - 2:03:55
+
+- 2e. FRANCISCO Jérémy - 2:07:48
+
+- 3e. MAUREL Romain - 2:09:59
+
+##### Podium Femmes
+
+- 1re. JOLIVET LucieS2 · 6e de cat. - 2:21:14
+
+- 2e. LOUPPE StephanieV1 · 5e de cat. - 2:22:44
+
+- 3e. SALELLES MarionS2 · 11e de cat. - 2:33:41
+
+L\*\*\*
+
+#### L\*\*\*
+
+179 finishers.
+
+##### Podium Hommes
+
+- 1er. PERCHE Antoine - 4:01:45
+
+- 2e. PAREYN Pamphiel - 4:04:46
+
+- 3e. PERNET Benjamin - 4:08:34
+
+##### Podium Femmes
+
+- 1re. MARTIN AnaïsS3 · 4e de cat. - 4:45:28
+
+- 2e. FANOY LeanneS1 · 2e de cat. - 4:49:40
+
+- 3e. MORIN SylvieS4 · 10e de cat. - 5:07:49
 
 ### Envie d'y figurer en 2027 ?
 
