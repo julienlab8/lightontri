@@ -294,6 +294,8 @@ Classements complets et podiums de Woippy\*\* et Madine\*\*\* depuis 2020.
 
 #### Édition 2025
 
+Woippy\*\* Madine\*\*\*
+
 #### Woippy\*\*
 
 Dimanche 18 mai 2025.
@@ -512,6 +514,8 @@ Kids
 
 #### Édition 2024
 
+Woippy\*\* Madine\*\*\*
+
 #### Woippy\*\*
 
 Dimanche 19 mai 2024.
@@ -625,6 +629,8 @@ M\*\*
 - 3e. HUGUET-RAIWISQUE SoniaVEF · 1re de cat. - 2:27:13
 
 #### Édition 2023
+
+Woippy\*\* Madine\*\*\*
 
 #### Woippy\*\*
 
