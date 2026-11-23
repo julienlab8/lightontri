@@ -105,6 +105,14 @@ RewriteRule ^copie-de-light-on-tri-madine(-1)?/?$ https://www.lightontri.com/mad
 RewriteRule ^light-on-triathlon-woippy/prog/?$ https://www.lightontri.com/woippy-evenement.html#programme [R=301,NE,L,NC]
 RewriteRule ^light-on-triathlon-pierre-perc(e|%C3%A9|é)e/prog/?$ https://www.lightontri.com/pierre-percee-evenement.html#programme [R=301,NE,L,NC]
 RewriteRule ^light-on-triathlon-madine/prog/?$ https://www.lightontri.com/madine-evenement.html#programme [R=301,NE,L,NC]
+# Toutes les autres sous-pages de l'ancien site Wix sous /light-on-triathlon-{lieu}/...
+# (programme, resultats, faq, tarifs, acces, contact, kids-1, kids-2, epreuves, half-iron,
+# madine-triathlon, triathlon-m...) : pas de mapping un par un réaliste (trop de variantes),
+# redirige vers la page « L'événement » du lieu, qui regroupe programme/lieu-accès/FAQ.
+# 16 sous-pages encore en 404 détectées par Google Search Console le 09/11/2026, voir CLAUDE.md.
+RewriteRule ^light-on-triathlon-woippy/.+$ https://www.lightontri.com/woippy-evenement.html [R=301,L,NC]
+RewriteRule ^light-on-triathlon-pierre-perc(e|%C3%A9|é)e/.+$ https://www.lightontri.com/pierre-percee-evenement.html [R=301,L,NC]
+RewriteRule ^light-on-triathlon-madine/.+$ https://www.lightontri.com/madine-evenement.html [R=301,L,NC]
 # Espaces participants : futur guide participant, sur la page « L'événement » de chaque lieu
 RewriteRule ^participants-woippy/?$ https://www.lightontri.com/woippy-evenement.html#guide [R=301,NE,L,NC]
 RewriteRule ^participants-pierre-percee/?$ https://www.lightontri.com/pierre-percee-evenement.html#guide [R=301,NE,L,NC]
