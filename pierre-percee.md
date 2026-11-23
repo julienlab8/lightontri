@@ -59,7 +59,7 @@ Non-licencié : 44 €
 
 Natation**0,5 km**
 
-Une boucle de 500 m dans le lac de Pierre-Percée, départ sur la plage.
+Une boucle de 500 m dans le lac de Pierre-Percée, départ et sortie depuis la cale de mise à l'eau.
 
 Vélo**20 km**
 
@@ -103,7 +103,7 @@ Non-licencié : 74 €
 
 Natation**1,5 km**
 
-Deux boucles de 750 m dans le lac de Pierre-Percée, avec sortie à l'australienne.
+Une seule boucle de 1 500 m dans le lac de Pierre-Percée, sans sortie à l'australienne.
 
 Vélo**40 km**
 
@@ -147,7 +147,7 @@ Non-licencié : 144 €
 
 Natation**1,9 km**
 
-Deux boucles de 950 m dans le lac de Pierre-Percée, avec sortie à l'australienne.
+Une seule boucle de 1 900 m dans le lac de Pierre-Percée, sans sortie à l'australienne.
 
 Vélo**90 km**
 

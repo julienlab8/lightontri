@@ -118,7 +118,7 @@ Vous prenez votre vélo jusqu'au parc à vélo de la natation, au lac de Pierre-
 
 #### Natation et T1
 
-Départ sur la plage du lac de Pierre-Percée, puis première transition au même endroit.
+Départ depuis la cale de mise à l'eau du lac de Pierre-Percée, puis première transition au même endroit.
 
 #### Vélo et T2
 
@@ -134,7 +134,7 @@ Base de loisirs de Celles-sur-Plaine (88110), au bord du lac de la Plaine : ret
 
 #### Départ natation
 
-Parking de l'Anse de Pierre-Percée, au bord du lac de Pierre-Percée, l'un des plus grands lacs de Lorraine. Vous y montez à vélo après le retrait des dossards : départ sur la plage et parc à vélo de la T1.
+Parking de l'Anse de Pierre-Percée, au bord du lac de Pierre-Percée, l'un des plus grands lacs de Lorraine. Vous y montez à vélo après le retrait des dossards : départ depuis la cale de mise à l'eau et parc à vélo de la T1.
 
 #### Venir
 
