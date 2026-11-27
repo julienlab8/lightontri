@@ -226,7 +226,7 @@ Non : les inscriptions se font uniquement en ligne, et les places sont limitée
 
 #### Comment marchent les packs ?
 
-Mettez 2 triathlons LIGHT ON TRI 2027 dans votre panier (S\*, M\*\* ou L\*\*\*, sur un ou plusieurs lieux) : -15 % automatiquement, sans code promo. Avec 3 triathlons : -20 %. Les packs sont nominatifs : les courses doivent être au nom de la même personne (trois dossards pour trois membres de la famille ne font pas un pack). Kids et RUN non compris.
+Mettez 2 triathlons LIGHT ON TRI 2027 dans votre panier (S\*, M\*\* ou L\*\*\*, sur un ou plusieurs lieux) : -15 % automatiquement, sans code promo. Avec 3 triathlons : -20 %. Les packs sont nominatifs : les courses doivent être au nom de la même personne (trois dossards pour trois membres de la famille ne font pas un pack). Kids et RUN non compris. [Composer mon pack](https://in.njuko.com/light-on-tri-2027)
 
 #### Je ne peux plus venir, que faire ?
 

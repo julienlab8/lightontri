@@ -1795,3 +1795,6 @@ a.pl-v:hover, a.pl-v:focus-visible { opacity: .8; text-decoration: underline; te
 .pl-how:hover { color: var(--accent); text-decoration-color: var(--accent); }
 a.pl-go { color: var(--text); text-decoration: none; border-bottom: 2px solid var(--accent); padding-bottom: 4px; }
 a.pl-go:hover, a.pl-go:focus-visible { color: var(--accent); }
+/* Liens dans les réponses de la FAQ */
+.faq-item p a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; }
+.faq-item p a:hover { color: var(--text); }
