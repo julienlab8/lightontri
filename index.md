@@ -105,9 +105,7 @@ S\*, M\*\* ou L\*\*\*, sur un ou plusieurs lieux : deux fois Pierre-Percée, Wo
 
 Packs valables sur les triathlons S\*, M\*\* et L\*\*\*, hors Kids et RUN.
 
-Pack 2 courses**-15%**2 triathlons, même participant
-
-Pack 3 courses**-20%**3 triathlons, même participant
+[Pack 2 courses**-15%**2 triathlons, même participant](https://in.njuko.com/light-on-tri-2027) [Pack 3 courses**-20%**3 triathlons, même participant](https://in.njuko.com/light-on-tri-2027)
 
 - [**Woippy\*\***16 mai](https://www.lightontri.com/woippy.html)
 
