@@ -275,7 +275,7 @@ Tarif : 12 €
 
 [Voir la trace sur OpenRunner](https://www.openrunner.com/route-details/21994023)
 
-[Packs saison-15 % 2 triathlons-20 % 3 triathlonsAutomatique dans le panier, au nom de la même personne. Hors Kids et RUN.Comment ça marche](https://www.lightontri.com/./#packs)
+Packs saison[-15 % 2 triathlons](https://in.njuko.com/light-on-tri-2027)[-20 % 3 triathlons](https://in.njuko.com/light-on-tri-2027)Automatique dans le panier, au nom de la même personne. Hors Kids et RUN. [Comment ça marche](https://www.lightontri.com/./#packs)[Composer mon pack](https://in.njuko.com/light-on-tri-2027)
 
 S'inscrire
 
